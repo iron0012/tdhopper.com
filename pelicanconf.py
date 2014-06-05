@@ -9,7 +9,7 @@ TIMEZONE = 'America/New_York'
 
 THEME = 'themes/pelican-svbhack'
 PLUGIN_PATH = "plugins"
-PLUGINS = ["latex"]
+PLUGINS = ["latex", 'pelican_gist']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
 DEFAULT_LANG = u'en'
 
