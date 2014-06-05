@@ -1,2 +1,10 @@
+todo.md
+todo_head.txt
+.gitignore
+/content/drafts
+.env
+*.attr
+*.pyc
 static/
 output/
+
