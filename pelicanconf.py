@@ -23,11 +23,10 @@ ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
 # Feed generation is usually not desired when developing
-# FEED_ALL_ATOM = None
-# CATEGORY_FEED_ATOM = None
+# FEED_ALL_ATOM = "feeds/%s"
+# CATEGORY_FEED_ATOM = "feeds/%s"
 # TRANSLATION_FEED_ATOM = None
-TAG_FEED = "feeds/%s"
-TAG_FEED_RSS = "feeds/%s"
+# TAG_FEED = "feeds/%s"
 
 # Blogroll
 LINKS =  ()
