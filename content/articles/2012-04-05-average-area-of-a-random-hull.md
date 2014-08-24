@@ -1,7 +1,7 @@
 Title: Average Area of a Random Hull
 Date: 2012-04-05 08:43:56
 Author: Tim
-Categories: Computing,
+Category: Computing,
 Slug: average-area-of-a-random-hull
 
 Yesterday, someone on MathOverflow asked

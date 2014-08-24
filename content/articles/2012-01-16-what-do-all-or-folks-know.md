@@ -1,10 +1,10 @@
 Title: What do all operations researchers know?
 Date: 2012-01-16 08:44:47
 Author: Tim
-Categories: OR Inside Baseball,
+Category: OR Inside Baseball,
 Slug: what-do-all-or-folks-know
 
-My friend [John Cook](http://www.johndcook.com/blog/) asked me an interesting question recently: 
+My friend [John Cook](http://www.johndcook.com/blog/) asked me an interesting question recently:
 
 > If you had a room full of people with a graduate degree in [operations research], what things would nearly everyone in the room know?
 

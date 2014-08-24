@@ -1,7 +1,7 @@
 Title: Operations Research and Computer Programming
 Date: 2012-07-12 09:21:57
 Author: Tim
-Categories: Research, OR Inside Baseball, Computing,
+Category: Research, OR Inside Baseball, Computing,
 Slug: operations-research-and-computer-programming
 
 For part of my sophomore year of college, I was a computer science major. When I realized that I loved my CS theory courses while my classmates hated them, I decide to major in math instead. I enjoyed the programming classes enough, but programming is not what I wanted to spend my time doing.
@@ -24,8 +24,8 @@ Third, I'm trying to write clean, object-oriented, well-commented code. My inten
 
 I realized that I've used the word _I_ as much as Stephen Wolfram blog post. I have no desire to toot my own horn here; I'm just thankful this conversation is happening, and I want to continue it. Good software is crucial to good operations research (both in the academy and out), and yet academic operations researchers, in my experience, talk very little about good software engineering practices. We can do better.
 
-[^1programming]: I'm eternally indebted to my brilliant research partner Evan who taught me how to use bash, vim, and subversion, among other things. 
+[^1programming]: I'm eternally indebted to my brilliant research partner Evan who taught me how to use bash, vim, and subversion, among other things.
 
 [^2programming]: I feel vindicated by a [recent thread on Hacker News](http://news.ycombinator.com/item?id=4199772).
 
-[^3programming]: Incidentally, here's a[n interesting Quora thread](http://www.quora.com/How-do-people-write-automated-tests-for-their-stochastic-algorithms) about testing stochastic algorithms. 
+[^3programming]: Incidentally, here's a[n interesting Quora thread](http://www.quora.com/How-do-people-write-automated-tests-for-their-stochastic-algorithms) about testing stochastic algorithms.

@@ -1,10 +1,10 @@
 Title: Stephen Wolfram&#039;s AMA
 Date: 2012-03-05 22:07:27
 Author: Tim
-Categories: Computing,
+Category: Computing,
 Slug: stephen-wolframs-ama
 
-Stephen Wolfram, of Wolfram Research and Mathematica fame, did a [Q&A (i.e. AMA) on Reddit](http://www.reddit.com/r/IAmA/comments/qisot/im_stephen_wolfram_mathematica_nks_wolframalpha/) today. I just enjoyed reading through his answers. A few interesting answers stood out to me. 
+Stephen Wolfram, of Wolfram Research and Mathematica fame, did a [Q&A (i.e. AMA) on Reddit](http://www.reddit.com/r/IAmA/comments/qisot/im_stephen_wolfram_mathematica_nks_wolframalpha/) today. I just enjoyed reading through his answers. A few interesting answers stood out to me.
 
 Someone ask Wolfram's opinion on P=NP. [He thinks it's undecidable](http://www.reddit.com/r/IAmA/comments/qisot/im_stephen_wolfram_mathematica_nks_wolframalpha/c3xy53q)[^1ama].
 
