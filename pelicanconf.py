@@ -13,6 +13,7 @@ PLUGINS = ["latex", 'pelican_gist']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
 DEFAULT_LANG = u'en'
 
+
 STATIC_PATHS = ['uploads']
 PAGE_DIR = 'pages'
 PAGE_URL = '{slug}/'
@@ -25,6 +26,8 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 # FEED_ALL_ATOM = None
 # CATEGORY_FEED_ATOM = None
 # TRANSLATION_FEED_ATOM = None
+TAG_FEED = "feeds/%s"
+TAG_FEED_RSS = "feeds/%s"
 
 # Blogroll
 LINKS =  ()
