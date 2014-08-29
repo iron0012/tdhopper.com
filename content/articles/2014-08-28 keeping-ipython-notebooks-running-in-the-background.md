@@ -24,6 +24,6 @@ I added three other launchd keys in LaunchControl:
 
 Here's how it looks in LaunchControl:
 
-![](uploads/2014/08/launchcontrol.png)
+![](/uploads/2014/08/launchcontrol.png)
 
 After I created it, I just had to save and load, and I was off to the races; the IPython kernel starts and runs in the background. I can access my Notebooks by navigating to 127.0.0.1:9777 in my browser. Actually, I added `127.0.0.1 parsely.scratch` to my hosts file so I can access my Notebooks at parsely.scratch:9777. This works nicely with Chrome's autocomplete feature. I'm avoiding the temptation to run nginx and give it an even prettier url. 
