@@ -105,7 +105,7 @@ My Hazel rule looks like this:
 
 ![](/uploads/2014/08/hazel-weight-1.png)
 
-The 'embedded script' that is run is _smooth\_weight.R_; I just have to tell Hazel to use the `Rscript` shell.[^install-R]
+The 'embedded script' that is run is the R script above; I just have to tell Hazel to use the `Rscript` shell.[^install-R]
 
 ![](/uploads/2014/08/r-script-from-hazel.png)
 
