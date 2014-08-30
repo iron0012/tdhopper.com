@@ -23,7 +23,7 @@ One IFTTT rule I have appends my weight to a text file in Dropbox. This file loo
 
 For a few months, I have been experimenting with using this time series to give myself a less-noisy update on my weight, and I've come up with a decent solution.
 
-This R script will take my weight time series, resample it, smooth it with a rolling median over the last month, and write summary stats to a text file in my Dropbox. It's not the prettiest script, but it gets the job done for now.[^format]
+This [R script](http://www.r-project.org/) will take my weight time series, resample it, smooth it with a rolling median over the last month, and write summary stats to a text file in my Dropbox. It's not the prettiest script, but it gets the job done for now.[^format]
 
 <script src="https://gist.github.com/tdhopper/ce7720dafbd9881a6f58.js"></script>
 
@@ -43,6 +43,10 @@ My Hazel rule looks like this:
 
 ![](/uploads/2014/08/hazel-weight-1.png)
 
+The 'embedded script' that is run is _smooth\_weight.R_; I just have to tell Hazel to use the `Rscript` shell.[^install-R]
+
+![](/uploads/2014/08/r-script-from-hazel.png)
+
 At this point, every time I step on my scale, a text file with readable statistics about my smoothed weight appear in my Dropbox folder. 
 
 Of course, I want this updated information to be pushed directly too me. Hazel is again the perfect tool for the job. I have a second Hazel rule that watches for _Weight Stats.txt_ to be created. Hazel can pass the path of the updated file into any script of your choice. You could, for example, use [Mailgun](http://www.mailgun.com/ "Transactional Email API Service for Developers - Mailgun") to email it to yourself or [Pushover](https://pushover.net/ "Pushover: Simple Notifications for Android, iOS, and Desktop") to push it to your mobile devices. Obviously, I want to tweet mine.
@@ -54,3 +58,4 @@ I have a Twitter account called [@hopsfitness](https://twitter.com/hopsfitness) 
 Since this data goes to Twitter, I can get it painlessly pushed to my phone: Twitter still allows you subscribe to accounts via text message, which I've done with @hopsfitness. A minute or so after I step on my scale, I get a text with useful information about where I am and where I'm going; this is much preferable to the noisy weight I see on my scale. 
 
  [^format]: This assumes your input file is formatted like mine, but you could easily adjust the first part of the code for other formats.
+ [^install-R]: You can [download R here](http://www.r-project.org/ "The R Project for Statistical Computing"); installing it should add `Rscript` to your system path.
