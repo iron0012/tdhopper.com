@@ -6,7 +6,7 @@ Category: Sundry Links
 
 [From zero to storm cluster for scikit-learn classification | Daniel Rodriguez](http://danielfrg.com/blog/2014/08/01/storm-sklearn/): This is a very cool, if brief, blog post on using [streamparse](https://github.com/Parsely/streamparse "Parsely/streamparse Âˇ GitHub"), my company's open source wrapper for [Apache Storm](https://storm.incubator.apache.org/ "Storm, distributed and fault-tolerant realtime computation"), and [scikit-learn](http://scikit-learn.org/stable/ "scikit-learn: machine learning in Python &mdash; scikit-learn 0.15.1 documentation"), [my favorite machine learning library](https://www.youtube.com/watch?v=2kx19t8bNMU "An Introduction to Scikit-Learn - YouTube"), to do machine learning on data streams.
 
-[Pythonic means idiomatic and tasteful](http://www.pixelmonkey.org/2010/11/03/pythonic-means-idiomatic-and-tasteful): My boss Andrew recently shared an old blogpost he wrote on what it means for code to be Pythonic; I think he's write on track.
+[Pythonic means idiomatic and tasteful](http://www.pixelmonkey.org/2010/11/03/pythonic-means-idiomatic-and-tasteful): My boss Andrew recently shared an old blogpost he wrote on what it means for code to be Pythonic; I think he's right on track.
 
 > Pythonic isn’t just idiomatic Python — it’s tasteful Python. It’s less an objective property of code, more a compliment bestowed onto especially nice Python code.
 
