@@ -25,7 +25,7 @@ When I launch that action in LCP, I get four prompts like this:
 
 ![](/uploads/2014/09/lcp2.png)
 
-After I fill out the four text fields, LCP uses the [x-callback URL](http://x-callback-url.com/) I defined to send that data to ![Pythonista](http://omz-software.com/pythonista/), a masterful "integrated development environment for writing Python scripts on iOS."
+After I fill out the four text fields, LCP uses the [x-callback URL](http://x-callback-url.com/) I defined to send that data to [Pythonista](http://omz-software.com/pythonista/), a masterful "integrated development environment for writing Python scripts on iOS."
 
 In Pythonista, I have a script called _New Production_. LCP passes the four metadata fields I entered as `sys.argv` variables to my Python script. The Python script adds these variables to a metadata dictionary that it then POSTs to the Auphonic API using the Python [_requests_](http://docs.python-requests.org/en/latest/) library. After briefly displaying the output from the Auphonic API, Pythonista returns me to LCP.
 
