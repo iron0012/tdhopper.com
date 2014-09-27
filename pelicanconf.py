@@ -7,11 +7,13 @@ SITENAME = u'Stigler Diet'
 SITEURL = 'http://stiglerdiet.com'
 TIMEZONE = 'America/New_York'
 
-THEME = 'themes/pelican-svbhack'
+THEME = '/Users/tdhopper/repos/pelican-svbhack'
 PLUGIN_PATH = "plugins"
-PLUGINS = ["latex", 'pelican_gist']
+PLUGINS = ["latex", 'pelican_gist', 'ipynb']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
 DEFAULT_LANG = u'en'
+MARKUP = ('md', 'ipynb')
+USER_LOGO_URL = 'uploads/logo.png'
 
 
 STATIC_PATHS = ['uploads']
