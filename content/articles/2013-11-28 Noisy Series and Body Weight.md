@@ -1,11 +1,11 @@
 Title: Noisy Series and Body Weight, Take 2
-Slug: noisy-series-and-body-weight
+Slug: noisy-series-and-body-weight-take-2
 Tags: ggplot, nerdery
 Author: Tim
 
-Back in July, I posted some [analysis of my attempt at weight loss](http://stiglerdiet.com/blog/2013/Jul/26/noisy-series-and-body-weight/). Now that I'm four months further down the line, I thought I'd post a follow-up. 
+Back in July, I posted some [analysis of my attempt at weight loss](http://stiglerdiet.com/blog/2013/Jul/26/noisy-series-and-body-weight/). Now that I'm four months further down the line, I thought I'd post a follow-up.
 
-I continue to be fascinated with how noisy my weight time series is. While I've continued to lose weight over time, my weight goes up two out of five mornings. 
+I continue to be fascinated with how noisy my weight time series is. While I've continued to lose weight over time, my weight goes up two out of five mornings.
 
 Here's a plot of the time series of my change in weight. Note how often the change is positive, i.e. I appear to have gained weight:
 
@@ -22,6 +22,6 @@ I have wondered recently if my average change in weight is correlated with the d
 Indeed, on Sundays and Mondays (i.e. weight change from Saturday morning to Sunday morning and Sunday morning to Monday morning) my median weight change is slightly above zero. This makes sense to me: on Saturdays, I'm more likely to be doing things with friends, and thus I have less control over my meals.[^beer]
 
 I wish I had a good explanation for why the change on Friday is so dramatic, but I don't. Any guesses?
- 
+
  [^beer]: Also, beer.
- [^investing]: I mentioned this to my college roommate who is a financial planner. He noted how similar this is to investing; it's a constant battle for him to convince his clients to look at _average_ behavior instead of daily changes. 
+ [^investing]: I mentioned this to my college roommate who is a financial planner. He noted how similar this is to investing; it's a constant battle for him to convince his clients to look at _average_ behavior instead of daily changes.
