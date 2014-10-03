@@ -8,8 +8,8 @@ Category: Sundry Links
 
 [Writing a Command-Line Tool in Python](http://nvie.com/posts/writing-a-cli-in-python-in-under-60-seconds/): Speaking of Python command line utilities, here's a little post from Vincent Driessen on writing them.
 
-[Iterables vs. Iterators vs. Generators](http://nvie.com/posts/iterators-vs-generators/): Vincent has been on a roll lately. He also wrote this "little pocket reference on iterables, iterators and generators" in Python. 
+[Iterables vs. Iterators vs. Generators](http://nvie.com/posts/iterators-vs-generators/): Vincent has been on a roll lately. He also wrote this "little pocket reference on iterables, iterators and generators" in Python.
 
-[Design for Continuous Experimentation: Talk and Slides](http://mcfunley.com/design-for-continuous-experimentation): I didn't watch the lecture, but Dan McKinley's slides on web experimentation are excellent. 
+[Design for Continuous Experimentation: Talk and Slides](http://mcfunley.com/design-for-continuous-experimentation): I didn't watch the lecture, but Dan McKinley's slides on web experimentation are excellent.
 
-[Apache Spark: A Delight for Developers](http://blog.cloudera.com/blog/2014/03/apache-spark-a-delight-for-developers/): I've been plying with PySpark lately and it really is fun. 
+[Apache Spark: A Delight for Developers](http://blog.cloudera.com/blog/2014/03/apache-spark-a-delight-for-developers/): I've been playing with PySpark lately, and it really is fun.
