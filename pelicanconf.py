@@ -9,7 +9,8 @@ SITENAME = u'Stigler Diet'
 SITEURL = 'http://stiglerdiet.com'
 TIMEZONE = 'America/New_York'
 
-THEME = join(expanduser("~"), 'repos/pelican-svbhack')
+THEME = '../pelican-svbhack'
+print THEME
 PLUGIN_PATH = "plugins"
 PLUGINS = ["latex", 'pelican_gist']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
@@ -33,7 +34,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 # TAG_FEED = "feeds/%s"
 
 # Blogroll
-LINKS =  ()
+# LINKS =
 
 # Social widget
 SOCIAL = (('Twitter', 'http://www.twitter.com/tdhopper'),
