@@ -7,4 +7,6 @@ todo_head.txt
 *.pyc
 static/
 output/
-
+cache/
+templates/
+screenshot.png

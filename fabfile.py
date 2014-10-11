@@ -19,9 +19,6 @@ def rebuild():
     clean()
     build()
 
-# def regenerate():
-#     local('pelican -r -s pelicanconf.py')
-
 def serve():
     local('cd {deploy_path} && python -m SimpleHTTPServer'.format(**env))
 
@@ -30,7 +27,8 @@ def reserve():
     serve()
 
 def preview():
-    local('pelican -o output content -s publishconf.py')
+    build()
+    serve()
 
 def publish():
     local('pelican -s publishconf.py content')
