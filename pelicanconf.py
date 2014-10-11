@@ -1,19 +1,21 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from os.path import expanduser, join
+
 
 AUTHOR = u'Tim Hopper'
 SITENAME = u'Stigler Diet'
 SITEURL = 'http://stiglerdiet.com'
 TIMEZONE = 'America/New_York'
 
-THEME = '/Users/tdhopper/repos/pelican-svbhack'
+THEME = join(expanduser("~"), 'repos/pelican-svbhack')
 PLUGIN_PATH = "plugins"
-PLUGINS = ["latex", 'pelican_gist', 'ipynb']
+PLUGINS = ["latex", 'pelican_gist']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
 DEFAULT_LANG = u'en'
 MARKUP = ('md', 'ipynb')
-USER_LOGO_URL = 'uploads/logo.png'
+USER_LOGO_URL = SITEURL + '/uploads/logo.png'
 
 
 STATIC_PATHS = ['uploads']
