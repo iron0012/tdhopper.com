@@ -1,4 +1,4 @@
-Title: Noisy Series and Body Weight, Take 2
+Title: Noisy Series and Body Weight Part 2
 Slug: noisy-series-and-body-weight-take-2
 Tags: ggplot, nerdery
 Author: Tim
