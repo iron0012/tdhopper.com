@@ -152,10 +152,10 @@ smoothed = pd.ewma(weight.weight, span=30)
 current = smoothed[-1]
 stats = """
 Weight (lbs): %(weight).1f
-Total Î”: %(total).1f
-1 Week Î”: %(week).1f
-1 Month Î”: %(month).1f
-1 Year Î”: %(year).1f
+Total Δ”: %(total).1f
+1 Week Δ”: %(week).1f
+1 Month Δ”: %(month).1f
+1 Year Δ”: %(year).1f
 """.strip() % {"weight": current,
                "total": current - smoothed[0],
                "week": current - smoothed[-8],
