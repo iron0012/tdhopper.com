@@ -119,5 +119,53 @@ I have a Twitter account called [@hopsfitness](https://twitter.com/hopsfitness) 
 
 Since this data goes to Twitter, I can get it painlessly pushed to my phone: Twitter still allows you subscribe to accounts via text message, which I've done with @hopsfitness. A minute or so after I step on my scale, I get a text with useful information about where I am and where I'm going; this is much preferable to the noisy weight I see on my scale.
 
+__Update__ (2014-12-06): I replaced my R script with a Python/pandas script. It requires Python 3 (to render the delta characters).
+
+```python
+import dateutil
+import pandas as pd
+import random
+from os.path import expanduser, join
+home = expanduser("~")
+
+
+with open(join(home, "Dropbox/Text Notes/Weight.txt"), "r") as f:
+    lines = f.readlines()
+
+
+def parse_line(line):
+    s = line.split(" ")
+    weight = float(s[0])
+    date = dateutil.parser.parse(' '.join(s[1:4]))
+    return date, weight
+
+weight = pd.DataFrame([parse_line(l) for l in lines], columns=["date", "weight"]) \
+    .set_index("date") \
+    .resample("1D", how="mean")
+weight["missing"] = weight.weight.isnull()
+weight.weight = weight.weight.interpolate(method="linear")
+std = weight.weight.diff().dropna().std()
+noise = weight.missing.map(lambda missing: random.normalvariate(0, std) if missing else 0)
+weight.weight = weight.weight + noise
+
+smoothed = pd.ewma(weight.weight, span=30)
+current = smoothed[-1]
+stats = """
+Weight (lbs): %(weight).1f
+Total Î”: %(total).1f
+1 Week Î”: %(week).1f
+1 Month Î”: %(month).1f
+1 Year Î”: %(year).1f
+""".strip() % {"weight": current,
+               "total": current - smoothed[0],
+               "week": current - smoothed[-8],
+               "month": current - smoothed[-32],
+               "year": current - smoothed[-366],
+               }
+
+with open(join(home, "Dropbox/Text Notes/Weight Stats.txt"), "w") as f:
+    f.write(stats)
+```
+
  [^format]: This assumes your input file is formatted like mine, but you could easily adjust the first part of the code for other formats.
  [^install-R]: You can [download R here](http://www.r-project.org/ "The R Project for Statistical Computing"); installing it should add `Rscript` to your system path.
