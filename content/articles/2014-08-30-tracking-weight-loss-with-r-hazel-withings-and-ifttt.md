@@ -163,8 +163,9 @@ Total Δ: %(total).1f
                "year": current - smoothed[-366],
                }
 
-with open(join(home, "Dropbox/Text Notes/Weight Stats.txt"), "w") as f:
-    f.write(stats)
+with open(join(home, "Dropbox/Text Notes/Weight Stats.txt"), "wb") as f:
+    f.write(bytes(stats, 'UTF-8'))
+
 ```
 
  [^format]: This assumes your input file is formatted like mine, but you could easily adjust the first part of the code for other formats.
