@@ -3,12 +3,14 @@ Slug: should-i-do-a-Ph.D.-john-d-cook
 Date: 2013-08-22 19:08:25
 Category: should-i-do-a-phd
 
+__Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
+
 To start my [series of interviews](http://stiglerdiet.com/category/should-i-do-a-phd.html) on the question "Should I do a Ph.D.?", I asked John Cook several questions.
 
 _A 22-year old college student has been accepted to a Ph.D. program in a technical field. He's academically talented, and he's always enjoyed school and his subject matter. His acceptance is accompanied with five years of guaranteed funding. He doesn't have any job offers, but he suspects he could get a decent job as a software developer. He's not sure what to do. What advice would you give him?_
 
 __John__: There are basically two reasons to get a Ph.D.: personal satisfaction, and credentials for a job requiring a Ph.D. It's hard to say what the financial return is on a Ph.D. Some say it lowers your earning potential, but that's confounded by the fact that people with Ph.D.'s tend to seek high security rather than high compensation employment. Some say a Ph.D. increases your earning potential, but they often don't account for the work experience you could have gained by working during the time it takes to complete a degree.
- 
+
 _Would you recommend he take some time off prior to grad school, or should he jump right in?_
 
 __John__: Whether to go straight into grad school would depend on personal circumstances. It could be good to take some time to evaluate whether you really want to go to grad school or whether you are just doing that just because it's a natural continuation of what you've been doing for the past 17 years. If you're sure you want to do grad school, it's probably best to keep going and not lose momentum.

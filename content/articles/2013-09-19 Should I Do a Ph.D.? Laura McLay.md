@@ -2,6 +2,8 @@ Title: Should I Do a Ph.D.? Laura McLay
 Slug: should-i-do-a-phd-laura-mclay
 Category: should-i-do-a-phd
 
+__Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
+
 Continuing [my series](http://stiglerdiet.com/category/should-i-do-a-phd.html), I talked to Laura McLay, a professor at University of Wisconsin-Madison.
 
 _A 22-year old college student has been accepted to a Ph.D. program in a technical field. He's academically talented, and he's always enjoyed school and his subject matter. His acceptance is accompanied with 5-years of guaranteed funding. He doesn't have any job offers but suspects he could get a decent job as a software developer. He's not sure what to do. What advice would you give him, or what questions might you suggest he ask himself as he goes about making the decision?_

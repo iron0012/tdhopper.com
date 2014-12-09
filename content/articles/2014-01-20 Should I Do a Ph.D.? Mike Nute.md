@@ -3,7 +3,9 @@ Slug: should-i-do-a-phd-mike-nute
 Author: Tim
 Category: should-i-do-a-phd
 
-A day late, but never a dollar short, the next contributor to [my series](http://stiglerdiet.com/category/should-i-do-a-phd.html) on whether or not a college senior should consider getting a Ph.D. is [Mike Nute](https://twitter.com/michaelnute), a current Ph.D. student. Mike scoffed at my banal interview format and instead wrote an open letter to a hypothetical student.  
+__Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
+
+A day late, but never a dollar short, the next contributor to [my series](http://stiglerdiet.com/category/should-i-do-a-phd.html) on whether or not a college senior should consider getting a Ph.D. is [Mike Nute](https://twitter.com/michaelnute), a current Ph.D. student. Mike scoffed at my banal interview format and instead wrote an open letter to a hypothetical student.
 
 ------
 

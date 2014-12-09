@@ -2,9 +2,11 @@ Title: Should I Do a Ph.D.? Eric Jonas
 Slug: should-i-do-a-phd-eric-jonas
 Category: should-i-do-a-phd
 
-For my third [interview on this question](http://stiglerdiet.com/tag/should-i-do-a-phd.html "Tag: should-i-do-a-phd"), I talked with (soon-to-be Dr.) Eric Jonas. Eric is a Ph.D. candidate in computational neurobiology and, because of a very unique Ph.D. experience, brings a unique perspective to this question. 
+__Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
 
-If you have any feedback on this series, please share it with me. I'm compiling feedback for a wrapup post at the end. 
+For my third [interview on this question](http://stiglerdiet.com/tag/should-i-do-a-phd.html "Tag: should-i-do-a-phd"), I talked with (soon-to-be Dr.) Eric Jonas. Eric is a Ph.D. candidate in computational neurobiology and, because of a very unique Ph.D. experience, brings a unique perspective to this question.
+
+If you have any feedback on this series, please share it with me. I'm compiling feedback for a wrapup post at the end.
 
 _A 22-year old college student has been accepted to a Ph.D. program
 in a technical field. He's academically talented, and he's always

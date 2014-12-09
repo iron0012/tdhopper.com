@@ -2,11 +2,13 @@ Title: Should I Do a Ph.D.? Paul Rubin
 Slug: should-i-do-a-phd-paul-rubin
 Category: should-i-do-a-phd
 
-For the second interview, I talked to Paul Rubin, Professor Emeritus of Management Science at Michigan State University. 
+__Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
 
-_A 22-year old college student has been accepted to a Ph.D. program in a technical field. He's academically talented, and he's always enjoyed school and his subject matter. His acceptance is accompanied with 5-years of guaranteed funding. He doesn't have any job offers but suspects he could get a decent job as a software developer. He's not sure what to do. What advice would you give him, or what questions might you suggest he ask himself as he goes about making the decision?_ 
+For the second interview, I talked to Paul Rubin, Professor Emeritus of Management Science at Michigan State University.
 
-__Paul:__ 
+_A 22-year old college student has been accepted to a Ph.D. program in a technical field. He's academically talented, and he's always enjoyed school and his subject matter. His acceptance is accompanied with 5-years of guaranteed funding. He doesn't have any job offers but suspects he could get a decent job as a software developer. He's not sure what to do. What advice would you give him, or what questions might you suggest he ask himself as he goes about making the decision?_
+
+__Paul:__
 
 1. Do you want to be a college professor who teaches and does research, do you want to teach college but not do research, or do you want to get a job in industry (including government, non-profits etc. in that category)? The first path requires a Ph.D.. The second path may require a Ph.D. if you want to work at some private colleges, but it may also be possible to get a good teaching job with just a masters degree (which will put you into the salary pool faster). With the third category, it varies. There are quite a few industry jobs that require only a bachelor's or masters degree, while some require a Ph.D..
 
@@ -33,7 +35,7 @@ In most technical disciplines, on the other hand, a Ph.D. thoroughly subsumes a 
 The remaining case is when the masters is in a different, complementary discipline. In my case, I earned bachelors and doctoral degrees in mathematics but a masters degree in probability and statistics. For someone in operations research, even if they work primarily on deterministic models (as in my case), and understanding of statistics is useful when estimating model parameters from actual data, and understanding of hypothesis testing is useful when trying to prove that your algorithm is better than the previous benchmark, and an understanding of probability theory is useful in a variety of contexts. I also considered a masters in computer science -- knowing data structures, database management principles and the essence of how compiled code works have all proven useful -- but ended up filling those gaps just by course work.
 
 _Admission and funding aside, what should a potential Ph.D. student look for in a graduate program?_
- 
+
 __Paul:__ If you are aiming at an academic career, look at the job placements for recent graduates. Take a look at publication records for faculty (these days, you can usually find that on a web site at the school), and see if they are active in research. If you know you are interested in a particular subdiscipline (integer programming, compiler design, bionic limbs), look specifically for faculty active in that area. Not only will you want courses or seminars of relevance, but you will need a dissertation chair who has some clue about your topic. Finally, if you can get in touch with a few of their students, try to sniff out what the culture of the relevant department is like, and whether the faculty you most likely would prefer as mentors are accessible, pleasant to work with, and willing to take on students. (A somewhat common misconception among applicants is that you can pick your dissertation advisor. It generally requires mutual consent.) Senior students (the kind you want to quiz) often attend professional meetings (for job hunting as well as for the other attractions of the meeting); that might be a good place to try to make new friends.
 
 _If you could do it over again, would you make any changes to the way you went about getting a Ph.D.?_

@@ -2,17 +2,19 @@ Title: Should I Do a Ph.D.? Carl Vogel
 Slug: should-i-do-a-phd-carl-vogel
 Category: should-i-do-a-phd
 
-For my next interview, I talked to Carl Vogel, an economic consultant in New York. 
+__Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
+
+For my next interview, I talked to Carl Vogel, an economic consultant in New York.
 
 _A 22-year old college student has been accepted to a Ph.D. program in a technical field. She's academically talented, and she's always enjoyed school and her subject matter. Her acceptance is accompanied with 5-years of guaranteed funding. She doesn't have any job offers but suspects she could get a decent job as a software developer. She's not sure what to do. What advice would you give her, or what questions might you suggest she ask himself as she goes about making the decision?_
 
 __Carl:__ The world is full of miserable grad students. Stressed-out, depressed, uncertain about when or if they'll graduate and what will happen to them when they do. Far more people go into Ph.D. programs than should. There are a two main reasons for this, I think. One is that for kids who've only really ever gone to school, and have been successful at it, grad school seems like a natural next step, and a career in academia seems pretty great. The other is that bright, academically talented twenty-two year olds just don't know themselves very well; they tend to be overly-optimistic about their abilities and their prospects. They've never really known failure or crippling self-doubt, and just can't imagine it as a real possibility.
 
-So I'd suggest the healthiest way to think of grad school is not as a default next step---as "undergrad 2.0"---but to realize that it's a tremendous commitment in terms of time and psychological endurance and lost income. She's going to be giving up a huge chunk of her prime years. And during this time, the positive feedback she's gotten from professors and peers is going to disappear. The cycle of challenges and accomplishments she's been used to is going to be replaced by an intangible but ever expanding nebula of expectations and her every victory will be fleeting, unacknowledged, and Pyrrhic. 
+So I'd suggest the healthiest way to think of grad school is not as a default next step---as "undergrad 2.0"---but to realize that it's a tremendous commitment in terms of time and psychological endurance and lost income. She's going to be giving up a huge chunk of her prime years. And during this time, the positive feedback she's gotten from professors and peers is going to disappear. The cycle of challenges and accomplishments she's been used to is going to be replaced by an intangible but ever expanding nebula of expectations and her every victory will be fleeting, unacknowledged, and Pyrrhic.
 
 The needle on the Ph.D. gauge should start at "No." If she isn't really aware of what jobs she could do in her field, and what those look like in terms of career progression, she should definitely do that research. Software development is fine, especially if it's in a context related to her intellectual interests, and there's a possibility of learning, growing, and doing a variety of interesting work. She shouldn't take a job that doesn't excite her intellectually, unless she's really strapped for the cash or has a pile of school debt. At this age, she's got the chance to take a little financial risk for the chance to learn and get new experiences. There are a ton of interesting problems to work on in industry. She should make a real effort to see if any of those excite her. School isn't the only place to learn and do research.
 
-To move the needle on the Ph.D. gauge to "Yes," I'd propose a 3-part process. Let's call the parts the Reality Check, the Personality Test, and the Skills Checklist. 
+To move the needle on the Ph.D. gauge to "Yes," I'd propose a 3-part process. Let's call the parts the Reality Check, the Personality Test, and the Skills Checklist.
 
 
 **The Reality Check:**
@@ -46,7 +48,7 @@ Can she give one or, preferably, more examples of times working on a research pr
 
 Not all of these skills are necessary for someone going into a Ph.D. program---indeed, part of the point of grad school is to obtain these skills. But the more she goes in with, the less pain she's going to feel. If she's answering no to most of these, she'll want to hold off on a Ph.D.
 
-1. Is she comfortable with at least some analytical software used in her field? R, SAS, Stata, Matlab? 
+1. Is she comfortable with at least some analytical software used in her field? R, SAS, Stata, Matlab?
 2. Is she comfortable with at least one programming language like Python, Perl, C/C++, Java, etc.? (R or Matlab count if she's done more than just import data and run built-in functions.)
 3. Does she have an organized and efficient workflow system? See, e.g., Keiran Healy's [*Choosing Your Workflow Applications*](http://kieranhealy.org/files/misc/workflow-apps.pdf).
 4. Is she comfortable with mathematical proofs at the level of a first- or second-semester real analysis course?
@@ -59,7 +61,7 @@ If she's gone through these three tests and the needle has moved most of the way
 
 _She's decided to do her Ph.D. Would you recommend she take some time off prior to grad school, or should she jump right in?_
 
-__Carl:__ There's a balance to strike here. On the one hand, I find people with a little more experience and maturity, as well as stability in their personal lives cope better with the stresses of a Ph.D. program (and tend to finish faster). On the other hand, the older you get and the more responsibilities you accumulate, the harder it is to bear the costs in time and income required by a Ph.D. 
+__Carl:__ There's a balance to strike here. On the one hand, I find people with a little more experience and maturity, as well as stability in their personal lives cope better with the stresses of a Ph.D. program (and tend to finish faster). On the other hand, the older you get and the more responsibilities you accumulate, the harder it is to bear the costs in time and income required by a Ph.D.
 
 But if she's 22 or 23, and all she's known is high school and undergrad, then yes, I'd definitely suggest doing something else a year or two before her Ph.D. See the Skills Checklist above. Try and find a job that will let her check off some of those boxes. There are lots of them out there. A normal job also confers a lot of meta-skills useful for grad school: working on teams, putting up with assholes, communicating effectively, dealing with hard deadlines, structuring her time and work-flow.
 
@@ -70,15 +72,15 @@ _Do you have any thoughts on going from undergrad into a Ph.D. program verses fi
 
 __Carl:__ In most cases (at least in the U.S.) an M.A. isn't really a meaningful prelude to a PhD. It's a different track. Indeed, I've spoken to professors at programs who've told me they avoid M.A. students---especially their own---in their Ph.D. admissions.
 
-I wouldn't unequivocally say you shouldn't get an M.A.---I have two of them---but I'm a little down on them. I think many departments treat their M.A. programs as cash cows, and the programs don't provide a good return-on-investment. 
+I wouldn't unequivocally say you shouldn't get an M.A.---I have two of them---but I'm a little down on them. I think many departments treat their M.A. programs as cash cows, and the programs don't provide a good return-on-investment.
 
-So, given that, don't pay for an M.A. I didn't, and wouldn't have, paid for either of mine. Get a full-time job, look for a program with a part-time curriculum, and and try to get your company to pay for most, or all, of your tuition. Alternatively, some of the better programs will provide financial support or merit scholarships.  
+So, given that, don't pay for an M.A. I didn't, and wouldn't have, paid for either of mine. Get a full-time job, look for a program with a part-time curriculum, and and try to get your company to pay for most, or all, of your tuition. Alternatively, some of the better programs will provide financial support or merit scholarships.
 
 Also, pick your courses with an eye toward Ph.D. admissions. Talk to program advisors for advice on this. This typically means spending your electives taking Ph.D.-level courses. Whenever a course has an M.A. and a Ph.D. version, take the latter.
 
 _What benefit(s) does having a Ph.D. bring for someone working in industry?_
 
-__Carl:__ It really depends on the industry. For some it opens doors, often a lot of them; for others it's absolutely necessary to progress past a certain point. In some cases, it can actually be a negative---you get pegged as an egghead and put in the back office. Avoid those places, even if you don't have a Ph.D. 
+__Carl:__ It really depends on the industry. For some it opens doors, often a lot of them; for others it's absolutely necessary to progress past a certain point. In some cases, it can actually be a negative---you get pegged as an egghead and put in the back office. Avoid those places, even if you don't have a Ph.D.
 
 For the most part it's an easy signal to recruiters, hiring managers, bosses, colleagues, and clients that you've got a certain set of skills (even if you don't really have those skills). Obviously, you may end up using a lot of what you learned in your Ph.D. to do your job, but in my limited experience, someone without a Ph.D., but with enough experience on the job and who is a motivated learner can do pretty much the same work as someone with a Ph.D. Again, depends on the industry.
 
