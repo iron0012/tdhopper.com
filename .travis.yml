@@ -1,10 +1,10 @@
 language: python
 python:
-    - “2.7”
+    - "2.7"
 cache: apt
 install:
-    - “pip install -r requirements.txt”
-script: “pelican content/“
+    - "pip install -r requirements.txt"
+script: "pelican  -o output content -s pelicanconf.py"
 deploy:
     provider: s3
     access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
