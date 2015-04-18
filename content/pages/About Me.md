@@ -1,8 +1,5 @@
 Title: About Me
 Slug: about-me
-Date: 2013-07-20 22:08:11
-Tags:
-Category:
 Author: Tim
 
 I'm interested in math, data, machine learning, computation, decision making, and optimization.
@@ -17,6 +14,7 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 * I created a website called [Should I Get a Ph.D.?](http://shouldigetaphd.com "Should I Get A Ph.D.?") to help college students in technical fields considering a a Ph.D. make more informed decisions. There's also a [companion Twitter account](https://twitter.com/shouldyougetphd "Should You Get a PhD (@ShouldYouGetPhD) | Twitter") that has been known to share sarcasm and relevant links.
 * I created a [website to share the writings of my late grandfather and great-grandfather](http://joseph-hopper.com "Joseph-Hopper.com") who were both prolific Presbyterian missionaries and theologians.
 * I created the [Operations Research Fact (@ORMSFact)](https://twitter.com/ormsfact "Operations Research  (@ORMSFact) | Twitter") account on Twitter.
+* I kinda [built my own standing desk](https://plus.google.com/photos/118317721686581801159/albums/5885822848717804001 "None").
 * To see a variety of half-baked projects and small open source contributions, you can check out my [Github profile](https://github.com/tdhopper?tab=repositories "tdhopper (Timothy Hopper)").
 
 ### Talks and Presentations
