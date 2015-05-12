@@ -63,7 +63,7 @@ For those studying math, recognize that the field you love, in its formal sense,
 [^planning]: Among other reasons, I didn't really plan to get where I am today. I changed majors no fewer than three times in college (physics, CS, and math) and essentially dropped out of two PhD programs! 
 [^remaining]: Of course, I have plenty of data science skills left to learn. My knowledge of experimental design is still pretty fuzzy. I still struggle with effective mathematical modeling. I haven't deployed a large scale machine learning system to production. I suck at software logging. I have no idea 
 how deep learning works.
-[^ipython]: For example, install  [Anaconda](https://store.continuum.io/cshop/anaconda/) and start playing with some of these IPython notebooks.
+[^ipython]: For example, install  [Anaconda](https://store.continuum.io/cshop/anaconda/) and start playing with some of [these IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 
 
 
