@@ -7,7 +7,7 @@ Caution: the following post is laden with qualitative extrapolation of anecdotes
 
 I recently started my third "real" job since finishing school; at my first and third jobs I have been a "data scientist". I was a math major in college (and pretty good at it) and spent a year in the math Ph.D. program at the University of Virginia (and performed well there as well). These two facts alone would not have equipped me for a career in data science. In fact, it remains unclear to me that those two facts alone would have prepared me for any career (with the possible exception of teaching) without significantly more training. 
 
-When I was in college [Business Week published an article](www.bloomberg.com/bw/stories/2006-01-22/math-will-rock-your-world) declaring "There has never been a better time to be a mathematician." At the time, I saw an enormous disconnect between the piece and what I was being taught in math classes (and thus what I considered to be a "mathematician"). I have come across other pieces lauding this as the age of the mathematicians, and more often than not, I've wondered if the author knew what students actually studied in math departments. 
+When I was in college [Business Week published an article](http://www.bloomberg.com/bw/stories/2006-01-22/math-will-rock-your-world) declaring "There has never been a better time to be a mathematician." At the time, I saw an enormous disconnect between the piece and what I was being taught in math classes (and thus what I considered to be a "mathematician"). I have come across other pieces lauding this as the age of the mathematicians, and more often than not, I've wondered if the author knew what students actually studied in math departments. 
 
 The math courses I had as an undergraduate were:
 
