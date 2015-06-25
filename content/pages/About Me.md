@@ -11,6 +11,7 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 ### Projects
 
 * I am a contributor to [streamparse](https://github.com/Parsely/streamparse "Parsely/streamparse · GitHub") which integrates Python and Apache Storm for real-time data processing.
+* I [contribute to other OSS](https://github.com/pulls?utf8=✓&q=is%3Apr+author%3Atdhopper++is%3Amerged) projects as well.
 * I created a website called [Should I Get a Ph.D.?](http://shouldigetaphd.com "Should I Get A Ph.D.?") to help college students in technical fields considering a a Ph.D. make more informed decisions. There's also a [companion Twitter account](https://twitter.com/shouldyougetphd "Should You Get a PhD (@ShouldYouGetPhD) | Twitter") that has been known to share sarcasm and relevant links.
 * I created a [website to share the writings of my late grandfather and great-grandfather](http://joseph-hopper.com "Joseph-Hopper.com") who were both prolific Presbyterian missionaries and theologians.
 * I created the [Operations Research Fact (@ORMSFact)](https://twitter.com/ormsfact "Operations Research  (@ORMSFact) | Twitter") account on Twitter.
