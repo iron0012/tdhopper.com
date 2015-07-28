@@ -6,4 +6,5 @@ pelican>=3.4.0
 pycrypto
 webassets
 wsgiref
-ipython>=3.0
+ipython[notebook]
+
