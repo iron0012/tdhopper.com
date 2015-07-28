@@ -10,7 +10,7 @@ TIMEZONE = 'America/New_York'
 
 THEME = 'pelican-svbhack'
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["latex"]
+PLUGINS = ["latex", 'ipynb']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
 DEFAULT_LANG = u'en'
 MARKUP = ('md', 'ipynb')
