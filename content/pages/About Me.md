@@ -27,7 +27,7 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 
 ### Teaching Experience
 
-I was a lecture assistant and instructor in grad school. To this day, lecturing on math is one of my favorite things I've ever done.
+I was a lecture assistant and instructor in grad school. I independently taught Calc 1 once and Calc 2 twice. To this day, lecturing on math is one of my favorite things I've ever done.
 
 #### North Carolina State University
 
