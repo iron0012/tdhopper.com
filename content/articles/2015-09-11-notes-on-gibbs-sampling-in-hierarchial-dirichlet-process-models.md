@@ -1,6 +1,6 @@
-Title: Notes on Gibbs Sampling in Hierarchal Dirichlet Process Models
+Title: Notes on Gibbs Sampling in Hierarchical Dirichlet Process Models
 Date: 2015-09-11 14:26
-Slug: notes-on-gibbs-sampling-in-hierarchal-dirichlet-process-models
+Slug: notes-on-gibbs-sampling-in-hierarchical-dirichlet-process-models
 Category: Nonparametric Bayes
 Tags: IPython, math, statistics, npbayes
 

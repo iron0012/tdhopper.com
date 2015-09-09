@@ -1,10 +1,10 @@
-Title: Notes on Gibbs Sampling in Hierarchal Dirichlet Process Models, Part 2
+Title: Notes on Gibbs Sampling in Hierarchical Dirichlet Process Models, Part 2
 Date: 2015-09-16 15:34
-Slug: notes-on-gibbs-sampling-in-hierarchal-dirichlet-process-models-part-2
+Slug: notes-on-gibbs-sampling-in-hierarchical-dirichlet-process-models-part-2
 Category: Nonparametric Bayes
 Tags: IPython, math, statistics, npbayes
 
-[In an earlier post](http://stiglerdiet.com/blog/2015/Sep/11/notes-on-gibbs-sampling-in-hierarchal-dirichlet-process-models/), I derived the necessary equations to sample table assignments when applying the "Posterior sampling in the Chinese restaurant franchise" algorithm to the case of latent Dirichlet allocation. I complete the derivation of necessary equations here.
+[In an earlier post](http://stiglerdiet.com/blog/2015/Sep/11/notes-on-gibbs-sampling-in-hierarchical-dirichlet-process-models/), I derived the necessary equations to sample table assignments when applying the "Posterior sampling in the Chinese restaurant franchise" algorithm to the case of latent Dirichlet allocation. I complete the derivation of necessary equations here.
 
 We need to sample $k_{jt}$ (the dish/topic for table $t$ in restaurant $j$):
 
@@ -270,4 +270,4 @@ f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})
 \end{align}
 \\]
 
-Given these equations for $f_{k}^{-{\bf x}\_{jt}}({\bf x}\_{jt})$ and $f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})$, we can draw samples from $p(k_{jt}=k \,|\, {\bf t}, {\bf k}^{-jt})$ by enumeration over topics. Combined with sampling from table assignment [described here](http://stiglerdiet.com/blog/2015/Sep/11/notes-on-gibbs-sampling-in-hierarchal-dirichlet-process-models/), we now have a complete Gibbs sampler for the [Posterior sampling in the Chinese restaurant franchise in Teh, et al.](http://www.cs.berkeley.edu/~jordan/papers/hdp.pdf)
+Given these equations for $f_{k}^{-{\bf x}\_{jt}}({\bf x}\_{jt})$ and $f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})$, we can draw samples from $p(k_{jt}=k \,|\, {\bf t}, {\bf k}^{-jt})$ by enumeration over topics. Combined with sampling from table assignment [described here](http://stiglerdiet.com/blog/2015/Sep/11/notes-on-gibbs-sampling-in-hierarchical-dirichlet-process-models/), we now have a complete Gibbs sampler for the [Posterior sampling in the Chinese restaurant franchise in Teh, et al.](http://www.cs.berkeley.edu/~jordan/papers/hdp.pdf)
