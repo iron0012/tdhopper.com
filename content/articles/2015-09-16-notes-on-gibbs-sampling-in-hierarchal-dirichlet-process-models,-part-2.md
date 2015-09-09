@@ -11,9 +11,9 @@ We need to sample $k_{jt}$ (the dish/topic for table $t$ in restaurant $j$):
 \\[\displaystyle
     p(k_{jt}=k \,|\, {\bf t}, {\bf k}^{-jt}) \propto
     \begin{cases}
-        m_{\cdot k}^{-jt}\cdot f_k^{-{\bf x}_{jt}}({\bf x}_{jt})
+        m_{\cdot k}^{-jt}\cdot f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})
             & {\tiny \text{if } k \text{ previously used,}}\\\\
-        \gamma\cdot f_{k^\text{new}}^{-{\bf x}_{jt}}({\bf x}_{jt})
+        \gamma\cdot f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})
             & {\tiny \text{if } t=k^{\text{new}}}.
     \end{cases}
 \\]
@@ -23,14 +23,14 @@ where $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$ is the "conditional density of ${\bf
 This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equation (30), though they look quite similar.
 
 \\[
-\begin{array}{rl}
-    f_k^{-{\bf x}_{jt}}({\bf x}_{jt})
+\begin{align}
+    f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})
     &=\frac{\displaystyle
             \int
                 {\prod_{x_{ji}\in {\bf x}_{jt}}}
                 f(x_{ji} \,|\, \phi_k)
                    \left[
-                   \prod_{x_{i'j'}\not\in {\bf x}_{jt}, z_{i'j'}=k}
+                   \prod_{x_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
                         f(x_{j'i'} \,|\, \phi_k)
                    \right]
                         h(\phi_k)
@@ -59,7 +59,7 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
         {\displaystyle
             \int
                 \left[
-                    \displaystyle\prod_{x_{i'j'}\not\in {\bf x}_{jt}, z_{i'j'}=k}
+                    \displaystyle\prod_{x_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
                     f(x_{i'j'}|\phi_k)
                 \right]
                 \prod_{w}
@@ -71,7 +71,7 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
                 {\prod_{x_{ji}\in {\bf x}_{jt}}}
                 \phi_{k x_{ji}}
                    \left[
-                   \prod_{x_{i'j'}\not\in {\bf x}_{jt}, z_{i'j'}=k}
+                   \prod_{x\_{i'j'}\not\in {\bf x}\_{jt}, z_{i'j'}=k}
                         \phi_{k x_{i'j'}}
                    \right]
                         \prod_{w}
@@ -88,7 +88,7 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
                     \phi_{kw}^{\beta-1}
                     d\phi_k
         }
-\end{array}
+\end{align}
 \\]
 
 The denominator is
@@ -141,7 +141,7 @@ The numerator is
     {\prod_{x_{ji}\in {\bf x}_{jt}}}
     \phi_{k x_{ji}}
        \left[
-       \prod_{x_{i'j'}\not\in {\bf x}_{jt}, z_{i'j'}=k}
+       \prod_{x\_{i'j'}\not\in {\bf x}\_{jt}, z_{i'j'}=k}
             \phi_{k x_{i'j'}}
        \right]
             \prod_{w}
@@ -181,7 +181,7 @@ This gives us a closed form version of this conditional distribution:
 
 \\[
 \begin{array}{rl}
-    f_k^{-{\bf x}_{jt}}({\bf x}_{jt})
+    f_k^{-{\bf x\_{jt}}({\bf x}\_{jt})
     &= \displaystyle\frac{
        \prod_w \Gamma\left(
            n_{kw}^{-jt} + n_{\cdot w}^{jt} + \beta
@@ -207,7 +207,7 @@ We also need the conditional distribution of $k$ is a new dish: $f_{k^\text{new}
 
 \\[
 \begin{align}
-f_{k^\text{new}}^{-{\bf x}_{jt}}({\bf x}_{jt})
+f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})
     &=\int
         \left[
         \prod_{x_{ji}\in \mathbf{x_{jt}}}
