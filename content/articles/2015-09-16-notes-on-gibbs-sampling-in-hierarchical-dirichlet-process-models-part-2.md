@@ -199,7 +199,7 @@ This gives us a closed form version of this conditional distribution:
       \Gamma \left(
         n_{k\cdot}^{-jt} + n_{\cdot \cdot}^{jt} + \beta
       \right)
-    }
+    }.
 \end{align}
 \\]
 
@@ -266,7 +266,7 @@ f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})
     }{
         \Gamma(V\beta+n_{\cdot\cdot}^{jt})
         \prod_w \Gamma(\beta)
-    }
+    }.
 \end{align}
 \\]
 
