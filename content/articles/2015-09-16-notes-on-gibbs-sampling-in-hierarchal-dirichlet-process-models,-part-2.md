@@ -24,69 +24,69 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
 
 \\[
 \begin{align}
-    f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})
+    f\_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})
     &=\frac{\displaystyle
             \int
-                {\prod_{x_{ji}\in {\bf x}_{jt}}}
-                f(x_{ji} \,|\, \phi_k)
+                {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
+                f(x\_{ji} \,|\, \phi\_k)
                    \left[
-                   \prod_{x_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
-                        f(x_{j'i'} \,|\, \phi_k)
+                   \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
+                        f(x\_{j'i'} \,|\, \phi\_k)
                    \right]
-                        h(\phi_k)
-                        d\phi_k
+                        h(\phi\_k)
+                        d\phi\_k
         }
         {\displaystyle
             \int
                 \left[
-                    \displaystyle\prod_{x_{i'j'}\not\in {\bf x}_{jt}, z_{i'j'}=k}
-                    f(x_{i'j'}|\phi_k)
+                    \displaystyle\prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
+                    f(x\_{i'j'}|\phi\_k)
                 \right]
-                h(\phi_k)d\phi_k
+                h(\phi\_k)d\phi\_k
         } \\\\
     &=\frac{\displaystyle
             \int
-                {\prod_{x_{ji}\in {\bf x}_{jt}}}
-                \phi_{k x_{ji}}
+                {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
+                \phi\_{k x\_{ji}}
                    \left[
-                   \prod_{x_{i'j'}\not\in {\bf x}_{jt}, z_{i'j'}=k}
-                        \phi_{k x_{i'j'}}
+                   \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
+                        \phi\_{k x\_{i'j'}}
                    \right]
-                        \prod_{w}
-                    \phi_{kw}^{\beta-1}
-                        d\phi_k
+                        \prod\_{w}
+                    \phi\_{kw}^{\beta-1}
+                        d\phi\_k
         }
         {\displaystyle
             \int
                 \left[
-                    \displaystyle\prod_{x_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
-                    f(x_{i'j'}|\phi_k)
+                    \displaystyle\prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
+                    f(x\_{i'j'}|\phi\_k)
                 \right]
-                \prod_{w}
-                    \phi_{kw}^{\beta-1}
-                    d\phi_k
+                \prod\_{w}
+                    \phi\_{kw}^{\beta-1}
+                    d\phi\_k
         } \\\\
     &=\frac{\displaystyle
             \int
-                {\prod_{x_{ji}\in {\bf x}_{jt}}}
-                \phi_{k x_{ji}}
+                {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
+                \phi\_{k x\_{ji}}
                    \left[
-                   \prod_{x\_{i'j'}\not\in {\bf x}\_{jt}, z_{i'j'}=k}
-                        \phi_{k x_{i'j'}}
+                   \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
+                        \phi\_{k x\_{i'j'}}
                    \right]
-                        \prod_{w}
-                    \phi_{kw}^{\beta-1}
-                        d\phi_k
+                        \prod\_{w}
+                    \phi\_{kw}^{\beta-1}
+                        d\phi\_k
         }
         {\displaystyle
             \int
                 \left[
-                    \displaystyle\prod_{x_{i'j'}\not\in {\bf x_{jt}}, z_{i'j'}=k}
-                    \phi_{k x_{i'j'}}
+                    \displaystyle\prod\_{x\_{i'j'}\not\in {\bf x\_{jt}}, z\_{i'j'}=k}
+                    \phi\_{k x\_{i'j'}}
                 \right]
-                \prod_{w}
-                    \phi_{kw}^{\beta-1}
-                    d\phi_k
+                \prod\_{w}
+                    \phi\_{kw}^{\beta-1}
+                    d\phi\_k
         }
 \end{align}
 \\]
@@ -138,40 +138,40 @@ The numerator is
 \begin{align}
     \text{numerator}
     &=\int
-    {\prod_{x_{ji}\in {\bf x}_{jt}}}
-    \phi_{k x_{ji}}
+    {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
+    \phi\_{k x\_{ji}}
        \left[
-       \prod_{x\_{i'j'}\not\in {\bf x}\_{jt}, z_{i'j'}=k}
-            \phi_{k x_{i'j'}}
+       \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
+            \phi\_{k x\_{i'j'}}
        \right]
-            \prod_{w}
-        \phi_{kw}^{\beta-1}
-            d\phi_k \\\\
+            \prod\_{w}
+        \phi\_{kw}^{\beta-1}
+            d\phi\_k \\\\
     &=\int
-    \prod_{w}
-        \phi_{kw}^{
-            n_{kw}^{-jt} +
-            n_{\cdot w}^{jt} +
+    \prod\_{w}
+        \phi\_{kw}^{
+            n\_{kw}^{-jt} +
+            n\_{\cdot w}^{jt} +
             \beta + 1
             }
-        d\phi_k \\\\
+        d\phi\_k \\\\
     &=\frac{
-       \prod_w \Gamma\left(
-           n_{kw}^{-jt} + n_{\cdot w}^{jt} + \beta
+       \prod\_w \Gamma\left(
+           n\_{kw}^{-jt} + n\_{\cdot w}^{jt} + \beta
        \right)
     }{
       \Gamma \left(
-        \sum_w
-        n_{kw}^{-jt} + n_{\cdot w}^{jt} + \beta
+        \sum\_w
+        n\_{kw}^{-jt} + n\_{\cdot w}^{jt} + \beta
       \right)
     }\\\\
     &=\frac{
-       \prod_w \Gamma\left(
-           n_{kw}^{-jt} + n_{\cdot w}^{jt} + \beta
+       \prod\_w \Gamma\left(
+           n\_{kw}^{-jt} + n\_{\cdot w}^{jt} + \beta
        \right)
     }{
       \Gamma \left(
-        n_{k\cdot}^{-jt} + n_{\cdot \cdot}^{jt} + \beta
+        n\_{k\cdot}^{-jt} + n\_{\cdot \cdot}^{jt} + \beta
       \right)
     }
 \end{align}
@@ -180,8 +180,8 @@ The numerator is
 This gives us a closed form version of this conditional distribution:
 
 \\[
-\begin{array}{rl}
-    f_k^{-{\bf x\_{jt}}({\bf x}\_{jt})
+\begin{align}
+    f_k^{-{\bf x\_{jt}}}({\bf x}\_{jt})
     &= \displaystyle\frac{
        \prod_w \Gamma\left(
            n_{kw}^{-jt} + n_{\cdot w}^{jt} + \beta
@@ -200,7 +200,7 @@ This gives us a closed form version of this conditional distribution:
         n_{k\cdot}^{-jt} + n_{\cdot \cdot}^{jt} + \beta
       \right)
     }
-\end{array}
+\end{align}
 \\]
 
 We also need the conditional distribution of $k$ is a new dish: $f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})$. Shuyo provides without derivation:
