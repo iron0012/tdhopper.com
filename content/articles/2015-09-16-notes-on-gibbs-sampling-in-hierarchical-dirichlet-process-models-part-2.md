@@ -262,10 +262,10 @@ f_{k^\text{new}}^{-{\bf x}\_{jt}}({\bf x}\_{jt})
         }\\\\
     &=\frac{
         \Gamma(V\beta)
-        \prod_v \Gamma(\beta+n_{\cdot v}^{jt})
+        \prod_w \Gamma(\beta+n_{\cdot w}^{jt})
     }{
         \Gamma(V\beta+n_{\cdot\cdot}^{jt})
-        \prod_v \Gamma(\beta)
+        \prod_w \Gamma(\beta)
     }
 \end{align}
 \\]
