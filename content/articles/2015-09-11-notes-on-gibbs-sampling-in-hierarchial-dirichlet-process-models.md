@@ -55,21 +55,9 @@ There are two arrays of count variables we will want to track:
 * $n_{jtk}$ is the number of customers in restaurant $j$ at table $t$ eating dish $k$.
 * $m_{jk}$ is the number of tables in restaurant $j$ serving dish $k$ (multiple tables may serve the same dish).
 
-Supposed we want to know the distribution of $\theta_{ji}$ given $\theta_{j1},\ldots,\theta_{j,i-1},\alpha_0, G_0$. It is given by:
-
-$$\theta_{ji}\,|\,\theta_{j1},\ldots,\theta_{j,i-1},\alpha_0, G_0 \sim \sum_{t=1}^{m_j}\frac{n_{jt\cdot}}{i-1+\alpha_0}\delta_{\psi_{jt}}+\frac{\alpha_0}{i-1+\alpha_0}G_0$$
-
-This is a mixture. With some probability $\theta_{ji}$ will be the same dish (topic) $\psi_{jt}$ already assigned to another person, and with some probability, a new dish $\psi_{jm_j}$ (topic) is drawn from $G_0$ and $\theta_{jm}=\psi_{jm_j}$.
-
-How do we draw from $G_0$? It is also a Dirichlet process where
-
-$$\gamma_{jt} \,|\, \gamma_{11}, \gamma_{12}, \ldots, \gamma_{21}, \ldots, \gamma_{jt-1}, \gamma, H \sim \sum_{k=1}^K \frac{m_{\cdot k}}{m_{\cdot\cdot}+\gamma}+\frac{\gamma}{m_{\cdot\cdot}+\gamma}H$$
-
-> To use these equations to obtain samples of $\theta_{ji}$, we proceed as follows. For each $j$ and $i$, first sample $\theta_ji$ using [the first distribution]. If a new sample from $G_0$ is needed, we use [the second distribution] to obtain a new sample $\psi_{jt}$ and set $\theta_{ji}=\psi_{jt}$.
-
 To summarize:
 
-$x_{ij}$ are observed data (words). We assume $x_{ij}\sim F(\theta_{ij})$. Further, we assume $\theta_{ji}$ is associated with table $t_{ji}$, that is $\theta_{ji}=\psi_{jt_{ji}}$. Further, we assume the topic for table $j$ is indexed by $k_{jt}$, i.e. $\psi_{jt}=\phi_{k_{jt}}$. Thus, if we know $t_{ji}$ (the table assignment for $x_{ij}$) and $k_{jt}$ (the dish assignment for table $t$) for all $i, j, t$, we could determine the remaining parameters $\phi$'s by sampling.
+$x_{ij}$ are observed data (words). We assume $x_{ij}\sim F(\theta_{ij})$. Further, we assume $\theta_{ji}$ is associated with table $t_{ji}$, that is $\theta_{ji}=\psi_{jt_{ji}}$. Further, we assume the topic for table $j$ is indexed by $k_{jt}$, i.e. $\psi_{jt}=\phi_{k_{jt}}$. Thus, if we know $t_{ji}$ (the table assignment for $x_{ij}$) and $k_{jt}$ (the dish assignment for table $t$) for all $i, j, t$, we could determine the remaining parameters by sampling.
 
 ## Gibbs Sampling
 
