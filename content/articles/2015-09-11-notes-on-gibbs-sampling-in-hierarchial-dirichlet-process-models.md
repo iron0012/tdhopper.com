@@ -461,4 +461,4 @@ If the sampled value of $t_{ji}$ is $t^{\text{new}}$, we sample a dish $k_{jt^\t
     \end{cases}
 \\]
 
-My notes on derivation the final equation (34) for sampling $k$ are in rough shape. I intend to follow this with a post on that. In the mean time, you can see [Shuyo's post](https://shuyo.wordpress.com/2012/08/15/hdp-lda-updates/), [his implementation](https://github.com/shuyo/iir/blob/a6203a7523970a4807beba1ce3b9048a16013246/lda/hdplda2.py#L242-L270), and equation 7 in [this paper](http://arxiv.org/pdf/1201.1657v1.pdf).
+My notes on derivation the final equation (34) for sampling $k$ are in rough shape. I intend to follow this with a post on that. (_Update: [here](http://stiglerdiet.com/blog/2015/Sep/16/notes-on-gibbs-sampling-in-hierarchical-dirichlet-process-models-part-2/)_) In the mean time, you can see [Shuyo's post](https://shuyo.wordpress.com/2012/08/15/hdp-lda-updates/), [his implementation](https://github.com/shuyo/iir/blob/a6203a7523970a4807beba1ce3b9048a16013246/lda/hdplda2.py#L242-L270), and equation 7 in [this paper](http://arxiv.org/pdf/1201.1657v1.pdf).
