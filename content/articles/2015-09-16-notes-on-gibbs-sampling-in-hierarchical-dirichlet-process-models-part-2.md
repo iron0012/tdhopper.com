@@ -30,7 +30,7 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
                 {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
                 f(x\_{ji} \,|\, \phi\_k)
                    \left[
-                   \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
+                   \prod\_{x\_{j'i'}\not\in {\bf x}\_{jt}, z\_{j'i'}=k}
                         f(x\_{j'i'} \,|\, \phi\_k)
                    \right]
                         h(\phi\_k)
@@ -39,8 +39,8 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
         {\displaystyle
             \int
                 \left[
-                    \displaystyle\prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
-                    f(x\_{i'j'}|\phi\_k)
+                    \displaystyle\prod\_{x\_{j'i'}\not\in {\bf x}\_{jt}, z\_{j'i'}=k}
+                    f(x\_{j'i'}|\phi\_k)
                 \right]
                 h(\phi\_k)d\phi\_k
         } \\\\
@@ -49,8 +49,8 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
                 {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
                 \phi\_{k x\_{ji}}
                    \left[
-                   \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
-                        \phi\_{k x\_{i'j'}}
+                   \prod\_{x\_{j'i'}\not\in {\bf x}\_{jt}, z\_{j'i'}=k}
+                        \phi\_{k x\_{j'i'}}
                    \right]
                         \prod\_{w}
                     \phi\_{kw}^{\beta-1}
@@ -59,8 +59,8 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
         {\displaystyle
             \int
                 \left[
-                    \displaystyle\prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
-                    f(x\_{i'j'}|\phi\_k)
+                    \displaystyle\prod\_{x\_{j'i'}\not\in {\bf x}\_{jt}, z\_{j'i'}=k}
+                    f(x\_{j'i'}|\phi\_k)
                 \right]
                 \prod\_{w}
                     \phi\_{kw}^{\beta-1}
@@ -71,8 +71,8 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
                 {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
                 \phi\_{k x\_{ji}}
                    \left[
-                   \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
-                        \phi\_{k x\_{i'j'}}
+                   \prod\_{x\_{j'i'}\not\in {\bf x}\_{jt}, z\_{j'i'}=k}
+                        \phi\_{k x\_{j'i'}}
                    \right]
                         \prod\_{w}
                     \phi\_{kw}^{\beta-1}
@@ -81,8 +81,8 @@ This requires $f_k^{-{\bf x}\_{jt}}({\bf x}\_{jt})$; this is different from Equa
         {\displaystyle
             \int
                 \left[
-                    \displaystyle\prod\_{x\_{i'j'}\not\in {\bf x\_{jt}}, z\_{i'j'}=k}
-                    \phi\_{k x\_{i'j'}}
+                    \displaystyle\prod\_{x\_{j'i'}\not\in {\bf x\_{jt}}, z\_{j'i'}=k}
+                    \phi\_{k x\_{j'i'}}
                 \right]
                 \prod\_{w}
                     \phi\_{kw}^{\beta-1}
@@ -97,8 +97,8 @@ The denominator is
 \begin{align}
     \text{denominator}&=
     \int\left[
-        \prod_{x_{i'j'}\not\in {\bf x_{jt}}, z_{i'j'}=k}
-        \phi_{k x_{i'j'}}
+        \prod_{x_{j'i'}\not\in {\bf x_{jt}}, z_{j'i'}=k}
+        \phi_{k x_{j'i'}}
     \right]
     \prod_{w}
         \phi_{kw}^{\beta-1}
@@ -141,8 +141,8 @@ The numerator is
     {\prod\_{x\_{ji}\in {\bf x}\_{jt}}}
     \phi\_{k x\_{ji}}
        \left[
-       \prod\_{x\_{i'j'}\not\in {\bf x}\_{jt}, z\_{i'j'}=k}
-            \phi\_{k x\_{i'j'}}
+       \prod\_{x\_{j'i'}\not\in {\bf x}\_{jt}, z\_{j'i'}=k}
+            \phi\_{k x\_{j'i'}}
        \right]
             \prod\_{w}
         \phi\_{kw}^{\beta-1}
