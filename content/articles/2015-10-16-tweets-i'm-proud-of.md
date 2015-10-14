@@ -23,8 +23,3 @@ On key pressers:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">&quot;We call people like these two young programmers &#39;key pressers.&#39;&quot;&#10;&#10;(from SEAL Team Six) <a href="http://t.co/VFxZbafLlG">pic.twitter.com/VFxZbafLlG</a></p>&mdash; Tim Hopper (@tdhopper) <a href="https://twitter.com/tdhopper/status/653902530406187008">October 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-On programming:
-
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Even though I&#39;ve been coding for 12 years, I&#39;d still just consider myself a grammer.</p>&mdash; Tim Hopper (@tdhopper) <a href="https://twitter.com/tdhopper/status/531928033553563648">November 10, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
