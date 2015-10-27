@@ -4,12 +4,13 @@ Author: Tim
 
 I'm interested in math, data, machine learning, computation, decision making, and optimization.
 
-I develop software tools for data science from my home in North Carolina. I previously worked as a data engineer at [Parse.ly](http://parse.ly) and a data scientist at [RTI International](http://www.rti.org/ "RTI International"). I have a masters in operations research from North Carolina State University where I worked with [Brian Denton](http://sitemaker.umich.edu/btdenton/home) on approximate dynamic programming in healthcare. I also spent a year as a grad student in math at the [University of Virginia](http://www.math.virginia.edu "Department of Mathematics, U.Va."). My undergraduate degree from [Grove City College](http://www.gcc.edu/Pages/Grove-City-College.aspx "Grove City College") is in mathematics; I also earned minors in applied physics and computer science.
+I am a data scientist at [Distil Networks](http://distilnetworks.com). I previously worked as a data scientist for [Qadium, Inc](https://qadium.com/ "QADIUM"), data engineer at [Parse.ly](http://parse.ly) and a data scientist at [RTI International](http://www.rti.org/ "RTI International"). I have a masters in operations research from North Carolina State University where I worked with [Brian Denton](http://sitemaker.umich.edu/btdenton/home) on approximate dynamic programming in healthcare. I also spent a year as a grad student in math at the [University of Virginia](http://www.math.virginia.edu "Department of Mathematics, U.Va."). My undergraduate degree from [Grove City College](http://www.gcc.edu/Pages/Grove-City-College.aspx "Grove City College") is in mathematics; I also earned minors in applied physics and computer science.
 
 In my free time, I enjoy conversation, reading, hiking, (more) programming, and beer.
 
 ### Projects
 
+* I build a [high-performance Python package](https://github.com/datamicroscopes/lda) for Gibbs sampling-based inference for nonparametric topic modeling (HDP-LDA).
 * I am a contributor to [streamparse](https://github.com/Parsely/streamparse "Parsely/streamparse · GitHub") which integrates Python and Apache Storm for real-time data processing.
 * I created a website called [Should I Get a Ph.D.?](http://shouldigetaphd.com "Should I Get A Ph.D.?") to help college students in technical fields considering a a Ph.D. make more informed decisions. There's also a [companion Twitter account](https://twitter.com/shouldyougetphd "Should You Get a PhD (@ShouldYouGetPhD) | Twitter") that has been known to share sarcasm and relevant links.
 * I created a [website to share the writings of my late grandfather and great-grandfather](http://joseph-hopper.com "Joseph-Hopper.com") who were both prolific Presbyterian missionaries and theologians.
