@@ -21,6 +21,7 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 
 ### Talks and Presentations
 
+* At Pydata 2015, I [gave a talk](https://github.com/tdhopper/pydata-nyc-2015) on understanding Latent Dirichlet Allocation using Python to simulate the generative model.
 * I gave an [intro to PySpark](http://nbviewer.ipython.org/format/slides/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb#/) at the [Research Triangle Analysts](http://www.rtpanalysts.org/home/ "Research Triangle Analysts") in early 2015.
 * I talked about [the design of scikit-learn](http://nbviewer.ipython.org/format/slides/github/tdhopper/Research-Triangle-Analysts--Intro-to-scikit-learn/blob/master/Intro%20to%20Scikit-Learn.ipynb#/) at the [Research Triangle Analysts](http://www.rtpanalysts.org/home/ "Research Triangle Analysts | Analysts in the Research Triangle Region of North Carolina") in early 2014. There is a (poor quality) video [here](https://www.youtube.com/watch?v=2kx19t8bNMU).
 * I talked about [Pickle and Redis](http://nbviewer.ipython.org/github/tdhopper/Pickle-and-Redis/blob/master/Pickle%20and%20Redis.ipynb "") at PyCarolinas in 2012.
