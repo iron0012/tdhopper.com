@@ -17,7 +17,7 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 * I created the [Operations Research Fact (@ORMSFact)](https://twitter.com/ormsfact "Operations Research  (@ORMSFact) | Twitter") account on Twitter.
 * I kinda [built my own standing desk](https://plus.google.com/photos/118317721686581801159/albums/5885822848717804001 "None").
 * To see a variety of half-baked projects and small open source contributions, you can check out my [Github profile](https://github.com/tdhopper?tab=repositories "tdhopper (Timothy Hopper)").
-* I'm trying to [deobfuscate Dirichlet Processes and Hierarchical Dirichlet Processes](https://github.com/tdhopper/notes-on-dirichlet-processes).
+* I'm trying to [deobfuscate Dirichlet Processes and Hierarchical Dirichlet Processes](https://github.com/tdhopper/notes-on-dirichlet-processes) for nonparametric Bayesian methods.
 
 ### Talks and Presentations
 
