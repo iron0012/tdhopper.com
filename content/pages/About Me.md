@@ -14,14 +14,14 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 * I am a contributor to [streamparse](https://github.com/Parsely/streamparse "Parsely/streamparse · GitHub") which integrates Python and Apache Storm for real-time data processing.
 * I created a website called [Should I Get a Ph.D.?](http://shouldigetaphd.com "Should I Get A Ph.D.?") to help college students in technical fields considering a a Ph.D. make more informed decisions. There's also a [companion Twitter account](https://twitter.com/shouldyougetphd "Should You Get a PhD (@ShouldYouGetPhD) | Twitter") that has been known to share sarcasm and relevant links.
 * I created a [website to share the writings of my late grandfather and great-grandfather](http://joseph-hopper.com "Joseph-Hopper.com") who were both prolific Presbyterian missionaries and theologians.
-* I created the [Operations Research Fact (@ORMSFact)](https://twitter.com/ormsfact "Operations Research  (@ORMSFact) | Twitter") account on Twitter.
 * I kinda [built my own standing desk](https://plus.google.com/photos/118317721686581801159/albums/5885822848717804001 "None").
 * To see a variety of half-baked projects and small open source contributions, you can check out my [Github profile](https://github.com/tdhopper?tab=repositories "tdhopper (Timothy Hopper)").
 * I'm trying to [deobfuscate Dirichlet Processes and Hierarchical Dirichlet Processes](https://github.com/tdhopper/notes-on-dirichlet-processes) for nonparametric Bayesian methods.
 
-### Talks and Presentations
+### Talks, Presentations, Publications
 
 * At Pydata 2015, I [gave a talk](https://github.com/tdhopper/pydata-nyc-2015) on understanding Latent Dirichlet Allocation using Python to simulate the generative model.
+* I am a coauthor on [Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study](http://www.jmir.org/2015/11/e251/).
 * I gave an [intro to PySpark](http://nbviewer.ipython.org/format/slides/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb#/) at the [Research Triangle Analysts](http://www.rtpanalysts.org/home/ "Research Triangle Analysts") in early 2015.
 * I talked about [the design of scikit-learn](http://nbviewer.ipython.org/format/slides/github/tdhopper/Research-Triangle-Analysts--Intro-to-scikit-learn/blob/master/Intro%20to%20Scikit-Learn.ipynb#/) at the [Research Triangle Analysts](http://www.rtpanalysts.org/home/ "Research Triangle Analysts | Analysts in the Research Triangle Region of North Carolina") in early 2014. There is a (poor quality) video [here](https://www.youtube.com/watch?v=2kx19t8bNMU).
 * I talked about [Pickle and Redis](http://nbviewer.ipython.org/github/tdhopper/Pickle-and-Redis/blob/master/Pickle%20and%20Redis.ipynb "") at PyCarolinas in 2012.
