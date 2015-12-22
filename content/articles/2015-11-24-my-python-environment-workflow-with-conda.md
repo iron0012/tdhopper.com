@@ -17,7 +17,7 @@ Before explaining my workflow, here's a quick glossary of the similarly-named pr
 
 Conda, Anaconda, and Anaconda cloud are distinct but interrelated tools; keeping them straight can be hard, but is helpful.
 
-Conda (the package manager) can be installed in two ways. Through the [Miniconda](http://conda.pydata.org/miniconda.html) installer or the [Anaconda](https://www.continuum.io/downloads) installer. Both install the package manager, but the latter also installs the 300+ packages for scientific Python. (I believe this is equivalent to installing Miniconda and then running `conda install anaconda`.)
+Conda (the package manager) can be installed in two ways. Through the [Miniconda](http://conda.pydata.org/miniconda.html) installer or the [Anaconda](https://www.continuum.io/downloads) installer. Both install the package manager, but the latter also installs the 300+ packages for scientific Python. (Installing Anaconda is equivalent to installing Miniconda and then running `conda install anaconda`.)
 
 ## Conda Environment Files
 
