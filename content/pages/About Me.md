@@ -10,13 +10,17 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 
 ### Projects
 
-* I build a [high-performance Python package](https://github.com/datamicroscopes/lda) for Gibbs sampling-based inference for nonparametric topic modeling (HDP-LDA).
+* I built a [high-performance Python package](https://github.com/datamicroscopes/lda) for Gibbs sampling-based inference for nonparametric topic modeling (HDP-LDA).
 * I am a contributor to [streamparse](https://github.com/Parsely/streamparse "Parsely/streamparse · GitHub") which integrates Python and Apache Storm for real-time data processing.
 * I created a website called [Should I Get a Ph.D.?](http://shouldigetaphd.com "Should I Get A Ph.D.?") to help college students in technical fields considering a a Ph.D. make more informed decisions. There's also a [companion Twitter account](https://twitter.com/shouldyougetphd "Should You Get a PhD (@ShouldYouGetPhD) | Twitter") that has been known to share sarcasm and relevant links.
 * I created a [website to share the writings of my late grandfather and great-grandfather](http://joseph-hopper.com "Joseph-Hopper.com") who were both prolific Presbyterian missionaries and theologians.
 * I kinda [built my own standing desk](https://plus.google.com/photos/118317721686581801159/albums/5885822848717804001 "None").
 * To see a variety of half-baked projects and small open source contributions, you can check out my [Github profile](https://github.com/tdhopper?tab=repositories "tdhopper (Timothy Hopper)").
 * I'm trying to [deobfuscate Dirichlet Processes and Hierarchical Dirichlet Processes](https://github.com/tdhopper/notes-on-dirichlet-processes) for nonparametric Bayesian methods.
+* I have [a Tumblr dedicated to comments about my height](http://doyouplayball.tumblr.com/). There's a companion [Twitter account](https://twitter.com/doyouplayball).
+* I created [a Twitter account](https://twitter.com/current_moon) that tweets a emoji each evening (in the eastern US) representing the current phase of the moon.
+* I created a [Github project](https://github.com/tdhopper/tau) that provides a template for creating Lambda-powered Twitter bots in Python.
+
 
 ### Talks, Presentations, Publications
 
