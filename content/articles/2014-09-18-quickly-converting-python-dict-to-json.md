@@ -1,10 +1,10 @@
 Title: Quickly Converting Python Dict to JSON
 Slug: quickly-converting-python-dict-to-json
-Category: python
+Tags: python
 
 Recently, I've spent a lot of time going back and forth between Python dicts and JSON. For some reason, I decided last week that I'd be useful to be able to quickly convert a Python dict to pretty printed JSON.
 
-I created a [TextExpander](http://smilesoftware.com/TextExpander/index.html) snippet that takes a Python dict from the clipboard, converts it to JSON, and pastes it. 
+I created a [TextExpander](http://smilesoftware.com/TextExpander/index.html) snippet that takes a Python dict from the clipboard, converts it to JSON, and pastes it.
 
 Here are the details:
 

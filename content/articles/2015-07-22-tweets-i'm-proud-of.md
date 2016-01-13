@@ -1,8 +1,7 @@
 Title: Tweets I'm Proud Of
 Date: 2015-07-22 09:27
 Slug: tweets-i'm-proud-of
-Tags: vanity
-Category: Tweets
+Tags: vanity, tweets
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">If you like it then you shoulda put a ring on it.&#10;&#10;If you love it then you shoulda also endowed non-0 members with a multiplicative inverse.</p>&mdash; Tim Hopper (@tdhopper) <a href="https://twitter.com/tdhopper/status/403919436190461952">November 22, 2013</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -1,6 +1,6 @@
 Title: iOS's Launch Center Pro, Auphonic, and RESTful APIs
 Slug: ioss-launch-center-pro-auphonic-and-restful-apis
-Category: python
+Tags: python
 
 Lately I've been using [Auphonic's](http://www.auphonic.com) web service for automating audio post-production and distribution. You can provide Auphonic with an audio file (via Dropbox, FTP, web upload, and more), and it will perform any number of tasks for you, including
 
