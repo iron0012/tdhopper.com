@@ -42,6 +42,6 @@ Shannon observes that $H$ has many other interesting properties:
 You can read more about this in Shannon's seminal paper [A Theory of Mathematical Communication](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6773024).
 
 [^entropy]: Caianiello and Aizerman [say](https://books.google.com/books?id=ak6qCAAAQBAJ&lpg=PP1&ots=bzAoIDJk1K&dq=Topics%20in%20the%20General%20Theory%20of%20Structures&pg=PA200#v=onepage&q=cross%20entropy&f=false) the name entropy is thanks to von Neumann who said
-    > You should call it entropy and for two reasons: first, the function is already in use in thermodynamics under that name; second and more importantly, most people don't know what entropy really is, and if you use the word.
+    > You should call it entropy, for two reasons. In the first place your uncertainty function has been used in statistical mechanics under that name, so it already has a name. In the second place, and more important, nobody knows what entropy really is, so in a debate you will always have the advantage.
 
     They argue that the name "uncertainty" would have been much more helpful since "Shannon entropy is simply and avowedly the 'measure of the uncertainty inherient in a pre-assigned probability scheme.'"
