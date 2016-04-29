@@ -13,6 +13,7 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 * I built a [high-performance Python package](https://github.com/datamicroscopes/lda) for Gibbs sampling-based inference for nonparametric topic modeling (HDP-LDA).
 * I have another blog for quick posts tracking [Things I've Learned](http://til.tdhopper.com/).
 * I am a contributor to [streamparse](https://github.com/Parsely/streamparse "Parsely/streamparse · GitHub") which integrates Python and Apache Storm for real-time data processing.
+* I have a single page website to collect notes on one of my other hobbies: [ultralight backpacking](http://www.ultratall-ultralight.com/). In particular, notes on ultralight gear for the very tall.
 * I created a website called [Should I Get a Ph.D.?](http://shouldigetaphd.com "Should I Get A Ph.D.?") to help college students in technical fields considering a a Ph.D. make more informed decisions. There's also a [companion Twitter account](https://twitter.com/shouldyougetphd "Should You Get a PhD (@ShouldYouGetPhD) | Twitter") that has been known to share sarcasm and relevant links.
 * I created a [website to share the writings of my late grandfather and great-grandfather](http://joseph-hopper.com "Joseph-Hopper.com") who were both prolific Presbyterian missionaries and theologians.
 * I kinda [built my own standing desk](https://plus.google.com/photos/118317721686581801159/albums/5885822848717804001 "None").
