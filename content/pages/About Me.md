@@ -26,7 +26,8 @@ In my free time, I enjoy conversation, reading, hiking, (more) programming, and 
 
 ### Talks, Presentations, Publications
 
-* At Pydata 2015, I [gave a talk](https://github.com/tdhopper/pydata-nyc-2015) on understanding Latent Dirichlet Allocation using Python to simulate the generative model. It was [recorded](https://www.youtube.com/watch?v=_R66X_udxZQ)!
+* At Pydata Carolinas 2016, I [gave a talk](https://www.youtube.com/watch?v=uRul8QdYvqQ) on how and why data scientists should think about sharing their data-tinkering on the web.
+* At Pydata NYC 2015, I [gave a talk](https://github.com/tdhopper/pydata-nyc-2015) on understanding Latent Dirichlet Allocation using Python to simulate the generative model. It was [recorded](https://www.youtube.com/watch?v=_R66X_udxZQ)!
 * I am a coauthor on [Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study](http://www.jmir.org/2015/11/e251/).
 * I gave an [intro to PySpark](http://nbviewer.ipython.org/format/slides/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb#/) at the [Research Triangle Analysts](http://www.rtpanalysts.org/home/ "Research Triangle Analysts") in early 2015.
 * I talked about [the design of scikit-learn](http://nbviewer.ipython.org/format/slides/github/tdhopper/Research-Triangle-Analysts--Intro-to-scikit-learn/blob/master/Intro%20to%20Scikit-Learn.ipynb#/) at the [Research Triangle Analysts](http://www.rtpanalysts.org/home/ "Research Triangle Analysts | Analysts in the Research Triangle Region of North Carolina") in early 2014. There is a (poor quality) video [here](https://www.youtube.com/watch?v=2kx19t8bNMU).
