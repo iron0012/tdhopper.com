@@ -38,7 +38,8 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 SOCIAL = (('Twitter', 'http://www.twitter.com/tdhopper'),
          ('Github', 'http://www.github.com/tdhopper'),
          ('Linkedin', 'http://www.linkedin.com/in/tdhopper'),
-         ('Google+', 'https://plus.google.com/u/0/118317721686581801159/posts'),
+         ('Flickr', 'https://www.flickr.com/photos/tdhopper'),
+         ('Instagram', 'https://www.instagram.com/tdhopper'),
          ('TIL', 'http://til.tdhopper.com/'),)
 
 DEFAULT_PAGINATION = 5
