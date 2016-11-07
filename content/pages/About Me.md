@@ -2,11 +2,11 @@ Title: About Me
 Slug: about-me
 Author: Tim
 
-I'm interested in math, data, machine learning, computation, decision making, and optimization.
+I'm interested in math, data, machine learning, computation, and software development.
 
 I am a data scientist at [Distil Networks](http://distilnetworks.com). I previously worked as a data scientist for [Qadium, Inc](https://qadium.com/ "QADIUM"), data engineer at [Parse.ly](http://parse.ly) and a data scientist at [RTI International](http://www.rti.org/ "RTI International"). I have a masters in operations research from North Carolina State University where I worked with [Brian Denton](http://sitemaker.umich.edu/btdenton/home) on approximate dynamic programming in healthcare. I also spent a year as a grad student in math at the [University of Virginia](http://www.math.virginia.edu "Department of Mathematics, U.Va."). My undergraduate degree from [Grove City College](http://www.gcc.edu/Pages/Grove-City-College.aspx "Grove City College") is in mathematics; I also earned minors in applied physics and computer science.
 
-In my free time, I enjoy conversation, reading, hiking, (more) programming, and beer.
+In my free time, I enjoy conversation, reading, hiking, [taking pictures](https://www.flickr.com/photos/tdhopper), (more) programming, and beer.
 
 ### Projects
 
@@ -51,8 +51,3 @@ I was a lecture assistant and instructor in grad school. I independently taught 
 * Math 1310 Calculus I, Lecturer, Summer 2010
 * Math 1320 Calculus II, Teaching Assistant, Spring 2010
 * Math 1310 Calculus I, Teaching Assistant, Fall 2009
-
-
-### Consulting
-
-I am available for consulting on operations research, optimization, numerical analysis, and machine learning. You can contact me at [tdhopper@gmail.com](mailto:tdhopper@gmail.com).
