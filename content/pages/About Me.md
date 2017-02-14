@@ -4,13 +4,14 @@ Author: Tim
 
 I'm interested in math, data, machine learning, computation, and software development.
 
-I am a data scientist at [Distil Networks](http://distilnetworks.com). I previously worked as a data scientist for [Qadium, Inc](https://qadium.com/ "QADIUM"), data engineer at [Parse.ly](http://parse.ly) and a data scientist at [RTI International](http://www.rti.org/ "RTI International"). I have a masters in operations research from North Carolina State University where I worked with [Brian Denton](http://sitemaker.umich.edu/btdenton/home) on approximate dynamic programming in healthcare. I also spent a year as a grad student in math at the [University of Virginia](http://www.math.virginia.edu "Department of Mathematics, U.Va."). My undergraduate degree from [Grove City College](http://www.gcc.edu/Pages/Grove-City-College.aspx "Grove City College") is in mathematics; I also earned minors in applied physics and computer science.
+I am a data scientist at [Distil Networks](http://distilnetworks.com). I previously worked as a data scientist for [Qadium, Inc](https://qadium.com/ "QADIUM"), data engineer at [Parse.ly](http://parse.ly) and a data scientist at [RTI International](http://www.rti.org/ "RTI International"). I have a masters in operations research from North Carolina State University where I worked with [Brian Denton](http://sitemaker.umich.edu/btdenton/home) on reinforcement learning for healthcare scheduling. I also spent a year as a grad student in math at the [University of Virginia](http://www.math.virginia.edu "Department of Mathematics, U.Va."). My undergraduate degree from [Grove City College](http://www.gcc.edu/Pages/Grove-City-College.aspx "Grove City College") is in mathematics; I also earned minors in applied physics and computer science.
 
 In my free time, I enjoy conversation, reading, hiking, [taking pictures](https://www.flickr.com/photos/tdhopper), (more) programming, and beer.
 
 ### Projects
 
 * I built a [high-performance Python package](https://github.com/datamicroscopes/lda) for Gibbs sampling-based inference for nonparametric topic modeling (HDP-LDA).
+* I created [a Twitter bot](http://twitter.com/your_old_tweets) to help people uncover their old tweets from each day of the year.
 * I have another blog for quick posts tracking [Things I've Learned](http://til.tdhopper.com/).
 * I am a contributor to [streamparse](https://github.com/Parsely/streamparse "Parsely/streamparse · GitHub") which integrates Python and Apache Storm for real-time data processing.
 * I have a single page website to collect notes on one of my other hobbies: [ultralight backpacking](http://www.ultratall-ultralight.com/). In particular, notes on ultralight gear for the very tall.
@@ -26,6 +27,7 @@ In my free time, I enjoy conversation, reading, hiking, [taking pictures](https:
 
 ### Talks, Presentations, Publications
 
+* At Duke's Data Dialogue series, I [gave a talk](https://docs.google.com/presentation/d/1_wdSh2PFxiqBegt5PcatbEiQaganlgdb5bH7V2jHXZI/pub?start=false&loop=false&delayms=5000) called _<s>Dr.</s> Hopper or: How I Quit My Ph.D. and Learned to Love Data Science_. It wasn't recorded.
 * At Pydata Carolinas 2016, I [gave a talk](https://www.youtube.com/watch?v=uRul8QdYvqQ) on how and why data scientists should think about sharing their data-tinkering on the web.
 * At Pydata NYC 2015, I [gave a talk](https://github.com/tdhopper/pydata-nyc-2015) on understanding Latent Dirichlet Allocation using Python to simulate the generative model. It was [recorded](https://www.youtube.com/watch?v=_R66X_udxZQ)! I gave a [longer version of the talk in 2016](https://www.youtube.com/watch?v=Wy-XhT2sHgM&feature=youtu.be).
 * I am a coauthor on [Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study](http://www.jmir.org/2015/11/e251/).
