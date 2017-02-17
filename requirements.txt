@@ -6,5 +6,4 @@ pelican>=3.4.0
 pycrypto
 webassets
 wsgiref
-ipython[notebook]
-
+python-gettext

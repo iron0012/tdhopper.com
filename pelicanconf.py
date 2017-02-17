@@ -8,12 +8,13 @@ SITENAME = u'Stigler Diet'
 SITEURL = 'http://stiglerdiet.com'
 TIMEZONE = 'America/New_York'
 
-THEME = 'pelican-svbhack'
+THEME = 'pelican-bootstrap3'
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["latex", 'ipynb']
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
+PLUGINS = ["latex", 'i18n_subsites']
+EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 DEFAULT_LANG = u'en'
-MARKUP = ('md', 'ipynb')
+MARKUP = ('md', )
 USER_LOGO_URL = SITEURL + '/uploads/logo.png'
 
 PATH = 'content'
