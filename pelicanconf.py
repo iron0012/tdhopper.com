@@ -34,7 +34,10 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
 # Blogroll
 # LINKS =
-
+MENUITEMS = []
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_BREADCRUMBS = True
 # Social widget
 SOCIAL = (('Twitter', 'http://www.twitter.com/tdhopper'),
          ('Github', 'http://www.github.com/tdhopper'),
