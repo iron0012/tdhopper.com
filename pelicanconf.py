@@ -18,7 +18,7 @@ MARKUP = ('md', )
 USER_LOGO_URL = SITEURL + '/uploads/logo.png'
 
 PATH = 'content'
-STATIC_PATHS = ['uploads']
+STATIC_PATHS = ['uploads', 'static']
 ARTICLE_PATHS = ['articles']
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
@@ -49,7 +49,7 @@ SOCIAL = (('Twitter', 'http://www.twitter.com/tdhopper'),
          ('Flickr', 'https://www.flickr.com/photos/tdhopper'),
          ('Instagram', 'https://www.instagram.com/tdhopper'),
          )
-
+CUSTOM_CSS = 'static/custom.css'
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
