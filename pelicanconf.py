@@ -23,6 +23,7 @@ ARTICLE_PATHS = ['articles']
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 DISPLAY_RECENT_POSTS_ON_SIDEBAR =  True
+BOOTSTRAP_THEME = 'Readable'
 TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = 'tdhopper'
 PAGES_PATHS = ['pages']
@@ -37,7 +38,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
 # Blogroll
 # LINKS =
-MENUITEMS = [('About Me', '/about-me')]
+MENUITEMS = [('About Me', '/about-me'), ('Today I Learned', 'http://til.tdhopper.com/')]
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_BREADCRUMBS = True
@@ -47,9 +48,9 @@ SOCIAL = (('Twitter', 'http://www.twitter.com/tdhopper'),
          ('Linkedin', 'http://www.linkedin.com/in/tdhopper'),
          ('Flickr', 'https://www.flickr.com/photos/tdhopper'),
          ('Instagram', 'https://www.instagram.com/tdhopper'),
-         ('TIL', 'http://til.tdhopper.com/'),)
+         )
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
