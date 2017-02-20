@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 
 AUTHOR = u'Tim Hopper'
-SITENAME = u'Stigler Diet'
+SITENAME = u'Tim Hopper: stiglerdiet.com'
 SITEURL = 'http://stiglerdiet.com'
 TIMEZONE = 'America/New_York'
 
@@ -22,6 +22,9 @@ STATIC_PATHS = ['uploads']
 ARTICLE_PATHS = ['articles']
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
+DISPLAY_RECENT_POSTS_ON_SIDEBAR =  True
+TWITTER_WIDGET_ID = True
+TWITTER_USERNAME = 'tdhopper'
 PAGES_PATHS = ['pages']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
@@ -34,7 +37,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
 # Blogroll
 # LINKS =
-MENUITEMS = []
+MENUITEMS = [('About Me', '/about-me')]
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_BREADCRUMBS = True
