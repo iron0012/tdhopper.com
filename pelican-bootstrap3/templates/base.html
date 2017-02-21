@@ -99,6 +99,9 @@
               title="{{ SITENAME }} {{ category }} ATOM Feed"/>
     {% endif %}
 
+    <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
 </head>
 <body>
 
@@ -210,6 +213,15 @@
 {% include 'includes/ga.html' %}
 {% include 'includes/piwik.html' %}
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+  "HTML-CSS": {
+  styles: {
+  ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+  },
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+  });
+</script>
 {% block scripts %}{% endblock %}
 </body>
 </html>
