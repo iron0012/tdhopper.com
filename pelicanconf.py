@@ -41,6 +41,8 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 MENUITEMS = [('About Me', '/about-me'),
              ('Today I Learned', 'http://til.tdhopper.com/'),
              ('Archives', '/archives.html')]
+BANNER = '/static/banner.jpg'
+BANNER_SUBTITLE = 'Data Science. Python. Software Engineer. Math Jokes.'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_BREADCRUMBS = True
