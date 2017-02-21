@@ -8,6 +8,6 @@ I recently gave to the [Duke Big Data Initiative](http://bigdata.duke.edu/) enti
 
 I've started a long-form blog post with the same message, but it's not done yet. In the mean time, I wanted to share the slides that want along with the talk.
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-8by5">
 <iframe src="https://docs.google.com/presentation/d/1_wdSh2PFxiqBegt5PcatbEiQaganlgdb5bH7V2jHXZI/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>

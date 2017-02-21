@@ -9,10 +9,10 @@ I shared some of my best pictures from the trip on Flickr under a Creative Commo
 
 You can find more of my photography on [Flickr](https://www.flickr.com/photos/135293727@N08/) or [Instagram](https://www.instagram.com/tdhopper/).
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-5by4">
 <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/135293727@N08/28249757515/in/datetaken-public/" title="Wild Ponies of Grayson Highlands"><img src="https://c4.staticflickr.com/9/8730/28249757515_7a5bb07133_z.jpg" width="640" height="512" alt="Wild Ponies of Grayson Highlands"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-5by4">
 <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/135293727@N08/28496316405/in/datetaken-public/" title="Untitled"><img src="https://c6.staticflickr.com/9/8654/28496316405_e759f2d935_z.jpg" width="640" height="427" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>

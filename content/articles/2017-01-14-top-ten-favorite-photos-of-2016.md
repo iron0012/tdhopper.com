@@ -6,6 +6,6 @@ Category:
 
 I spent a lot of time with my camera in 2016. Here are some of the results.
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-5by4">
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/tdhopper/albums/72157675114780424" title="2016 Top Ten"><img src="https://c1.staticflickr.com/9/8217/29481301912_9a55bb9c99_z.jpg" width="640" height="512" alt="2016 Top Ten"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
