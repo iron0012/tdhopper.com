@@ -42,8 +42,10 @@ ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
 # Blogroll
 # LINKS =
 MENUITEMS = [('About Me', '/about-me'),
+             ('Archives', '/archives.html'),
              ('Today I Learned', 'http://til.tdhopper.com/'),
-             ('Archives', '/archives.html')]
+             ('doyouplayball.tumblr.com', 'http://doyouplayball.tumblr.com/'),
+             ]
 BANNER = 'static/banner.jpg'
 BANNER_SUBTITLE = 'Data Science. Python. Software Engineering. Math Jokes.'
 DISPLAY_PAGES_ON_MENU = False
