@@ -1,5 +1,4 @@
 Title: Logistic Regression Rules Everything Around Me
-
 Date: 2017-02-21 13:27
 Slug: logistic-regression-rules-everything-around-me
 Tags: datascience
