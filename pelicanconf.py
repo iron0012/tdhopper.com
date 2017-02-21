@@ -32,7 +32,14 @@ AVATAR = 'uploads/logo.png'
 ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
             "I enjoy math, computing, conversation, reading, hiking, photography, "
             "philosophy of science, and more.")
-
+PROJECTS = [
+    ("https://github.com/tdhopper/notes-on-dirichlet-processes", "Notes on Dirichlet Processes"),
+    ("http://www.ultratall-ultralight.com", "Ultralight Backpacking for the Ultratall"),
+    ("http://til.tdhopper.com/", "Today I Learned"),
+    ("http://shouldigetaphd.com/", "Should I Get a Phd?"),
+    ("http://doyouplayball.tumblr.com/", "Do You Play Ball?"),
+]
+FAVORITES_TAG = 'featured'
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = "feeds/%s"
 # CATEGORY_FEED_ATOM = "feeds/%s"

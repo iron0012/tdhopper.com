@@ -1,7 +1,8 @@
 Title: My Python Environment Workflow with Conda
 Date: 2015-11-24 08:55
 Slug: my-python-environment-workflow-with-conda
-Tags: python, conda, development, software-engineering
+Summary: How Conda Environments for managing and reproducing dependencies have helped me streamline data science research.
+Tags: python, conda, development, software-engineering, featured
 
 Many new Python programmers rely on their system install of Python to run their scripts. There are several good reasons to stop using the system Python. First, it's probably an old version of Python. Secondly, if you install 3rd party packages with [pip](https://pypi.python.org/pypi/pip), every package is installed into the same globally accessible directory. While this may sound convenient, it causes problems if you (1) install different packages with the same name (2) need to use different versions of the same package (3) upgrade your operating system (OS X will delete all the packages you have installed).
 

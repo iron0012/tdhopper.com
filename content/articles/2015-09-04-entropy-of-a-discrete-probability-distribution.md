@@ -1,8 +1,9 @@
 Title: Entropy of a Discrete Probability Distribution
 Date: 2015-09-04 09:22
 Slug: entropy-of-a-discrete-probability-distribution
-Tags: math
+Tags: math, featured
 Category:
+Summary: A brief introduction to measuring the uncertainty of a discrete probability distribution using entropy.
 
 Supposed we have a discrete set of possible events $1,\ldots, n$ that occur with probabilities $p_1, p_2, \ldots, p_n$. Claude Shannon asked the question
 

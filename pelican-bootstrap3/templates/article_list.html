@@ -1,6 +1,26 @@
 {% extends "base.html" %}
 {% block content %}
+    <div class="page-header">
+      <h1>Featured Posts</h1>
+    </div>
+    <div class="row">
+      {% for article in articles if FAVORITES_TAG in article.tags %}
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <div class="caption">
+              <h4>{{ article.title }}</h4>
+              <p>{{ article.summary }}</p>
+              <div><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">{{ _('read more') }}</a></div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
     {% if articles %}
+        <div class="page-header">
+          <h1>Recent Posts</h1>
+        </div>
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
                 <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>

@@ -2,6 +2,9 @@ Title: How I Became a Data Scientist Despite Having Been a Math Major
 Slug: how-i-became-a-data-scientist
 Date: 2015-05-11
 Category: datascience
+Tags: featured
+Summary: An overview of my round-about journey from studying math as an undergrad to the world of data science.
+
 
 Caution: the following post is laden with qualitative extrapolation of anecdotes and impressions. Perhaps ironically (though perhaps not), it is not a data driven approach to measuring the efficacy of math majors as data scientists. If you have a differing opinion, I would greatly appreciate you to carefully articulate it and share it with the world.
 

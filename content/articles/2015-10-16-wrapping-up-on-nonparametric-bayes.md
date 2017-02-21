@@ -2,7 +2,8 @@ Title: Wrapping Up on Nonparametric Bayes
 Date: 2015-10-16 10:01
 Slug: wrapping-up-on-nonparametric-bayes
 Category: Nonparametric Bayes
-Tags: IPython, math, statistics, npbayes
+Summary: Summary of my work developing a high-performance Python library for inference of nonparametric Latent Dirichlet Allocation.
+Tags: IPython, math, statistics, npbayes, featured
 
 Today is my last day at [Qadium](http://qadium.com)
 
