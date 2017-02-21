@@ -16,7 +16,7 @@ JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 DEFAULT_LANG = u'en'
 MARKUP = ('md', )
 USER_LOGO_URL = SITEURL + '/uploads/logo.png'
-
+GITHUB_USER = 'tdhopper'
 PATH = 'content'
 STATIC_PATHS = ['uploads', 'static']
 ARTICLE_PATHS = ['articles']
@@ -38,7 +38,9 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
 # Blogroll
 # LINKS =
-MENUITEMS = [('About Me', '/about-me'), ('Today I Learned', 'http://til.tdhopper.com/')]
+MENUITEMS = [('About Me', '/about-me'),
+             ('Today I Learned', 'http://til.tdhopper.com/'),
+             ('Archives', '/archives.html')]
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_BREADCRUMBS = True
