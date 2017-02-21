@@ -38,9 +38,9 @@
         {% if OPEN_GRAPH_FB_APP_ID %}
             <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
         {% endif %}
-        <meta property="og:site_name" content="{{ SITENAME }}" />
+        <meta property="og:site_name" content="{{ SITENAME }} by {{ AUTHOR }}" />
         <meta property="og:type" content="website"/>
-        <meta property="og:title" content="{{ SITENAME }}"/>
+        <meta property="og:title" content="{% block title %}{{ SITENAME }}{% endblock %}"/>
         <meta property="og:url" content="{{ SITEURL }}"/>
         <meta property="og:description" content="{{ ABOUT_ME }}"/>
         {% if OPEN_GRAPH_IMAGE %}

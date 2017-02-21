@@ -31,7 +31,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 AVATAR = 'uploads/logo.png'
 ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
             "I enjoy math, computing, conversation, reading, hiking, photography, "
-            "philosophy of science, and the history of religion in America.")
+            "philosophy of science, and more.")
 
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = "feeds/%s"
