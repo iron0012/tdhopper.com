@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 
 AUTHOR = u'Tim Hopper'
-SITENAME = u'Tim Hopper: stiglerdiet.com'
+SITENAME = u'stiglerdiet.com'
 SITEURL = 'http://stiglerdiet.com'
 TIMEZONE = 'America/New_York'
 
@@ -16,7 +16,6 @@ JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 DEFAULT_LANG = u'en'
 MARKUP = ('md', )
 USER_LOGO_URL = SITEURL + '/uploads/logo.png'
-GITHUB_USER = 'tdhopper'
 PATH = 'content'
 STATIC_PATHS = ['uploads', 'static']
 ARTICLE_PATHS = ['articles']
@@ -29,6 +28,10 @@ TWITTER_USERNAME = 'tdhopper'
 PAGES_PATHS = ['pages']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+AVATAR = 'uploads/logo.png'
+ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
+            "I enjoy math, computing, conversation, reading, hiking, photography, "
+            "philosophy of science, and the history of religion in America.")
 
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = "feeds/%s"
