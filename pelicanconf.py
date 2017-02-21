@@ -41,6 +41,8 @@ ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
 
 # Blogroll
 # LINKS =
+GOOGLE_ANALYTICS = 'UA-43428740-1'
+USE_OPEN_GRAPH = True
 MENUITEMS = [('About Me', '/about-me'),
              ('Archives', '/archives.html'),
              ('Today I Learned', 'http://til.tdhopper.com/'),
