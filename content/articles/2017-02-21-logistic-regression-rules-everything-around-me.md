@@ -5,7 +5,7 @@ Slug: logistic-regression-rules-everything-around-me
 Tags: datascience
 Category:
 
-[Fred Benenson]https://twitter.com/fredbenenson) spent 6 years doing data science at Kickstarter. When he left last year, he wrote a [fantastic recap](https://hackernoon.com/on-to-the-next-2-271-days-309d6ba672d7) of his experience.
+[Fred Benenson](https://twitter.com/fredbenenson) spent 6 years doing data science at Kickstarter. When he left last year, he wrote a [fantastic recap](https://hackernoon.com/on-to-the-next-2-271-days-309d6ba672d7) of his experience.
 
 His "list of things I've discovered over the years" is particularly good. Here are a few of the things that resonated with me:
 
