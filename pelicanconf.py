@@ -46,7 +46,6 @@ USE_OPEN_GRAPH = True
 MENUITEMS = [('About Me', '/about-me'),
              ('Archives', '/archives.html'),
              ('Today I Learned', 'http://til.tdhopper.com/'),
-             ('doyouplayball.tumblr.com', 'http://doyouplayball.tumblr.com/'),
              ]
 BANNER = 'static/banner.jpg'
 BANNER_SUBTITLE = 'Data Science. Python. Software Engineering. Math Jokes.'
