@@ -40,6 +40,7 @@ PROJECTS = [
     ("http://doyouplayball.tumblr.com/", "Do You Play Ball?"),
 ]
 FAVORITES_TAG = 'featured'
+OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = "feeds/%s"
 # CATEGORY_FEED_ATOM = "feeds/%s"
