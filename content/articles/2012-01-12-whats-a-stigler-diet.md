@@ -5,6 +5,7 @@ Category: OR Example,
 Slug: whats-a-stigler-diet
 Tags: featured
 Summary: A look at economist George Stigler's applied optimization problem that this blog is named after.
+Thumbnail: static/ibm701.jpg
 
 In 1945, Nobel Laureate economist George Stigler posed a problem:
 

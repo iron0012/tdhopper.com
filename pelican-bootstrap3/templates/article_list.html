@@ -7,8 +7,9 @@
       {% for article in articles if FAVORITES_TAG in article.tags %}
         <div class="col-sm-6 col-md-4">
           <div class="thumbnail">
+            <img src="{{ SITEURL }}/{{ article.thumbnail }}">
             <div class="caption">
-              <h4>{{ article.title }}</h4>
+              <a href="href="{{ SITEURL }}/{{ article.url }}"><h4>{{ article.title }}</h4></a>
               <p>{{ article.summary }}</p>
               <div><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">{{ _('read more') }}</a></div>
             </div>

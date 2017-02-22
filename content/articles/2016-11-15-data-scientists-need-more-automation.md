@@ -4,6 +4,7 @@ Slug: data-scientists-need-more-automation
 Tags: automation, data-science, operations, featured
 Summary: An appeal for training to help data scientists take control of their their system management, configuration, and operations.
 Category:
+Thumbnail: static/cafe.jpg
 
 Many data scientists aren't lazy enough.
 
