@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Tim Hopper'
 SITENAME = u'stiglerdiet.com'
-SITEURL = 'http://stiglerdiet.com'
+SITEURL = 'http://www.stiglerdiet.com'
 TIMEZONE = 'America/New_York'
 
 THEME = 'pelican-bootstrap3'
