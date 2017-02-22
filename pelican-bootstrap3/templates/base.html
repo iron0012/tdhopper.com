@@ -171,12 +171,13 @@
                         {% set name_sanitized = s[0]|lower|replace('+','-plus')|replace(' ','-') %}
                     {% endif %}
                     {% if name_sanitized in ['flickr', 'slideshare', 'spotify', 'stack-overflow', 'weibo', 'line-chart', 'home', 'user', 'users', 'envelope', 'envelope-o', 'stack-exchange', 'hacker-news', 'meetup', 'vk', 'instagram'] %}
-                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-2x"' %}
+                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
                     {% else %}
-                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-2x"' %}
+                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
                     {% endif %}
                     <li><a href="{{ s[1] }}" title="{{ s[0] }}" class="social">
-                    <i class={{ iconattributes }}></i></a></li>
+                    <i class={{ iconattributes }}></i>
+                    <span class="visible-xs-inline">{{ s[0] }}</span></a></li>
                 {% endfor %}
             </ul>
             {% endif %}
