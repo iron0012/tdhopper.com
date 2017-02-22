@@ -28,7 +28,7 @@ TWITTER_USERNAME = 'tdhopper'
 PAGES_PATHS = ['pages']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
-AVATAR = 'uploads/headshot.jpg'
+AVATAR = 'static/headshot.jpg'
 ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
             "I enjoy math, computing, conversation, reading, hiking, photography, "
             "philosophy of science, and more.")
