@@ -2,6 +2,42 @@
    <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
       <hr>
       <div class="row">
+        <div class="col-sm-4">
+            {% if AVATAR %}
+                <p>
+                    <img width="100%" class="img-thumbnail" src="{{ SITEURL }}/{{ AVATAR }}"/>
+                </p>
+            {% endif %}
+        </div>
+        <div class="col-sm-8 well">
+            {% if ABOUT_ME %}
+            <p>
+              <strong>{{ _('About') }} {{ AUTHOR }}</strong><br/>
+                {{ ABOUT_ME }} <a class="btn btn-default btn-xs" href="{{ SITEURL }}/about-me">{{ _('read more') }}</a>
+            </p>
+            {% endif %}
+
+            {% if SOCIAL %}
+              <div>
+
+                {% for s in SOCIAL %}
+                  {% if s[2] %}
+                      {% set name_sanitized = s[2]|lower|replace('+','-plus')|replace(' ','-') %}
+                  {% else %}
+                      {% set name_sanitized = s[0]|lower|replace('+','-plus')|replace(' ','-') %}
+                  {% endif %}
+                  {% if name_sanitized in ['flickr', 'slideshare', 'spotify', 'stack-overflow', 'weibo', 'line-chart', 'home', 'user', 'users', 'envelope', 'envelope-o', 'stack-exchange', 'hacker-news', 'meetup', 'vk', 'instagram'] %}
+                      {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
+                  {% else %}
+                      {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
+                  {% endif %}
+                <a href="{{ s[1] }}"><i class={{ iconattributes }}></i> {{ s[0] }}</a> &nbsp;&nbsp;
+                {% endfor %}
+              </div>
+            {% endif %}
+        </div>
+      </div>
+      <div class="row">
          {% if articles %}
            {% if articles[0].modified %}
              {% set copy_date = articles[0].modified.strftime('%Y') %}

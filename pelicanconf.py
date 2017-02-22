@@ -21,14 +21,14 @@ STATIC_PATHS = ['uploads', 'static']
 ARTICLE_PATHS = ['articles']
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
-DISPLAY_RECENT_POSTS_ON_SIDEBAR =  True
+HIDE_SIDEBAR =  True
 BOOTSTRAP_THEME = 'readable'
 TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = 'tdhopper'
 PAGES_PATHS = ['pages']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
-AVATAR = 'uploads/logo.png'
+AVATAR = 'uploads/headshot.jpg'
 ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
             "I enjoy math, computing, conversation, reading, hiking, photography, "
             "philosophy of science, and more.")
