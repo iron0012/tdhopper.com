@@ -67,7 +67,7 @@ SOCIAL = (('Twitter', 'http://www.twitter.com/tdhopper'),
          ('Instagram', 'https://www.instagram.com/tdhopper'),
          )
 CUSTOM_CSS = 'static/custom.css'
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
