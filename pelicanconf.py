@@ -34,10 +34,10 @@ ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
             "philosophy of science, and more.")
 PROJECTS = [
     ("https://github.com/tdhopper/notes-on-dirichlet-processes/blob/master/README.md", "Notes on Dirichlet Processes"),
-    ("http://www.ultratall-ultralight.com", "Ultralight Backpacking for the Ultratall"),
     ("http://til.tdhopper.com/", "Today I Learned"),
     ("http://shouldigetaphd.com/", "Should I Get a Phd?"),
     ("http://doyouplayball.tumblr.com/", "Do You Play Ball?"),
+    ("http://www.ultratall-ultralight.com", "Ultralight Backpacking for the Ultratall"),
 ]
 FAVORITES_TAG = 'featured'
 OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
