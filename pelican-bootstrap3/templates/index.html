@@ -19,6 +19,7 @@
             </div>
           </div>
         </div>
+        {% if not loop.index % 2 %} <div class="clearfix visible-s-block"></div>{% endif %}
       {% endfor %}
     </div>
     <div class="page-header">
