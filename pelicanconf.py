@@ -58,7 +58,7 @@ BANNER = 'static/banner.jpg'
 BANNER_SUBTITLE = 'Data Science. Python. Software Engineering. Math Jokes.'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_BREADCRUMBS = True
+DISPLAY_BREADCRUMBS = False
 # Social widget
 SOCIAL = (('Twitter', 'http://www.twitter.com/tdhopper'),
          ('Github', 'http://www.github.com/tdhopper'),

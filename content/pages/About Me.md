@@ -8,6 +8,8 @@ I am a data scientist at [Distil Networks](http://distilnetworks.com). I previou
 
 In my free time, I enjoy conversation, reading, hiking, [taking pictures](https://www.flickr.com/photos/tdhopper), (more) programming, and beer.
 
+My full résumé is available [here](/resume).
+
 ### Projects
 
 * I built a [high-performance Python package](https://github.com/datamicroscopes/lda) for Gibbs sampling-based inference for nonparametric topic modeling (HDP-LDA).
