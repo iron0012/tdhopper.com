@@ -7,7 +7,12 @@
 <div id="banner">
 	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
 		<div class="copy">
+			<a class="pull-right btn btn-link btn-xs" style="margin-top: 10px;" href="{{ SITEURL }}/about-me">
+				<i class="fa fa-chevron-circle-right" aria-hidden="true"></i> {{ _('more about me') }} </a>
 			<h1>{{ AUTHOR }}</h1>
+
+
+
 			{% if BANNER_SUBTITLE %}
 				<p class="intro">{{ BANNER_SUBTITLE }}</p>
 			{% endif %}
