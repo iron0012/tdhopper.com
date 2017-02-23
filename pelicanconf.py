@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 
 AUTHOR = u'Tim Hopper'
-SITENAME = u'stiglerdiet.com'
-SITEURL = 'http://www.stiglerdiet.com'
+SITENAME = u'tdhopper.com'
+SITEURL = 'http://www.tdhopper.com'
 TIMEZONE = 'America/New_York'
 
 THEME = 'pelican-bootstrap3'
