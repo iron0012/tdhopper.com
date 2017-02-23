@@ -10,18 +10,6 @@ deploy:
     - provider: s3
       access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
       secret_access_key: $AWS_SECRET_KEY
-      bucket: stiglerdiet.com
-      endpoint: stiglerdiet.com.s3-website-us-east-1.amazonaws.com
-      region: us-east-1
-      skip_cleanup: true
-      local-dir: output
-      acl: public_read
-      detect_encoding: true
-      on:
-        branch: master
-    - provider: s3
-      access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
-      secret_access_key: $AWS_SECRET_KEY
       bucket: tdhopper.com
       endpoint: tdhopper.com.s3-website-us-east-1.amazonaws.com
       region: us-east-1
@@ -30,6 +18,6 @@ deploy:
       acl: public_read
       detect_encoding: true
       on:
-        branch: tdhopper
+        branch: master
 notifications:
     email: false
