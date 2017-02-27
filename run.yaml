@@ -1,0 +1,11 @@
+session_name: blog dev
+windows:
+- window_name: dev window
+  layout: tiled
+  shell_command_before:
+    - activate stiglerdiet
+  panes:
+    - shell_command:
+        - pelican -r -o output content -s pelicanconf.py -v
+    - shell_command:
+        - fab serve
