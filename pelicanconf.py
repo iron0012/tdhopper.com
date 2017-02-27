@@ -8,6 +8,8 @@ SITENAME = u'tdhopper.com'
 SITEURL = 'http://www.tdhopper.com'
 TIMEZONE = 'America/New_York'
 
+
+INDEX_SAVE_AS = 'blog.html'
 THEME = 'pelican-bootstrap3'
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["latex", 'i18n_subsites']
