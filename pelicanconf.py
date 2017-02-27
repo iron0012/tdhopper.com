@@ -29,6 +29,7 @@ PAGES_PATHS = ['pages']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 AVATAR = 'static/headshot.jpg'
+INDEX_SAVE_AS = 'blog_index.html'
 ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
             "I enjoy math, computing, conversation, reading, hiking, photography, "
             "philosophy of science, and more.")
@@ -39,6 +40,7 @@ PROJECTS = [
     ("http://doyouplayball.tumblr.com/", "Do You Play Ball?"),
     ("http://www.ultratall-ultralight.com", "Ultralight Backpacking for the Ultratall"),
 ]
+TEMPLATE_PAGES = {"./home.html": "index.html"}
 FAVORITES_TAG = 'featured'
 OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
 # Feed generation is usually not desired when developing
