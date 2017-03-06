@@ -4,13 +4,13 @@ Slug: some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs
 Tags: interviewing, hiring, data-science
 Category:
 
-> The decision was close, but the team has decided to keep looking for someone who might have more direct neural net experience.
+> 👉 The decision was close, but the team has decided to keep looking for someone who might have more direct neural net experience.
 
-> Honestly, I think the way you communicated your thought process and results was confusing for some people in the room.
+> 👉 Honestly, I think the way you communicated your thought process and results was confusing for some people in the room.
 
-> He's needing someone with an image analysis background for data scientist we're hiring now.
+> 👉 He's needing someone with an image analysis background for data scientist we're hiring now.
 
-> Quite honestly given your questions [about vacation policy] and the fact that you are considering other options, [we] may not be the best choice for you.
+> 👉 Quite honestly given your questions [about vacation policy] and the fact that you are considering other options, [we] may not be the best choice for you.
 
 These quotes above are some of the reasons I've been given for why I wasn't offered a data science job after interviewing. I've been told a variety of other reasons as well: company decided against hiring remotes after interviewing (I've heard this at least 3 times), company thought I changed jobs too frequently, company decided it didn't have necessary data infrastructure in place for data science work. Multiple companies gave no particular reason; some of these were at least kind enough to _notify me_ they weren't interested. One company hired someone with a Ph.D. from MIT soon after turning me down.
 
