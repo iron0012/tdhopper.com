@@ -1,6 +1,6 @@
 Title: Concatenate files with header row
 Date: 2016-05-02
-Category til
+Category: til
 Tags: bash
 
 I needed to concatenate a bunch of CSV files while skipping the header row. There was a nice solution on [Stack Overflow](http://stackoverflow.com/questions/10103619/unix-merge-many-files-while-deleting-first-line-of-all-files):

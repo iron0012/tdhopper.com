@@ -1,6 +1,6 @@
 Title: Column binding two Panda's Dataframes
 Date: 2016-04-11
-Category til
+Category: til
 Tags: python
 
 Joining two Pandas DataFrames with an equal number of rows is slightly harder than it appears. In R, you just use the `cbind` function.

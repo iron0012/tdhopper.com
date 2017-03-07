@@ -1,6 +1,6 @@
 Title: Shortcut to Switch to Previous Git Branch
 Date: 2014-09-10
-Category til
+Category: til
 Tags: bash, git
 
 

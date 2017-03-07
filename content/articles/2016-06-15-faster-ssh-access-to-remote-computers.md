@@ -1,6 +1,6 @@
 Title: Faster SSH Access to Remote Computers
 Date: 2016-06-15
-Category til
+Category: til
 Tags: bash
 
 I routinely [SSH](https://en.wikipedia.org/wiki/SSH "Wikipedia Entry: SSH") into a company machine on Openstack to do work. Until yesterday, I'd use my Bash history to find the SSH command I needed to access it. I was reading [SSH Mastery](https://www.amazon.com/SSH-Mastery-OpenSSH-PuTTY-Tunnels/dp/1470069717) in a plane yesterday and realized I've been foolish to neglect the power of `~/ssh/.config`.

@@ -1,6 +1,6 @@
 Title: Setting Up supervisord
 Date: 2016-09-20
-Category til
+Category: til
 Tags: bash, python
 
 First run `$ sudo pip install supervisor`.

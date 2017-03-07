@@ -1,5 +1,5 @@
 Title: Get Pykafka to work with rdkafka on Linux
-Category til
+Category: til
 Tags: bash, python
 Date: 2016-11-18
 

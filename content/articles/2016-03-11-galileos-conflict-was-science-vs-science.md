@@ -1,6 +1,6 @@
 Title: Galileo's Conflict was Science vs. Science
 Date: 2016-03-11
-Category til
+Category: til
 Tags: history, science
 
 Galileo's conflict with the Church was not as it is often portrayed:
