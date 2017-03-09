@@ -89,6 +89,7 @@ nonlinear mixed effect modeling, and text-mining-based crime forecasting softwar
 * [Streamparse](https://github.com/parsely/streamparse)
 * [Conda](https://github.com/conda/conda/commits?author=tdhopper)
 * [Impyla](https://github.com/cloudera/impyla/commits?author=tdhopper)
+* [lda](https://github.com/ariddell/lda/commits?author=tdhopper)
 
 ### Tool Experience and Skills
 
