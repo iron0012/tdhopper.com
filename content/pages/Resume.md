@@ -90,6 +90,7 @@ nonlinear mixed effect modeling, and text-mining-based crime forecasting softwar
 * [Conda](https://github.com/conda/conda/commits?author=tdhopper)
 * [Impyla](https://github.com/cloudera/impyla/commits?author=tdhopper)
 * [lda](https://github.com/ariddell/lda/commits?author=tdhopper)
+* [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
 
 ### Tool Experience and Skills
 
