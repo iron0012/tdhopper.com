@@ -7,3 +7,7 @@ pycrypto
 webassets
 wsgiref
 python-gettext
+jupyter
+nbconvert>=4.0
+ipython>=4.0
+beautifulsoup4
