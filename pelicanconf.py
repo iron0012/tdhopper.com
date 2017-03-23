@@ -10,7 +10,7 @@ TIMEZONE = 'America/New_York'
 
 THEME = 'pelican-bootstrap3'
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["latex", 'i18n_subsites']
+PLUGINS = ["latex", 'i18n_subsites', 'ipynb.markupco']
 EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'footnotes']
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 DEFAULT_LANG = u'en'
