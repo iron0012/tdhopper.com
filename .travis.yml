@@ -16,6 +16,7 @@ deploy:
       skip_cleanup: true
       local-dir: output
       acl: public_read
+      default_text_charset: 'utf-8' 
       detect_encoding: true
       on:
         branch: master
