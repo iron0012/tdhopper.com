@@ -4,3 +4,4 @@ Date: 2017-03-23
 Category: tutorial
 Tags: devops, python, ansible, automation, featured
 Thumbnail: static/cafe.jpg
+Summary: An interactive tutorial teaching you how to use Ansible to deploy a long running Python process to a remote machine.
