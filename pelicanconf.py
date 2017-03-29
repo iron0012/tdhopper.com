@@ -26,6 +26,7 @@ BOOTSTRAP_THEME = 'readable'
 TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = 'tdhopper'
 PAGES_PATHS = ['pages']
+IPYNB_USE_META_SUMMARY = True
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 AVATAR = 'static/headshot.jpg'
