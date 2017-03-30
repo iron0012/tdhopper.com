@@ -10,6 +10,13 @@ In my free time, I enjoy conversation, reading, hiking, [taking pictures](https:
 
 My full résumé is available [here](/resume).
 
+### Interviews with Me
+
+* [Profile in Computational Imagination: Tim Hopper](http://computationalimagination.com/interview_tim_hopper.php) with Michael Swenson (August 2015)
+* [Intelligent Security](https://undersampledrad.io/home/2016/10/intelligent-security) on the Undersampled Radio podcast (October 2016)
+* [The Tallest Data Scientist](http://adversariallearning.com/episode-2-the-tallest-data-scientist.html) on the Adversarial Learning podcast (December 2016)
+
+
 ### Projects
 
 * I built a [high-performance Python package](https://github.com/datamicroscopes/lda) for Gibbs sampling-based inference for nonparametric topic modeling (HDP-LDA).
