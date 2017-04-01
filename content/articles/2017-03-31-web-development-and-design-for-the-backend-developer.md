@@ -97,9 +97,7 @@ I've struggled with DNS configuration over the years, so I watched Cricket Liu's
 
 ##### Package Managers
 
-It's likely that any modern web project will have some external Javascript dependencies. Package managers (analogous to Pypi or Anaconda.org on Python) have emerged to help support this. Node.js comes with the npm package manager, but [Bower](https://bower.io/) seems to make more sense for front-end development. [Cody Lindley has a nice introduction to npm and Bower](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/). Bower is [well documented](https://bower.io) and easy to start using. There is a nice [Flask extension](https://pypi.python.org/pypi/Flask-Bower/) to help you integrate Bower with your Python project.
-
-The recent buzz in package management has been about [Yarn](https://yarnpkg.com/en/), but I haven't looked into it much yet; Bower is working for me.
+It's likely that any modern web project will have some external Javascript dependencies. Package managers (analogous to Pypi or Anaconda.org on Python) have emerged to help support this. Node.js comes with the npm package manager, but [Bower](https://bower.io/) seems to make more sense for front-end development.[^yarn] [Cody Lindley has a nice introduction to npm and Bower](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/). Bower is [well documented](https://bower.io) and easy to start using. There is a nice [Flask extension](https://pypi.python.org/pypi/Flask-Bower/) to help you integrate Bower with your Python project.
 
 ##### Task Automation
 
@@ -131,3 +129,4 @@ I've learned a lot in the past few months. I've filled in some gaps about how CS
 
 I still have a lot of learning and a lot of practicing ahead of me, but I'm starting to feel confident that I could make headway on some of my projects. The modern [frontend development landscape](https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0) is massive, varied, and ever changing, but that shouldn't prohibit you from diving in if you want to.
 
+[^yarn]: The recent buzz in package management has been about [Yarn](https://yarnpkg.com/en/), a replacement for npm.
