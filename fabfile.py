@@ -1,7 +1,7 @@
 from fabric.api import *
 import os
 
-S3_PATH = "s3://stiglerdiet.com"
+S3_PATH = "s3://tdhopper.com"
 
 # Local path configuration (can be absolute or relative to fabfile)
 env.deploy_path = 'output'
