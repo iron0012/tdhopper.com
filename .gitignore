@@ -9,3 +9,6 @@ output/
 cache/
 templates/
 screenshot.png
+node_modules/
+srv.pid
+pelican.pid
