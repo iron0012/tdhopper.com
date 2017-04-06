@@ -1,0 +1,26 @@
+{
+  "name": "tdhopper.com",
+  "version": "1.0.0",
+  "description": "Personal Blog",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdhopper/tdhopper.com.git"
+  },
+  "author": "Tim Hopper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdhopper/tdhopper.com/issues"
+  },
+  "homepage": "https://github.com/tdhopper/tdhopper.com#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp-htmllint": "0.0.12"
+  }
+}
