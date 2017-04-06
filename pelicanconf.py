@@ -23,6 +23,7 @@ PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 HIDE_SIDEBAR =  True
 BOOTSTRAP_THEME = 'readable'
+PYGMENTS_STYLE = 'murphy'
 TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = 'tdhopper'
 PAGES_PATHS = ['pages']
