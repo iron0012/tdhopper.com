@@ -26,6 +26,7 @@ BOOTSTRAP_THEME = 'readable'
 PYGMENTS_STYLE = 'murphy'
 TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = 'tdhopper'
+INDEX_SAVE_AS = None
 PAGES_PATHS = ['pages']
 IPYNB_USE_META_SUMMARY = True
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
