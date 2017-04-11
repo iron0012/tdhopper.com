@@ -13,7 +13,7 @@
                 <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/{{ article.thumbnail }}"></a>
                 <div class="caption">
                   <a href="{{ SITEURL }}/{{ article.url }}"><h4>{{ article.title }}</h4></a>
-                  <p>{{ article.summary }}</p>
+                  <p class="sansserif">{{ article.summary | striptags }}</p>
                   <div><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">{{ _('read more') }}</a></div>
                 </div>
               </div>
@@ -34,7 +34,7 @@
             {{ a.title }}
             <span class="categories-timestamp"><time datetime="{{ a.date.isoformat() }}">{{ a.locale_date }}</time></span>
           </h4>
-          <p class="list-group-item-text">{{ a.summary | striptags }}</p>
+          <p class="list-group-item-text sansserif">{{ a.summary | striptags }}</p>
         </a>
         {% endif %}
         {% endfor %}
@@ -54,7 +54,7 @@
                     </h4>
                 </div>
             <div class="panel-body">
-                    <ul class="archive-list">
+                    <ul class="sansserif">
                     {% for article in articles %}
                     <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
                     <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
