@@ -2,6 +2,7 @@ Title: Logistic Regression Rules Everything Around Me
 Category: Quote
 Date: 2017-02-21 13:27
 Slug: logistic-regression-rules-everything-around-me
+Summary: Link to Fred Benenson recap on his 6 years of data science at Kickstarter.
 
 [Fred Benenson](https://twitter.com/fredbenenson) spent 6 years doing data science at Kickstarter. When he left last year, he wrote a [fantastic recap](https://hackernoon.com/on-to-the-next-2-271-days-309d6ba672d7) of his experience.
 
