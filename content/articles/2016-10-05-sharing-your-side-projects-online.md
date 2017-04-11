@@ -1,8 +1,8 @@
 Title: Sharing Your Side Projects Online
+Category: Article
 Date: 2016-10-05 09:17
 Slug: sharing-your-side-projects-online
 Tags:
-Category:
 
 I gave a talk at Pydata Carolinas 2016 on Sharing Your Side Projects Online. Here's the abstract:
 

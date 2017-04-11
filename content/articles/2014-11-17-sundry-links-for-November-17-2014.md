@@ -1,6 +1,6 @@
 Title: Sundry Links for November 17, 2014
-Slug: sundry-links-for-November-17-2014
 Category: Sundry Links
+Slug: sundry-links-for-November-17-2014
 
 [There's no magic: virtualenv edition](https://www.hackerschool.com/blog/14-there-is-no-magic-virtualenv-edition): I didn't really get virtualenvs until long after I started programming Python, though they're now an essential part of my toolkit. This is a great post explaining how they work.
 

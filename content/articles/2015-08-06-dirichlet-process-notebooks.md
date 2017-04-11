@@ -1,8 +1,7 @@
 Title: Dirichlet Process Notebooks
+Category: Article
 Date: 2015-08-06 09:20
 Slug: dirichlet-process-notebooks
-Category: Nonparametric Bayes
-Tags: IPython, math, statistics, npbayes
 
 
 I created [a dedicated Github repository](https://github.com/tdhopper/notes-on-dirichlet-processes) for the recent posts I've been doing on Dirichlet processes.

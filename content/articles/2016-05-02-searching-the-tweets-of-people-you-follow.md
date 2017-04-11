@@ -1,7 +1,6 @@
 Title: Searching the tweets of people you follow
+Category: Today I Learned
 Date: 2016-05-02
-Category: til
-Tags: twitter
 
 This is more of a Today I Taught.
 

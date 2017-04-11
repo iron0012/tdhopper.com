@@ -1,6 +1,5 @@
 Title: Get Pykafka to work with rdkafka on Linux
-Category: til
-Tags: bash, python
+Category: Today I Learned
 Date: 2016-11-18
 
 My former colleague's from Parse.ly wrote the fantastic [pykafka](https://github.com/Parsely/pykafka) library with an optional c-backed using [rdkafka](https://github.com/edenhill/librdkafka). I've had trouble getting it to work, and here are a few things I've learned:

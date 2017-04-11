@@ -1,8 +1,7 @@
 Title: Understanding Probabilistic Topic Models By Simulation
+Category: Personal Update
 Date: 2016-10-25 09:39
 Slug: understanding-probabilistic-topic-models-by-simulation
-Tags: talks
-Category:
 
 I gave a talk last week at Research Triangle Analysts on understanding probabilistic topic models (specificly LDA) by using Python for simulation. Here's the description:
 

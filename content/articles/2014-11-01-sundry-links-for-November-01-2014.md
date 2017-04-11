@@ -2,7 +2,7 @@ Title: Sundry Links for November 1, 2014
 Slug: sundry-links-for-November-01-2014
 Category: Sundry Links
 
-[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html): I guess the title says it all. By Joel Spolsky. 
+[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html): I guess the title says it all. By Joel Spolsky.
 
 [Unix Shells - Hyperpolyglot](http://hyperpolyglot.org/unix-shells): Very cool comparison of basic command syntax in Bash, Fish, Ksh, Tcsh, and Zsh.
 

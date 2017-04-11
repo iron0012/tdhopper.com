@@ -1,8 +1,7 @@
 Title: Web Development and Design for the Backend Developer
+Category: Tutorial
 Date: 2017-03-31 08:49
 Slug: web-development-and-design-for-the-backend-developer
-Tags: webdevelopment, python, javascript, learning
-Category:
 
 I've been tinkering with websites for nearly 20 years. My friend Hunter and I were big into making terrible Angelfire sites as pre-teens. In high school, my dad paid me to make him a webpage for his doctor's office (I used Frontpage). A year or two after that, I read Kevin Yank's "Build Your Own Database Driven Website Using PHP & MySQL" and hacked together a PHP backend for a Lord of the Rings fan site.
 

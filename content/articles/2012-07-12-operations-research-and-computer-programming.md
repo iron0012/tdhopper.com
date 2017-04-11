@@ -1,7 +1,7 @@
 Title: Operations Research and Computer Programming
+Category: Article
 Date: 2012-07-12 09:21:57
 Author: Tim
-Category: Research, OR Inside Baseball, Computing,
 Slug: operations-research-and-computer-programming
 
 For part of my sophomore year of college, I was a computer science major. When I realized that I loved my CS theory courses while my classmates hated them, I decide to major in math instead. I enjoyed the programming classes enough, but programming is not what I wanted to spend my time doing.

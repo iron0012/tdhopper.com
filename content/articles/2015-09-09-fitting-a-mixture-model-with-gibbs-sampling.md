@@ -1,8 +1,7 @@
 Title: Fitting a Mixture Model with Gibbs Sampling
+Category: Tutorial
 Date: 2015-09-09 16:30
 Slug: fitting-a-mixture-model-with-gibbs-sampling
-Category: Nonparametric Bayes
-Tags: IPython, math, statistics, npbayes
 
 In attempt to clarify my own understanding of how Gibbs samplers are derived for Bayesian models, I collected [some notes on the sampler for a finite mixture model into an IPython notebook](https://github.com/tdhopper/notes-on-dirichlet-processes/blob/master/2015-09-02-fitting-a-mixture-model.ipynb).
 

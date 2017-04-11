@@ -1,7 +1,7 @@
 Title: Speeding up Grading!
+Category: Tutorial
 Date: 2012-02-04 12:04:39
 Author: Tim
-Category: Productivity,
 Slug: speeding-up-grading
 
 When I grade tests, I write the total score for each page at the bottom of each corner. After I have graded all the tests, I go back and add the pages to get a final score. I hate doing this, and I try to get through it as quickly as possible. However, if there are a bunch of pages (especially if the test is done in a blue book with one problem per page), speed easily leads to mistakes. Since I don't want to short my students any points, I created a small script in Mathematica:

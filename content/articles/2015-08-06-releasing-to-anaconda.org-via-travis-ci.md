@@ -1,7 +1,7 @@
 Title: Releasing to Anaconda.org via Travis-CI
+Category: Tutorial
 Date: 2015-08-06 08:39
 Slug: releasing-to-anaconda.org-via-travis-ci
-Tags: devops, Anaconda.org, Continuum
 
 
 

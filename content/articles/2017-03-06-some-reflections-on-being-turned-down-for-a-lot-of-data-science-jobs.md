@@ -1,8 +1,7 @@
 Title: Some Reflections on Being Turned Down for a Lot of Data Science Jobs
+Category: Article
 Date: 2017-03-06 09:12
 Slug: some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs
-Tags: interviewing, hiring, data-science
-Category:
 
 > 👉 The decision was close, but the team has decided to keep looking for someone who might have more direct neural net experience.
 

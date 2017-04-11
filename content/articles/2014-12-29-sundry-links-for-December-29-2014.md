@@ -1,6 +1,6 @@
 Title: Sundry Links for December 29, 2014
-Slug: sundry-links-for-December-29-2014
 Category: Sundry Links
+Slug: sundry-links-for-December-29-2014
 
 [Sublime: Nice Features & Plugins](https://www.youtube.com/watch?v=gurZp2JoD-s): A brief talk introducing my favorite editor.
 

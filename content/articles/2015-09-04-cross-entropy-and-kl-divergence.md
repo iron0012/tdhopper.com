@@ -1,7 +1,7 @@
 Title: Cross Entropy and KL Divergence
+Category: Article
 Date: 2015-09-04 17:03
 Slug: cross-entropy-and-kl-divergence
-Tags: math
 
 
 [As we saw in an earlier post](http://stiglerdiet.com/blog/2015/Sep/04/entropy-of-a-discrete-probability-distribution/), the entropy of a discrete probability distribution is defined to be

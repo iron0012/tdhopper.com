@@ -1,6 +1,6 @@
 Title: Should I do a Ph.D.?
+Category: Personal Update
 Slug: should-i-do-a-phd
-Category: should-i-do-a-phd
 
 Over the coming weeks, I am going to be publishing a series of interviews on the question "Should I do a Ph.D.?" These interviews are with a variety of people: Ph.D.'s and not, academics and not. It's a question I've wrestled with at great length, and I know many others have as well. I hope reading the interviews will some answer the question themselves and help others provide counsel to those asking themselves this question.
 

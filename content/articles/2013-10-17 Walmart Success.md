@@ -1,5 +1,5 @@
 Title: Walmart's Command of Logistics
-Tags: operations-research
+Category: Quote
 
 Steve Sashihara, [The Optimization Edge](http://www.optimizationedge.com/):
 

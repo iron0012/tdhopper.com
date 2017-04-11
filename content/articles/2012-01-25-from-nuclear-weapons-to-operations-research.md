@@ -1,7 +1,7 @@
 Title: From Nuclear Weapons to Operations Research
+Category: Article
 Date: 2012-01-25 19:10:35
 Author: Tim
-Category: OR Example,
 Slug: from-nuclear-weapons-to-operations-research
 
 In 1953, the eminent mathematician John Von Neumann (as they say,"Most mathematicians prove what they can, von Neumann proves what he wants") wrote a letter to T. V. Moore of Standard Oil. Apparently Moore had written Von Neumann about an operations problem he had. Eighteen tankers would transport fuel from La Salina to Las Piedras to Aruba. Moore wanted to "determine the economic value of increasing the number of berths for the loading of these tankers in La Salina from 3 to 4 or to 5."[^1nuclear]

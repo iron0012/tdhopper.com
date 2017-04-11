@@ -1,7 +1,6 @@
 Title: Find Files Modified in last N Minutes
+Category: Today I Learned
 Date: 2016-06-22
-Category: til
-Tags: bash
 
 I've been using Bash's [`find`](http://www.freebsd.org/cgi/man.cgi?find(1)) command a lot more regularly lately. I've always been scared off by its syntax, but it's great once you've learned it.
 

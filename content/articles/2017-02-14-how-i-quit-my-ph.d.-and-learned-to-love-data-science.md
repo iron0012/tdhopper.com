@@ -1,8 +1,7 @@
 Title: How I Quit My Ph.D. and Learned to Love Data Science
+Category: Personal Update
 Date: 2017-02-14 09:03
 Slug: how-i-quit-my-ph.d.-and-learned-to-love-data-science
-Tags: talks, slides, presentation, datascience
-Category:
 
 I recently gave to the [Duke Big Data Initiative](http://bigdata.duke.edu/) entitled _<s>Dr.</s> Hopper, or How I Quit My Ph.D. and Learned to Love Data Science_. The talk was well received, and [my slides](https://twitter.com/tdhopper/status/827239362404433922/photo/1) seemed to resonate in the Twitter data science community.
 

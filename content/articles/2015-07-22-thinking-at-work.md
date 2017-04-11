@@ -1,7 +1,7 @@
 Title: Thinking at Work
+Category: Quote
 Date: 2015-07-22 18:33
 Slug: thinking-at-work
-Tags: open offices, Peopleware
 
 Having worked from home for the last few years, I have a hard time understanding how people get anything done in open-floor plan offices. I would be overwhelmed and frustrated by the noise and commotion.
 

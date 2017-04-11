@@ -1,5 +1,5 @@
 Title: The Incessant Commentary on Being Tall
-Tags: height
+Category: Quote
 
 Ralph Keyes, [The Height of Your Life](http://www.ralphkeyes.com/height/):
 

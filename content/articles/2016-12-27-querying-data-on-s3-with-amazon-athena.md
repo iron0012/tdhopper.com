@@ -1,8 +1,7 @@
 Title: Querying data on S3 with Amazon Athena
+Category: Article
 Date: 2016-12-27 09:38
 Slug: querying-data-on-s3-with-amazon-athena
-Tags: aws, athena, hive, big data
-Category:
 
 ## Athena Setup and Quick Start
 

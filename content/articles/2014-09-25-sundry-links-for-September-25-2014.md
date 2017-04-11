@@ -10,4 +10,4 @@ Category: Sundry Links
 
 [A sneak peek at Camera+ 6… manual controls are coming soon to you! ](http://snapsnapsnap.photos/a-sneak-peek-at-camera-6-manual-controls-are-coming-soon-to-you/): I’ve been a Camera+ user on iOS for a long time. The new version coming out soon is very exciting.
 
-[GitHut - Programming Languages and GitHub](http://githut.info/): A very clever visualization of various languages represented on Github and of the properties of their respective repositories. 
+[GitHut - Programming Languages and GitHub](http://githut.info/): A very clever visualization of various languages represented on Github and of the properties of their respective repositories.

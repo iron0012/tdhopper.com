@@ -1,7 +1,7 @@
 Title: Stephen Wolfram&#039;s AMA
+Category: Article
 Date: 2012-03-05 22:07:27
 Author: Tim
-Category: Computing,
 Slug: stephen-wolframs-ama
 
 Stephen Wolfram, of Wolfram Research and Mathematica fame, did a [Q&A (i.e. AMA) on Reddit](http://www.reddit.com/r/IAmA/comments/qisot/im_stephen_wolfram_mathematica_nks_wolframalpha/) today. I just enjoyed reading through his answers. A few interesting answers stood out to me.

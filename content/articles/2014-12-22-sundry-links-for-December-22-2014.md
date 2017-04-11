@@ -1,6 +1,6 @@
 Title: Sundry Links for December 22, 2014
-Slug: sundry-links-for-December-22-2014
 Category: Sundry Links
+Slug: sundry-links-for-December-22-2014
 
 [Time](http://unix4lyfe.org/time/?v=1): Programmers all hate time, timezones, etc. Here are some helpful "notes about time".
 
@@ -11,7 +11,7 @@ Category: Sundry Links
 [The “How Does a Google Coder Work?” Edition
 ](http://www.slate.com/articles/podcasts/working/2014/12/google_software_engineer_nina_kang_talks_about_the_differences_between_writing.html): I enjoyed this interview. My favorite quote? "When you're reading code is it as clear as reading English?" "If I'm reading C++ code, it's clearer."
 
-[Sunset Salvo](http://www-stat.wharton.upenn.edu/~steele/HoldingPen/SunsetSalvo.pdf): John Turkey discusses practical data analysis and statistical humility. 
+[Sunset Salvo](http://www-stat.wharton.upenn.edu/~steele/HoldingPen/SunsetSalvo.pdf): John Turkey discusses practical data analysis and statistical humility.
 
 [10th Conference on Bayesian Nonparametrics](https://stat.duke.edu/bnp10/index.html%3Fpage_id=1.html): This is coming up in my own back yard. I’m excited!
 
