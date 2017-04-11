@@ -1,7 +1,7 @@
 Title: A Markdown Syllabus
+Category: Article
 Date: 2012-05-09 10:37:43
 Author: Tim
-Category: Teaching,
 Slug: a-markdown-syllabus
 
 Instead of maintaining my syllabus in HTML this semester, I decided to try Markdown, a "a text-to-HTML conversion tool for web writers."[^1markdown] Markdown provides simple, readable formatting syntax for plain text files which can then be converted to various other formats, in particular, HTML. Markdown allowed me to keep my syllabus clean and readable while also having various formatting (italics, bold, links, etc). [Take a look for yourself](http://www4.ncsu.edu/~tdhopper/stiglerdiet/MultimarkdownSyllabus.txt). I actually used an extension called [Multimarkdown](http://fletcherpenney.net/multimarkdown/) which permits, among other things, tables. With a few keystrokes in [Textmate](http://macromates.com/), I can convert the Markdown file to an HTML file ready to be uploaded [to the web](http://www4.ncsu.edu/~tdhopper/stiglerdiet/MultimarkdownSyllabus.html). Notice the fourth line in the Markdown file says _style: style.css_. That tells the Markdown interpreter to add a line of HTML that calls the stylesheet _style.css. _You can see [my simple CSS file here](http://www4.ncsu.edu/~tdhopper/stiglerdiet/style.css). With Multimarkdown, you can also convert Markdown formatted files to PDF and LaTeX. If you're going to use tables in Multimarkdown, check out this [Python script](http://www.leancrew.com/all-this/2008/08/tables-for-markdown-and-textmate/) that automagically reformats the table to fit the contents. That's how I got my table looking so pretty with a few keystokes in Textmate.

@@ -1,7 +1,6 @@
 Title: Concatenate MP3 Files
+Category: Today I Learned
 Date: 2015-03-15
-Category: til
-Tags: bash
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">TIL `cat` will correctly join MP3 files <a href="http://t.co/mmc4NN2Kmp">http://t.co/mmc4NN2Kmp</a></p>&mdash; Tim Hopper (@tdhopper) <a href="https://twitter.com/tdhopper/status/577149891077619713">March 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,6 +1,6 @@
 Title: Sundry Links for December 4, 2014
-Slug: sundry-links-for-December-04-2014
 Category: Sundry Links
+Slug: sundry-links-for-December-04-2014
 
 [How do I draw a pair of buttocks?](http://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks): Have you ever wondered how to plot a pair of buttocks in Mathematica? Of course you have.
 

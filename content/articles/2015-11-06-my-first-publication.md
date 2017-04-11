@@ -1,7 +1,7 @@
 Title: My First Publication
+Category: Personal Update
 Date: 2015-11-06 12:47
 Slug: my-first-publication
-Tags: academic
 
 
 When I worked at [RTI International](http://www.rti.org/ "RTI International"), I worked on an exploratory analysis of Twitter discussion of electronic cigarettes. A paper on our work was just published in the [Journal of Internet Medical Research](http://www.jmir.org/ "JMIR-Journal of Medical Internet Research"): [Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study](http://www.jmir.org/2015/11/e251/).[^Infoveillance]

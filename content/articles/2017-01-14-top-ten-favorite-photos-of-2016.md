@@ -1,8 +1,7 @@
 Title: Top Ten Favorite Photos of 2016
+Category: Personal Update
 Date: 2017-01-14 07:46
 Slug: top-ten-favorite-photos-of-2016
-Tags: photography, phototopten
-Category:
 
 I spent a lot of time with my camera in 2016. Here are some of the results.
 

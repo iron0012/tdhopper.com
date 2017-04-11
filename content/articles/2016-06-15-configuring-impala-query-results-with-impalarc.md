@@ -1,7 +1,6 @@
 Title: Configuring Impala Query Results with impalarc
+Category: Today I Learned
 Date: 2016-06-15
-Category: til
-Tags: impala
 
 I routinely run Impala queries on a [remote machine](http://til.tdhopper.com/notes/faster-ssh-access-to-remote-computers) and want the results to save to a CSV file on that machine.
 

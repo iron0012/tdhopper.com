@@ -1,8 +1,7 @@
 Title: Distribution of Number of Tables in Chinese Restaurant Process
+Category: Article
 Date: 2015-09-15 12:25
 Slug: distribution-of-number-of-tables-in-chinese-restaurant-process
-Category: Nonparametric Bayes
-Tags: IPython, math, statistics, npbayes
 
 The Chinese Restaurant Process (related to the [Dirichlet process](https://github.com/tdhopper/notes-on-dirichlet-processes/)) often comes up in Bayesian nonparametrics. Some related MCMC algorithm require drawing samples from the distribution of tables created by a Chinese restaurant process with parameter after a given number of patrons are seated. Of course, you could sample from this distribution by simulating the CRP and counting tables, however [Antoniak](http://www.cis.upenn.edu/~taskar/courses/cis700-sp08/papers/antoniak.pdf) provided a closed form of the probability mass function. [Here](http://www.cs.cmu.edu/~tss/antoniak.pdf) is a helpful introduction to the "Antoniak equation".
 

@@ -1,7 +1,7 @@
 Title: Animating Plots in Mathematica
+Category: Article
 Date: 2012-04-11 12:55:07
 Author: Tim
-Category: Mathematica, Computing,
 Slug: animating-plots-in-mathematica
 
 A friend asked me how to animate a polar plot graphing in Mathematica. It's really easy. The [Animate](http://reference.wolfram.com/mathematica/ref/Animate.html) and [Manipulate](http://reference.wolfram.com/mathematica/ref/Manipulate.html) commands added in version 6 are a huge step in interactive mathematical visualizations. The easiest way to visualize it is to have the upper plot range vary from a 0+ϵ to 2π.

@@ -1,6 +1,6 @@
 Title: Sundry Links for December 6, 2014
-Slug: sundry-links-for-December-06-2014
 Category: Sundry Links
+Slug: sundry-links-for-December-06-2014
 
 [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/journal.pdf): A neat paper on sketching algorithms for linear algebra. No, not that kind of sketching. "One first compresses it to a much smaller matrix by multiplying it by a (usually) random matrix with certain properties.  Much of the expensive computation can then be performed on the smaller matrix, thereby accelerating the solution for the original problem."
 
@@ -10,4 +10,4 @@ Category: Sundry Links
 
 [How to use the bash command line history](http://blog.pluralsight.com/how-to-use-bash-command-line-history): Bash's history can do more than I realized!
 
-[A geometric interpretation of the covariance matrix](http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/): Superb little post explaning covariance matrices with pictures and geometry. 
+[A geometric interpretation of the covariance matrix](http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/): Superb little post explaning covariance matrices with pictures and geometry.

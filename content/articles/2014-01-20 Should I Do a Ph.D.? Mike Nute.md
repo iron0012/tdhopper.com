@@ -1,7 +1,7 @@
 Title: Should I Do a Ph.D.? Mike Nute
 Slug: should-i-do-a-phd-mike-nute
 Author: Tim
-Category: should-i-do-a-phd
+Category: Interview
 
 __Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
 

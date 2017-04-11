@@ -1,7 +1,6 @@
 Title: Creating Impala Tables from Pandas Dataframes
+Category: Today I Learned
 Date: 2016-03-15
-Category: til
-Tags: python, impala
 
 [Wes Mckinney](http://wesmckinney.com/ "Wes McKinney")'s [Ibis](http://docs.ibis-project.org/index.html), a Pythonic interface to Impala, has functionality for creating [Impala](https://www.cloudera.com/products/apache-hadoop/impala.html "Apache Impala") tables from [Python Pandas](http://pandas.pydata.org/ "Python Data Analysis Library &mdash; pandas: Python Data Analysis Library") dataframes.
 

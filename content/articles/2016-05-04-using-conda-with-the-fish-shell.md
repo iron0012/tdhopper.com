@@ -1,7 +1,6 @@
 Title: Using Conda with the Fish Shell
+Category: Today I Learned
 Date: 2016-05-04
-Category: til
-Tags: python, fish
 
 I'm trying out the beautiful [Fish shell](https://fishshell.com/). I've been a Bash user up until now.
 

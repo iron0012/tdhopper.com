@@ -1,7 +1,7 @@
 Title: Noisy Series and Body Weight
 Slug: noisy-series-and-body-weight
 Date: 2013-07-26 22:51:56
-Tags: ggplot, nerdery
+Category: Article
 Author: Tim
 
 I put on some weight during my time in grad school, and this spring, I decided to do something about it.

@@ -1,7 +1,6 @@
 Title: Using rbenv for Ruby Versions
+Category: Today I Learned
 Date: 2016-03-11
-Category: til
-Tags: python
 
 I don't use Ruby much, but I wanted to use Jekyll for this blog. I kept getting this error when running `gem install jekyll`:
 

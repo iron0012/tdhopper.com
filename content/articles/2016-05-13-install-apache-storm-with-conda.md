@@ -1,8 +1,7 @@
 Title: Install Apache Storm with Conda
+Category: Today I Learned
 Date: 2016-05-13 10:39
 Slug: install-apache-storm-with-conda
-Tags: python, storm
-Category:
 
 I'm looking into using [Apache Storm](http://storm.apache.org/ "Apache Storm") for a project, and I've been fiddling with several different versions in my local testing environment.
 

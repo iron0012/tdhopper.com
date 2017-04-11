@@ -1,5 +1,5 @@
 Title: Configuring Hover DNS for Github Pages
-Tags: web
+Category: Today I Learned
 
 I'm hosting this blog on [Github Pages](https://pages.github.com/), so you can find it at [tdhopper.github.io](http://tdhopper.github.io). However, I wanted to set it up to work with [til.tdhopper.com](http://til.tdhopper.com); tdhopper.com is registered with Hover.
 

@@ -1,7 +1,6 @@
 Title: Printing Pandas Data Frames as HTML in Jupyter Notebooks
+Category: Today I Learned
 Date: 2016-03-23
-Category: til
-Tags: python
 
 Jupyter notebooks nicely render Pandas data frames if they're the last line in a cell. It renders the HTML version of the data frame returned by `pandas.DataFrame.to_html()`. However, if you call `print(df)` in a cell, the data frame is rendered in less readable text-based output.
 

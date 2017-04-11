@@ -1,7 +1,7 @@
 Title: Should I Do a Ph.D.? John D. Cook
+Category: Interview
 Slug: should-i-do-a-Ph.D.-john-d-cook
 Date: 2013-08-22 19:08:25
-Category: should-i-do-a-phd
 
 __Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
 

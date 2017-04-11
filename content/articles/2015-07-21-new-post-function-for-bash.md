@@ -1,7 +1,7 @@
 Title: New Post Function for Bash
+Category: Today I Learned
 Date: 2015-07-21 11:02
 Slug: new-post-function-for-bash
-Tags: pelican, blogging, bash
 
 On of the things I don't like about using a static site generator is the friction required for creating a new post. I've often end up posting things to Twitter that I would prefer to be more permanent simply because of the ease of tweeting.
 

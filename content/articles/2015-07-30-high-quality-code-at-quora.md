@@ -1,8 +1,7 @@
 Title: High Quality Code at Quora
+Category: Article
 Date: 2015-07-30 08:50
 Slug: high-quality-code-at-quora
-Tags: software-engineering
-Category:
 
 I love [this new post](http://engineering.quora.com/Moving-Fast-With-High-Code-Quality) on Quora's engineering blog. The post states "high code quality is the long-term boost to development speed" and goes on to explain how they go about accomplishing this.
 

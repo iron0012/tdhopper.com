@@ -1,7 +1,7 @@
 Title: Classes Future Programmers Should Take
+Category: Article
 Date: 2015-09-11 08:39
 Slug: classes-future-programmers-should-take
-Tags: education, softwaredevelopement
 
 I appreciated [James Hague](https://twitter.com/dadgumjames)'s post on [Computer Science Courses that Don't Exist, But Should](http://prog21.dadgum.com/210.html).
 

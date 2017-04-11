@@ -1,8 +1,7 @@
 Title: Entropy of a Discrete Probability Distribution
+Category: Article
 Date: 2015-09-04 09:22
 Slug: entropy-of-a-discrete-probability-distribution
-Tags: math, featured
-Category:
 Summary: A brief introduction to measuring the uncertainty of a discrete probability distribution using entropy.
 Thumbnail: static/claudeshannon.jpg
 

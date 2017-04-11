@@ -1,7 +1,7 @@
 Title: Tweets I'm Proud Of (2)
+Category: Article
 Date: 2015-10-16 10:09
 Slug: tweets-i'm-proud-of-2
-Tags: vanity, tweets
 
 On MCMC:
 

@@ -1,8 +1,8 @@
 Title: What do all operations researchers know?
 Date: 2012-01-16 08:44:47
 Author: Tim
-Category: OR Inside Baseball,
 Slug: what-do-all-or-folks-know
+Category: Article
 
 My friend [John Cook](http://www.johndcook.com/blog/) asked me an interesting question recently:
 

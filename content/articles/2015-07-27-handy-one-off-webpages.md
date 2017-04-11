@@ -1,8 +1,8 @@
 Title: Handy One-off Webpages
+Category: Article
 Date: 2015-07-27 14:19
 Slug: handy-one-off-webpages
 Tags:
-Category:
 
 I'm starting to love single-page informational websites. For example:
 

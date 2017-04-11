@@ -1,6 +1,6 @@
 Title: Should I Do a Ph.D.? Melissa Santos
+Category: Interview
 Slug: should-i-do-a-phd-melissa-santos
-Category: should-i-do-a-phd
 
 __Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).
 

@@ -1,7 +1,6 @@
 Title: Impala Doesn't Have a `histogram()` function
+Category: Today I Learned
 Date: 2016-03-23
-Category: til
-Tags: impala
 
 [Impala Doesn't Have a `histogram()` function](https://groups.google.com/a/cloudera.org/d/msg/impala-user/O8u5JFfKJPk/V0ZR1muNBAAJ).
 

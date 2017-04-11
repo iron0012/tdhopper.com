@@ -1,7 +1,6 @@
 Title: Noisy Series and Body Weight Part 2
 Slug: noisy-series-and-body-weight-take-2
-Tags: ggplot, nerdery
-Author: Tim
+Category: Article
 
 Back in July, I posted some [analysis of my attempt at weight loss](http://stiglerdiet.com/blog/2013/Jul/26/noisy-series-and-body-weight/). Now that I'm four months further down the line, I thought I'd post a follow-up.
 
