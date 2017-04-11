@@ -1,5 +1,5 @@
 Title: Publishing a Static Site Generator from iOS
-Category: Article
+Category: Articles
 Date: 2015-05-09
 
 A few weeks ago, I setup Travis CI [so this Pelican-based blog will publish itself when I commit a new post to Github](http://stiglerdiet.com/blog/2015/Mar/27/auto-deploying-stigler-diet-with-travis-ci/).

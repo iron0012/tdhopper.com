@@ -1,5 +1,5 @@
 Title: Nonparametric Latent Dirichlet Allocation
-Category: Article
+Category: Articles
 Date: 2015-08-03 11:32
 Slug: nonparametric-latent-dirichlet-allocation
 

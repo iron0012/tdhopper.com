@@ -1,5 +1,5 @@
 Title: Backpacking for the Very Tall
-Category: Personal Update
+Category: Personal Updates
 Date: 2016-04-29 15:33
 Slug: backpacking-for-the-very-tall
 

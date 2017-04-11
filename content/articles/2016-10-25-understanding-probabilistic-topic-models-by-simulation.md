@@ -1,5 +1,5 @@
 Title: Understanding Probabilistic Topic Models By Simulation
-Category: Personal Update
+Category: Personal Updates
 Date: 2016-10-25 09:39
 Slug: understanding-probabilistic-topic-models-by-simulation
 

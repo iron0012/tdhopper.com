@@ -1,5 +1,5 @@
 Title: Tweets I'm Proud Of (2)
-Category: Article
+Category: Articles
 Date: 2015-10-16 10:09
 Slug: tweets-i'm-proud-of-2
 

@@ -1,5 +1,5 @@
 Title: Handy One-off Webpages
-Category: Article
+Category: Articles
 Date: 2015-07-27 14:19
 Slug: handy-one-off-webpages
 Tags:

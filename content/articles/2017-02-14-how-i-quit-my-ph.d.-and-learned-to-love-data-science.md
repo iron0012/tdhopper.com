@@ -1,5 +1,5 @@
 Title: How I Quit My Ph.D. and Learned to Love Data Science
-Category: Personal Update
+Category: Personal Updates
 Date: 2017-02-14 09:03
 Slug: how-i-quit-my-ph.d.-and-learned-to-love-data-science
 

@@ -1,5 +1,5 @@
 Title: My First Publication
-Category: Personal Update
+Category: Personal Updates
 Date: 2015-11-06 12:47
 Slug: my-first-publication
 

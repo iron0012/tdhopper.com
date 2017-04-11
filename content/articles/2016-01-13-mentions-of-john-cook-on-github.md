@@ -1,5 +1,5 @@
 Title: Mentions of John Cook on Github
-Category: Article
+Category: Articles
 Date: 2016-01-13 14:58
 Slug: mentions-of-john-cook-on-github
 

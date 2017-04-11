@@ -1,5 +1,5 @@
 Title: Classes Future Programmers Should Take
-Category: Article
+Category: Articles
 Date: 2015-09-11 08:39
 Slug: classes-future-programmers-should-take
 

@@ -1,5 +1,5 @@
 Title: High Quality Code at Quora
-Category: Article
+Category: Articles
 Date: 2015-07-30 08:50
 Slug: high-quality-code-at-quora
 

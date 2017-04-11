@@ -1,5 +1,5 @@
 Title: Sequential Minimal Optimization Algorithm for Support Vector Machines
-Category: Tutorial
+Category: Tutorials
 Date: 2015-11-21 09:13
 Slug: sequential-minimal-optimization-algorithm-for-support-vector-machines
 

@@ -1,5 +1,5 @@
 Title: Tweet Your Moon
-Category: Personal Update
+Category: Personal Updates
 Date: 2016-01-11 11:36
 Slug: tweet-your-moon
 

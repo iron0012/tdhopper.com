@@ -1,5 +1,5 @@
 Title: Photos Featured on Smithsonian Magazine
-Category: Personal Update
+Category: Personal Updates
 Date: 2016-07-25 13:33
 Slug: photos-featured-on-smithsonian-magazine
 

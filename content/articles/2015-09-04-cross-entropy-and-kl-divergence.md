@@ -1,5 +1,5 @@
 Title: Cross Entropy and KL Divergence
-Category: Article
+Category: Articles
 Date: 2015-09-04 17:03
 Slug: cross-entropy-and-kl-divergence
 

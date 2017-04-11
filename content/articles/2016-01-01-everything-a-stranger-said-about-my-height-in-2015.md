@@ -1,5 +1,5 @@
 Title: Everything a Stranger Said About My Height in 2015
-Category: Personal Update
+Category: Personal Updates
 Date: 2016-01-01 14:05
 Slug: everything-a-stranger-said-about-my-height-in-2015
 

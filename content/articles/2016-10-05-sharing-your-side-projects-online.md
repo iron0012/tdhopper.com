@@ -1,5 +1,5 @@
 Title: Sharing Your Side Projects Online
-Category: Article
+Category: Articles
 Date: 2016-10-05 09:17
 Slug: sharing-your-side-projects-online
 Tags:

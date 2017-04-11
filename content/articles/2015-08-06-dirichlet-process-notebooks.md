@@ -1,5 +1,5 @@
 Title: Dirichlet Process Notebooks
-Category: Article
+Category: Articles
 Date: 2015-08-06 09:20
 Slug: dirichlet-process-notebooks
 

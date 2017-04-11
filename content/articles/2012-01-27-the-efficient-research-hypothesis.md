@@ -1,5 +1,5 @@
 Title: The Efficient Research Hypothesis
-Category: Article
+Category: Articles
 Date: 2012-01-27 20:02:20
 Author: Tim
 Slug: the-efficient-research-hypothesis

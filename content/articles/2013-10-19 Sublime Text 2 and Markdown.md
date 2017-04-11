@@ -1,5 +1,5 @@
 Title: Sublime Text and Markdown
-Category: Article
+Category: Articles
 
 I have largely moved from Textmate to Sublime Text 2 for text editing. Among other reasons, Sublime Text is cross platform, and I use Windows at work and a Mac at home. I have also started writing as much as I can in [Markdown](http://daringfireball.net/projects/markdown/).
 

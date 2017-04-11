@@ -1,5 +1,5 @@
 Title: Top Ten Favorite Photos of 2016
-Category: Personal Update
+Category: Personal Updates
 Date: 2017-01-14 07:46
 Slug: top-ten-favorite-photos-of-2016
 

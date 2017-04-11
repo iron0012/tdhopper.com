@@ -1,5 +1,5 @@
 Title: Online Labor Markets and Static Site Generators
-Category: Article
+Category: Articles
 Slug: online-labor-markets-and-static-site-generators
 Date: 2013-07-30 20:28:16
 Author: Tim

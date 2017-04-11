@@ -1,6 +1,7 @@
 Title: What&#039;s a Stigler Diet?
 Date: 2012-01-12 17:26:48
-Category: Article
+Tags: featured
+Category: Articles
 Slug: whats-a-stigler-diet
 Summary: A look at economist George Stigler's applied optimization problem that this blog is named after.
 Thumbnail: static/ibm701.jpg

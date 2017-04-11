@@ -1,5 +1,5 @@
 Title: Operations Research and Computer Programming
-Category: Article
+Category: Articles
 Date: 2012-07-12 09:21:57
 Author: Tim
 Slug: operations-research-and-computer-programming

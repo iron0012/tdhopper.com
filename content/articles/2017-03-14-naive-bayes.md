@@ -1,5 +1,5 @@
 Title: Naive Bayes
-Category: Article
+Category: Articles
 Date: 2017-03-14 16:44
 Slug: naive-bayes
 og_image: uploads/2017/03/nb1.jpg

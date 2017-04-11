@@ -1,5 +1,6 @@
 Title: My Python Environment Workflow with Conda
-Category: Tutorial
+Category: Tutorials
+Tags: featured
 Date: 2015-11-24 08:55
 Slug: my-python-environment-workflow-with-conda
 Summary: How Conda Environments for managing and reproducing dependencies have helped me streamline data science research.

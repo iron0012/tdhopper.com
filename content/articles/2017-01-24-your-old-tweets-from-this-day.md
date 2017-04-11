@@ -1,5 +1,5 @@
 Title: Your Old Tweets from This Day
-Category: Personal Update
+Category: Personal Updates
 Date: 2017-01-24 08:29
 Slug: your-old-tweets-from-this-day
 

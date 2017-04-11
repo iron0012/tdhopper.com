@@ -1,5 +1,5 @@
 Title: Auto Deploying Stigler Diet with Travis CI
-Category: Article
+Category: Articles
 
 I've been using Travis CI for automated testing at work for the last year. It never occurred to me that it could be used
 to deploy a static website.

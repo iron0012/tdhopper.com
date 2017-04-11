@@ -1,5 +1,5 @@
 Title: Notes on the Dirichlet Distribution and Dirichlet Process
-Category: Article
+Category: Articles
 Slug: dirichlet-distribution-and-dirichlet-process
 Date: 2015-07-28
 

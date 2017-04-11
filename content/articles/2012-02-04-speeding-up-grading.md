@@ -1,5 +1,5 @@
 Title: Speeding up Grading!
-Category: Tutorial
+Category: Tutorials
 Date: 2012-02-04 12:04:39
 Author: Tim
 Slug: speeding-up-grading

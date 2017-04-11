@@ -1,5 +1,5 @@
 Title: Undersampled Radio Interview
-Category: Personal Update
+Category: Personal Updates
 Date: 2016-10-24 09:47
 Slug: undersampled-radio
 

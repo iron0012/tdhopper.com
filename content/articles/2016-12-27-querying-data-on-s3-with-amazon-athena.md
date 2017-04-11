@@ -1,5 +1,5 @@
 Title: Querying data on S3 with Amazon Athena
-Category: Article
+Category: Articles
 Date: 2016-12-27 09:38
 Slug: querying-data-on-s3-with-amazon-athena
 

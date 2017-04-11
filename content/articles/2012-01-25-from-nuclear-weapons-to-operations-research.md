@@ -1,5 +1,5 @@
 Title: From Nuclear Weapons to Operations Research
-Category: Article
+Category: Articles
 Date: 2012-01-25 19:10:35
 Author: Tim
 Slug: from-nuclear-weapons-to-operations-research

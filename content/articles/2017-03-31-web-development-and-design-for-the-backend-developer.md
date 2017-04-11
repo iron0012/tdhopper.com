@@ -1,5 +1,5 @@
 Title: Web Development and Design for the Backend Developer
-Category: Tutorial
+Category: Tutorials
 Date: 2017-03-31 08:49
 Slug: web-development-and-design-for-the-backend-developer
 

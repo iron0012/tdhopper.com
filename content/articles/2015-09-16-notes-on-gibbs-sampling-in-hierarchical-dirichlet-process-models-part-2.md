@@ -1,5 +1,5 @@
 Title: Notes on Gibbs Sampling in Hierarchical Dirichlet Process Models, Part 2
-Category: Article
+Category: Articles
 Date: 2015-09-16 15:34
 Slug: notes-on-gibbs-sampling-in-hierarchical-dirichlet-process-models-part-2
 

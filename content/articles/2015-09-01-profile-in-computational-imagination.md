@@ -1,5 +1,5 @@
 Title: Profile in Computational Imagination
-Category: Personal Update
+Category: Personal Updates
 Date: 2015-09-01 09:30
 Slug: profile-in-computational-imagination
 

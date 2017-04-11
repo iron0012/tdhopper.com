@@ -1,5 +1,5 @@
 Title: Teaching Students to Fail
-Category: Article
+Category: Articles
 Date: 2012-04-13 16:44:11
 Author: Tim
 Slug: teaching-students-to-fail

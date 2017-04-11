@@ -2,7 +2,7 @@ Title: What do all operations researchers know?
 Date: 2012-01-16 08:44:47
 Author: Tim
 Slug: what-do-all-or-folks-know
-Category: Article
+Category: Articles
 
 My friend [John Cook](http://www.johndcook.com/blog/) asked me an interesting question recently:
 
