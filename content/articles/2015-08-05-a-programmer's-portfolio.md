@@ -1,4 +1,5 @@
 Title: A Programmer's Portfolio
+Category: Quote
 Date: 2015-08-05 11:20
 Slug: a-programmer's-portfolio
 

@@ -1,4 +1,5 @@
 Title: I Love Twitter
+Category: Quote
 Date: 2015-12-07 13:10
 Slug: i-love-twitter
 

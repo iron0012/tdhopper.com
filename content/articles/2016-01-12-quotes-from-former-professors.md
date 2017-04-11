@@ -1,4 +1,5 @@
 Title: Quotes from Former Professors
+Category: Quote
 Date: 2016-01-12 14:05
 Slug: quotes-from-former-professors
 

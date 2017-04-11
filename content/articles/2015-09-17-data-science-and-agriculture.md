@@ -1,4 +1,5 @@
 Title: Data Science and Agriculture
+Category: Article
 Date: 2015-09-17 09:09
 Slug: data-science-and-agriculture
 

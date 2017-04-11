@@ -1,4 +1,5 @@
 Title: My Email Analytics
+Category: Article
 Date: 2012-04-05 16:13:54
 Author: Tim
 Slug: my-email-analytics

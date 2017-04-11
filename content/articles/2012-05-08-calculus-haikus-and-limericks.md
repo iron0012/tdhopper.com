@@ -1,9 +1,10 @@
 Title: Calculus Haikus and Limericks
+Category: Quote
 Date: 2012-05-08 11:46:19
 Author: Tim
 Slug: calculus-haikus-and-limericks
 
-I offered my calculus students bonus points to write a limerick or haiku on their final exam. I got some great answers! And the students seem to enjoy it. My favorite limerick (on improper integrals): 
+I offered my calculus students bonus points to write a limerick or haiku on their final exam. I got some great answers! And the students seem to enjoy it. My favorite limerick (on improper integrals):
 
 > An integral has bounds from zero to one<br />
 > You finish the problem and think you are done<br />
@@ -11,13 +12,13 @@ I offered my calculus students bonus points to write a limerick or haiku on thei
 > The equation is one over x<br >
 > And the improper integral has a different sum
 
-My favorite haiku gives the formula for integration by parts: 
+My favorite haiku gives the formula for integration by parts:
 
 > Int of mu dv:<br />
-> Equal to mu v minus<br /> 
+> Equal to mu v minus<br />
 > Int of v d mu
 
-Here are some other good ones: 
+Here are some other good ones:
 
 > Doing Integrals… <br />
 > Oh How I shall miss thee, <br />
@@ -77,7 +78,7 @@ Here are some other good ones:
 > Integrals make me sickly,<br />
 > Turns out the answer is nope. :-(
 
-Here are a few from when I taught at UVA: 
+Here are a few from when I taught at UVA:
 
 > An integral is<br />
 > A derivative reversed<br />

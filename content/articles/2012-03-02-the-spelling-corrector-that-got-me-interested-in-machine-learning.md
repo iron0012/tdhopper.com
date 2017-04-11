@@ -1,4 +1,5 @@
 Title: The Spelling Corrector that Got Me Interested in Machine Learning
+Category: Article
 Date: 2012-03-02 11:26:49
 Author: Tim
 Slug: the-spelling-corrector-that-got-me-interested-in-machine-learning
