@@ -28,6 +28,7 @@ TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = 'tdhopper'
 INDEX_SAVE_AS = None
 PAGES_PATHS = ['pages']
+DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 IPYNB_USE_META_SUMMARY = True
 ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
@@ -54,8 +55,7 @@ OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
 # LINKS =
 GOOGLE_ANALYTICS = 'UA-43428740-1'
 USE_OPEN_GRAPH = True
-MENUITEMS = [('Bio', '/about-me'),
-             ('Archives', '/archives.html'),
+MENUITEMS = [('About Tim', '/about-me'),
              ]
 BANNER = 'static/banner.jpg'
 BANNER_SUBTITLE = 'Data Science. Python. Software Engineering. Math Jokes.'

@@ -1,7 +1,71 @@
 {% extends "base.html" %}
+{% block banner %}
+    {% include 'includes/banner.html' %}
+{% endblock %}
 {% block content %}
-    {% block banner %}{% endblock %}
-    {% block featured %}
-    {% endblock %}
+        <div class="page-header">
+          <h3>Featured</h3>
+        </div>
+        <div class="row">
+          {% for article in articles if FAVORITES_TAG in article.tags %}
+            <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/{{ article.thumbnail }}"></a>
+                <div class="caption">
+                  <a href="{{ SITEURL }}/{{ article.url }}"><h4>{{ article.title }}</h4></a>
+                  <p>{{ article.summary }}</p>
+                  <div><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">{{ _('read more') }}</a></div>
+                </div>
+              </div>
+            </div>
+            {% if not loop.index % 2 %} <div class="clearfix visible-sm-block"></div>{% endif %}
+          {% endfor %}
+        </div>
+
+    <div class="page-header">
+      <h3>Recent</h3>
+    </div>
+      {% set recent = articles if not all_articles else all_articles %}
+      <div class="list-group">
+        {% for a in recent %}
+        {% if loop.index <= 6 %}
+        <a href="{{ SITEURL }}/{{ a.url }}" class="list-group-item">
+          <h4 class="list-group-item-heading">
+            {{ a.title }}
+            <span class="categories-timestamp"><time datetime="{{ a.date.isoformat() }}">{{ a.locale_date }}</time></span>
+          </h4>
+          <p class="list-group-item-text">{{ a.summary | striptags }}</p>
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+    <div class="page-header">
+      <h3>Archives</h3>
+    </div>
+    <div class="row">
+            {% for category, articles in categories %}
+
+            <div class="col-sm-12 col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        {{ category }}
+                    </h4>
+                </div>
+            <div class="panel-body">
+                    <ul class="archive-list">
+                    {% for article in articles %}
+                    <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                    <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+                    </li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            </div>
+            {% endfor %}
+
+    </div>
 
 {% endblock %}

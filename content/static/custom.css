@@ -10,3 +10,7 @@ blockquote {
         margin-right: 2px;
     }
 }
+
+.archive-list {
+    font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
