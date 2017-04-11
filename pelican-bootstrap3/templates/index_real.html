@@ -30,6 +30,7 @@
         {% for a in recent %}
         {% if loop.index <= 6 %}
         <a href="{{ SITEURL }}/{{ a.url }}" class="list-group-item">
+          <i class="fa fa-star" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">
             <span class="categories-timestamp"><time datetime="{{ a.date.isoformat() }}">{{ a.locale_date }}</time></span>
             {{ a.title }}
