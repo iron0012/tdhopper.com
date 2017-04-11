@@ -1,8 +1,8 @@
-Title: Impala Doesn't Have a `histogram()` function
+Title: Impala Doesn't Have a histogram() function
 Category: Today I Learned
 Date: 2016-03-23
 
-[Impala Doesn't Have a `histogram()` function](https://groups.google.com/a/cloudera.org/d/msg/impala-user/O8u5JFfKJPk/V0ZR1muNBAAJ).
+[Impala Doesn't Have a histogram() function](https://groups.google.com/a/cloudera.org/d/msg/impala-user/O8u5JFfKJPk/V0ZR1muNBAAJ).
 
 Ibis's histogram works by normalizing a column and rounding to integers:
 
