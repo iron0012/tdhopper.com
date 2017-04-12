@@ -31,10 +31,9 @@
         {% if loop.index <= 6 %}
         <a href="{{ SITEURL }}/{{ a.url }}" class="list-group-item">
           <h4 class="list-group-item-heading">
-            <i class="fa fa-star" aria-hidden="true"></i>&nbsp;
             <span class="categories-timestamp"><time datetime="{{ a.date.isoformat() }}">{{ a.locale_date }}</time></span>
+            &nbsp;<i class="fa fa-star" aria-hidden="true"></i>&nbsp;&nbsp;
             {{ a.title }}
-            &nbsp;<i class="fa fa-star" aria-hidden="true"></i>
           </h4>
           <p class="list-group-item-text sansserif">{{ a.summary | striptags }}</p>
         </a>
