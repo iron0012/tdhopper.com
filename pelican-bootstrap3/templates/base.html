@@ -209,15 +209,6 @@
         {% block content %}
         {% endblock %}
         </div>
-        {% if not HIDE_SIDEBAR %}
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-            {% if not HIDE_SIDEBAR %}
-                {% include 'includes/sidebar.html' %}
-            {% endif %}
-            </aside>
-        </div>
-        {% endif %}
     </div>
 </div>
 {% include 'includes/footer.html' %}
