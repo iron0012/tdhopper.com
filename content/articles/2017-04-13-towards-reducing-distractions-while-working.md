@@ -51,6 +51,10 @@ I have two main tactics to keep email from being distracting.
 
 When emails only need a brief reply, I tend to write responses ASAP. At the moment, I'm trying to break people of the expectation that I'll respond quickly. Using services like [Boomerang](http://www.boomeranggmail.com/) which lets me write emails now and have them sent later helps here.
 
+### Reading
+
+Longform reading at the computer is terrible for comprehension. As [Doug Lemov has argued](http://www.econtalk.org/archives/2016/11/doug_lemov_on_r.html), you have to get away from your computer __and__ other devices to read deeply. I do this by [printing](http://amzn.to/2oDATHj) articles or reading on my iPad with [Freedom blocking enabled](https://freedom.refersion.com/c/c6bad). I take my printouts or iPad and walk away from my desk to read.
+
 ### Todo Items
 
 I'm a firm believer in the [Getting Things Done](http://amzn.to/2ovAgit) principle of reducing the cognative overhead of tracking todo items in my head. I use Omnifocus for task management. [Mail Drop](https://support.omnigroup.com/omnifocus-mail-drop/) and [this](http://bachyaproductions.com/better-omnifocus-task-entry/) Alfred workflow help me to quickly add tasks to my Omnifocus inbox. When I think of something I need to take care of outside of work, I drop that thought into Omnifocus; this keeps those personal todo items from distracting me while I'm working.
