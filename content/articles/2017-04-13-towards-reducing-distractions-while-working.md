@@ -35,7 +35,7 @@ I've started using an app called [Focus](https://heyfocus.com/) to block distrac
 
 I've decided _not_ to block [Tweetbot](https://tapbots.com/tweetbot/). Though it can be distracting, Twitter is an invaluable way for me to learn from my professional colleagues, bounce ideas off of them, and have a good laugh.
 
-On my iPhone, iPad, and personal Laptop, I've started using [Freedom](https://freedom.to/) to block all social media during the day. This has stopped me from instinctively checking Instagram every time I walk to the bathroom or get suck on a hard problem. I highly recommend it.[^freedomapp]
+On my iPhone, iPad, and personal Laptop, I've started using [Freedom](https://freedom.refersion.com/c/c6bad) to block all social media during the day. This has stopped me from instinctively checking Instagram every time I walk to the bathroom or get suck on a hard problem. I highly recommend it.[^freedomapp]
 
 I also use Freedom to block social media for the first hour I'm up in the morning and before I go to bed.
 
