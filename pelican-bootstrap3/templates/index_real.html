@@ -1,109 +1,136 @@
-{% extends "base.html" %}
-{% block banner %}
-    {% include 'includes/banner.html' %}
-{% endblock %}
-{% block content %}
-  <div class="row">
-    <div class="col-sm-12">
-      <h1 class="text-center">Hi! I'm Tim Hopper</h1>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <h2 class="text-center">I do</h2>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-4">
-      <h3 class="text-center text-primary"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i></h3>
-      <h3 class="text-center text-primary">Data Science</h3>
-    </div>
-    <div class="col-sm-4">
-      <h3 class="text-center text-warning"><i class="fa fa-desktop fa-5x" aria-hidden="true"></i></h3>
-      <h3 class="text-center text-warning">Software Development</h3>
-    </div>
-    <div class="col-sm-4">
-      <h3 class="text-center text-success"><i class="fa fa-database fa-5x" aria-hidden="true"></i></h3>
-      <h3 class="text-center text-success">Data Engineering</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <h2 class="text-center">I work at</h2>
-    </div>
-  </div>
-
-
-        <div class="page-header">
-          <h3>Featured Posts</h3>
-        </div>
-        <div class="row">
-          {% for article in articles if FAVORITES_TAG in article.tags %}
-            <div class="col-sm-6 col-md-4">
-              <div class="thumbnail">
-                <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/{{ article.thumbnail }}"></a>
-                <div class="caption">
-                  <a href="{{ SITEURL }}/{{ article.url }}"><h4>{{ article.title }}</h4></a>
-                  <p class="sansserif">{{ article.summary | striptags }}</p>
-                  <div><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">{{ _('read more') }}</a></div>
+{% extends "base.html" %} {% block banner %} {% include 'includes/banner.html' %} {% endblock %} {% block content_override %}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <section id="services" class="white-bg">
+                <div class="container sansserif">
+                    <header class="section-header text-center">
+                        <h1 class="scrollimation scale-in">What I Do</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            <br/> Aenean purus felis, condimentum et tempor in, commodo id nibh. Fush3ce a lacus arcu.</p>
+                    </header>
+                    <div class="row services">
+                        <div class="col-md-3 col-sm-6 item scrollimation fade-up">
+                            <div class="icon text-primary">
+                                <i class="fa fa-line-chart fa-5x" aria-hidden="true"></i>
+                            </div>
+                            <h3>Machine Learning</h3>
+                            <p>I use mathematical models to learn from data and provide actionable insights.</p>
+                        </div>
+                        <div class="col-md-3 col-sm-6 item scrollimation fade-up d1">
+                            <div class="icon text-primary">
+                                <i class="fa fa-desktop fa-5x" aria-hidden="true"></i>
+                            </div>
+                            <h3>Software Development</h3>
+                            <p>I write software to solve today's problems while engineering it to be testable and maintainable tomorrow.</p>
+                        </div>
+                        <div class="col-md-3 col-sm-6 item scrollimation fade-up d2">
+                            <div class="icon text-primary">
+                                <i class="fa fa-database fa-5x" aria-hidden="true"></i>
+                            </div>
+                            <h3>Data Engineering</h3>
+                            <p>I build systems to get data in the right places at the right time and make it accessible to everyone who needs it.</p>
+                        </div>
+                        <div class="col-md-3 col-sm-6 item scrollimation fade-up d3">
+                            <div class="icon text-primary">
+                                <i class="fa fa-lightbulb-o fa-5x" aria-hidden="true"></i>
+                            </div>
+                            <h3>Problem Solving</h3>
+                            <p>Most of all, I think hard about real-world problems and how to use math, computers, and elbow-grease to solve them.</p>
+                        </div>
+                    </div>
                 </div>
-              </div>
-            </div>
-            {% if not loop.index % 2 %} <div class="clearfix visible-sm-block"></div>{% endif %}
-          {% endfor %}
+            </section>
         </div>
-
-    <div class="page-header">
-      <h3>Recent Posts</h3>
     </div>
-      <div class="row">
-        <div class="col-md-8 col-lg-9">
-          {% set recent = articles if not all_articles else all_articles %}
-          <div class="list-group">
-            {% for a in recent %}
-            {% if loop.index <= 6 %}
-            <a href="{{ SITEURL }}/{{ a.url }}" class="list-group-item">
-              <h4 class="list-group-item-heading">
+</div>
+<div class="container-fluid dark-bg">
+    <div class="row">
+        <div class="col-lg-12">
+            <section id="about" class="light-typo padding-top-bottom">
+                <div class="container-fluid">
+                    <header class="section-header text-center">
+                        <h1 class="scrollimation scale-in">About Me</h1>
+                    </header>
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <img class="img-responsive img-center img-circle scrollimation fade-left" src="/static/headshot.jpg" alt="" />
+                            <p class="text-center scrollimation fade-in">Cras convallis nunc vitae massa convallis fermentum. Fusce feugiat, sem at congue rutrum, nisl mauris facilisis tellus, vel interdum nulla enim at purus. Integer metus justo, pellentesque ac bibendum a, dapibus sed nisl. Donec vitae suscipit lacus. Vivamus lacinia nisi eget erat luctus, id mollis nunc molestie. </p>
+                        </div>
+                    </div>
+                    <p class="text-center"><a class="btn btn-meflat scrollto white icon-left" href="#contact"><i class="fa fa-arrow-down"></i>Hire Me</a></p>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="page-header">
+                <h3>Featured Posts</h3>
+            </div>
+            <div class="row">
+                {% for article in articles if FAVORITES_TAG in article.tags %}
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/{{ article.thumbnail }}"></a>
+                        <div class="caption">
+                            <a href="{{ SITEURL }}/{{ article.url }}"><h4>{{ article.title }}</h4></a>
+                            <p class="sansserif">{{ article.summary | striptags }}</p>
+                            <div><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">{{ _('read more') }}</a></div>
+                        </div>
+                    </div>
+                </div>
+                {% if not loop.index % 2 %}
+                <div class="clearfix visible-sm-block"></div>{% endif %} {% endfor %}
+            </div>
+            <div class="page-header">
+                <h3>Recent Posts</h3>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-lg-9">
+                    {% set recent = articles if not all_articles else all_articles %}
+                    <div class="list-group">
+                        {% for a in recent %} {% if loop.index
+                        <=6 %} <a href="{{ SITEURL }}/{{ a.url }}" class="list-group-item">
+                            <h4 class="list-group-item-heading">
                 <span class="categories-timestamp"><time datetime="{{ a.date.isoformat() }}">{{ a.locale_date }}</time></span>
                 &nbsp;<i class="fa fa-star" aria-hidden="true"></i>&nbsp;&nbsp;
                 {{ a.title }}
               </h4>
-              <p class="list-group-item-text sansserif">{{ a.summary | striptags }}</p>
-            </a>
-            {% endif %}
-            {% endfor %}
-          </div>
-
-        </div>
-      </div>
-
-
-    <div class="page-header">
-      <h3>Post Archives</h3>
-    </div>
-    <div class="row">
-            {% for category, articles in categories %}
-
-            <div class="col-sm-12 col-md-6">
-            <div class="panel panel-primary">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
+                            <p class="list-group-item-text sansserif">{{ a.summary | striptags }}</p>
+                            </a>
+                            {% endif %} {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <div class="page-header">
+                <h3>Post Archives</h3>
+            </div>
+            <div class="row">
+                {% for category, articles in categories %}
+                <div class="col-sm-12 col-md-6">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
                         {{ category }}
                     </h4>
+                        </div>
+                        <div class="panel-body">
+                            <ul class="sansserif">
+                                {% for article in articles %}
+                                <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                                    <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
                 </div>
-            <div class="panel-body">
-                    <ul class="sansserif">
-                    {% for article in articles %}
-                    <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-                    <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
-                    </li>
-                    {% endfor %}
-                    </ul>
-                </div>
+                {% endfor %}
             </div>
-            </div>
-            {% endfor %}
-
+        </div>
     </div>
-
+</div>
 {% endblock %}
