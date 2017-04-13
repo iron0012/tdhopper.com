@@ -68,33 +68,37 @@
 {% endblock %}
 
 {% block content %}
-    <section id="content">
-        <article>
-            <header class="page-header">
-                <h1>
-                    <a href="{{ SITEURL }}/{{ article.url }}"
-                       rel="bookmark"
-                       title="{{ _('Permalink to') }} {{ article.title|striptags }}">
-                        {{ article.title }}
-                    </a>
-                </h1>
-            </header>
-            <div class="entry-content">
-                <div class="panel">
-                    <div class="panel-body">
-                        {% include "includes/article_info.html" %}
+    <div class="row">
+        <div class="col-lg-7 col-lg-offset-2 col-md-7 col-md-offset-1">
+            <section id="content">
+                <article>
+                    <header class="page-header">
+                        <h1>
+                            <a href="{{ SITEURL }}/{{ article.url }}"
+                               rel="bookmark"
+                               title="{{ _('Permalink to') }} {{ article.title|striptags }}">
+                                {{ article.title }}
+                            </a>
+                        </h1>
+                    </header>
+                    <div class="entry-content">
+                        <div class="panel">
+                            <div class="panel-body">
+                                {% include "includes/article_info.html" %}
+                            </div>
+                        </div>
+                        {{ article.content }}
                     </div>
-                </div>
-                {{ article.content }}
-            </div>
-            <!-- /.entry-content -->
-            {% include 'includes/related-posts.html' %}
-            {% include 'includes/series.html' %}
-            {% include 'includes/addthis.html' %}
-            {% include 'includes/shariff.html' %}
-            {% include 'includes/comments.html' %}
-        </article>
-    </section>
+                    <!-- /.entry-content -->
+                    {% include 'includes/related-posts.html' %}
+                    {% include 'includes/series.html' %}
+                    {% include 'includes/addthis.html' %}
+                    {% include 'includes/shariff.html' %}
+                    {% include 'includes/comments.html' %}
+                </article>
+            </section>
+        </div>
+    </div>
 
 {% endblock %}
 
