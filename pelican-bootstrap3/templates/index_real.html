@@ -1,13 +1,14 @@
 {% extends "base.html" %} {% block banner %} {% include 'includes/banner.html' %} {% endblock %} {% block content_override %}
-<div class="container">
+<span>
+<div class="container index-body">
     <div class="row">
         <div class="col-lg-12">
-            <section id="services" class="white-bg">
+            <section id="services" class="white-bg padding-top-bottom">
                 <div class="container sansserif">
                     <header class="section-header text-center">
                         <h1 class="scrollimation scale-in">What I Do</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            <br/> Aenean purus felis, condimentum et tempor in, commodo id nibh. Fush3ce a lacus arcu.</p>
+                        <p>I use math models, comptuation, and careful thought to solve real problems.<br />
+                        I write reliable, tested, maintainable code to implement those solutions and provide value for companies.</p>
                     </header>
                     <div class="row services">
                         <div class="col-md-3 col-sm-6 item scrollimation fade-up">
@@ -44,27 +45,30 @@
         </div>
     </div>
 </div>
-<div class="container-fluid dark-bg">
+<div class="container-fluid dark-bg index-body">
     <div class="row sansserif">
         <div class="col-lg-12">
             <section id="about" class="light-typo padding-top-bottom">
-                <div class="container-fluid">
+                <div class="container">
                     <header class="section-header text-center">
                         <h1 class="scrollimation scale-in">About Me</h1>
                     </header>
                     <div class="row">
-                        <div class="col-sm-6 col-sm-offset-3">
-                            <img class="img-responsive img-center img-circle scrollimation fade-left" src="/static/headshot.jpg" alt="" />
-                            <p class="text-center scrollimation fade-in">I am a data scientist at <a href="http://distilnetworks.com">Distil Networks</a>. I previously worked as a data scientist for <a href="https://qadium.com/" title="QADIUM">Qadium, Inc</a>, data engineer at <a href="http://parse.ly">Parse.ly</a> and a data scientist at <a href="http://www.rti.org/" title="RTI International">RTI International</a>. </p>
+                        <div class="col-sm-6">
+                            <img class="img-responsive img-center img-circle scrollimation fade-left" src="/static/headshot.jpg" alt="Headshot of Tim" />
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="scrollimation fade-in">I am a data scientist at <a href="http://distilnetworks.com">Distil Networks</a>. I previously worked as a data scientist for <a href="https://qadium.com/" title="QADIUM">Qadium, Inc</a>, data engineer at <a href="http://parse.ly">Parse.ly</a> and a data scientist at <a href="http://www.rti.org/" title="RTI International">RTI International</a>. </p>
 
-                            <p class="text-center scrollimation fade-in">I have a <strong>masters in operations research</strong> from North Carolina State University where I worked with <a href="http://sitemaker.umich.edu/btdenton/home">Brian Denton</a> on reinforcement learning for healthcare scheduling. I also spent a year as a grad student in math at the <a href="http://www.math.virginia.edu" title="Department of Mathematics, U.Va.">University of Virginia</a>. My <strong>undergraduate degree from <a href="http://www.gcc.edu/Pages/Grove-City-College.aspx" title="Grove City College">Grove City College</a> is in mathematics</strong>; I also earned minors in applied physics and computer science.</p>
+                            <p class="scrollimation fade-in">I have a <strong>masters in operations research</strong> from North Carolina State University where I worked with <a href="http://sitemaker.umich.edu/btdenton/home">Brian Denton</a> on reinforcement learning for healthcare scheduling. I also spent a year as a grad student in math at the <a href="http://www.math.virginia.edu" title="Department of Mathematics, U.Va.">University of Virginia</a>. My <strong>undergraduate degree from <a href="http://www.gcc.edu/Pages/Grove-City-College.aspx" title="Grove City College">Grove City College</a> is in mathematics</strong>; I also earned minors in applied physics and computer science.</p>
 
-                            <p class="text-center scrollimation fade-in">In my free time, I enjoy conversation, reading, hiking, <a href="https://www.flickr.com/photos/tdhopper">taking pictures</a>, (more) programming, and beer.</p>
+                            <p class="scrollimation fade-in">In my free time, I enjoy conversation, reading, hiking, <a href="https://www.flickr.com/photos/tdhopper">taking pictures</a>, (more) programming, and good food.</p>
 
-                            <p class="text-center scrollimation fade-in">My full résumé is available <a href="/resume">here</a>.</p>
+                            <p class="scrollimation fade-in">My full résumé is available <a href="/resume">here</a>.</p>
+
+                            <p class="text-center"><a href="mailto:tdhopper@gmail.com?subject=Job Offer (high base salary, work remotely)"><i class="fa fa-envelope"></i> Hire Me</a></p>
                         </div>
                     </div>
-                    <p class="text-center"><a class="btn btn-meflat scrollto white icon-left" href="#contact"><i class="fa fa-arrow-down"></i>Hire Me</a></p>
                 </div>
             </section>
         </div>
@@ -139,4 +143,5 @@
         </div>
     </div>
 </div>
+</span>
 {% endblock %}
