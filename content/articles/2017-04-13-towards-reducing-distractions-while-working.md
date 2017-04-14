@@ -11,7 +11,7 @@ I've been trying to rethink distractions in my own life, particularly in my work
 
 ### Working from Home
 
-Working in an office, especially an open-floor plan office, is disasterous for staying focused. DeMarco and Lister wrote about this in [Peopleware](http://amzn.to/2px5PGj) 30 years ago, and yet open offices are the norm for startups today.
+Working in an office, especially an open-floor plan office, is disastrous for staying focused. DeMarco and Lister wrote about this in [Peopleware](http://amzn.to/2px5PGj) 30 years ago, and yet open offices are the norm for startups today.
 
 I'm much more productive by working from home in my quiet office or on my back patio. I'm finally able to spend my time thinking about hard problems rather than ways of silencing Constant Throat Clearer or Perpetual Annoying Laugher.
 
@@ -21,7 +21,7 @@ Every app and website these days wants to send you notifications. I'm aggressive
 
 ### Slack
 
-[Slack](https://slack.com/) has become the new normal for company communcation. Some would say Slack itself is ruining our focus, but having it regularly available has been essential for my own work.
+[Slack](https://slack.com/) has become the new normal for company communication. Some would say Slack itself is ruining our focus, but having it regularly available has been essential for my own work.
 
 I've come up with a few ways to take control of Slack:
 
@@ -49,15 +49,15 @@ I have two main tactics to keep email from being distracting.
 * I aggressively unsubscribe from mailing lists and ads.
 * I use [Sanebox](https://sanebox.com/t/49nyh) to filter low priority messages out of my inbox.
 
-When emails only need a brief reply, I tend to write responses ASAP. At the moment, I'm trying to break people of the expectation that I'll respond quickly. Using services like [Boomerang](http://www.boomeranggmail.com/) which lets me write emails now and have them sent later helps here.
+When emails only need a brief reply, I tend to write responses as soon as possible. At the moment, I'm trying to break people of the expectation that I'll respond quickly. Using services like [Boomerang](http://www.boomeranggmail.com/) which lets me write emails now and have them sent later helps here.
 
 ### Reading
 
-Longform reading at the computer is terrible for comprehension. As [Doug Lemov has argued](http://www.econtalk.org/archives/2016/11/doug_lemov_on_r.html), you have to get away from your computer __and__ other devices to read deeply. I do this by [printing](http://amzn.to/2oDATHj) articles or reading on my iPad with [Freedom blocking enabled](https://freedom.refersion.com/c/c6bad). I take my printouts or iPad and walk away from my desk to read.
+Long-form reading at the computer is terrible for comprehension. As [Doug Lemov has argued](http://www.econtalk.org/archives/2016/11/doug_lemov_on_r.html), you have to get away from your computer __and__ other devices to read deeply. I do this by [printing](http://amzn.to/2oDATHj) articles or reading on my iPad with [Freedom blocking enabled](https://freedom.refersion.com/c/c6bad). I take my printouts or iPad and walk away from my desk to read.
 
 ### Todo Items
 
-I'm a firm believer in the [Getting Things Done](http://amzn.to/2ovAgit) principle of reducing the cognative overhead of tracking todo items in my head. I use Omnifocus for task management. [Mail Drop](https://support.omnigroup.com/omnifocus-mail-drop/) and [this](http://bachyaproductions.com/better-omnifocus-task-entry/) Alfred workflow help me to quickly add tasks to my Omnifocus inbox. When I think of something I need to take care of outside of work, I drop that thought into Omnifocus; this keeps those personal todo items from distracting me while I'm working.
+I'm a firm believer in the [Getting Things Done](http://amzn.to/2ovAgit) principle of reducing the cognitive overhead of tracking to-do items in my head. I use Omnifocus for task management. [Mail Drop](https://support.omnigroup.com/omnifocus-mail-drop/) and [this](http://bachyaproductions.com/better-omnifocus-task-entry/) Alfred workflow help me to quickly add tasks to my Omnifocus inbox. When I think of something I need to take care of outside of work, I drop that thought into Omnifocus; this keeps those personal to-do items from distracting me while I'm working.
 
 <hr>
 
