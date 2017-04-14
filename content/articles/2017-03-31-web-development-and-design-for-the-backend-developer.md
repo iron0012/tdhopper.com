@@ -4,7 +4,7 @@ Date: 2017-03-31 08:49
 Slug: web-development-and-design-for-the-backend-developer
 Summary: An overview of the front-end development technologies I've realized I need to learn more about and links to the resources I've found valuable in learning about them.
 
-I've been tinkering with websites for nearly 20 years. My friend Hunter and I were big into making terrible Angelfire sites as pre-teens. In high school, my dad paid me to make him a webpage for his doctor's office (I used Frontpage). A year or two after that, I read Kevin Yank's "Build Your Own Database Driven Website Using PHP & MySQL" and hacked together a PHP backend for a Lord of the Rings fan site.
+I've been tinkering with websites for nearly 20 years. My friend Hunter and I were big into making terrible Angelfire sites as pre-teens. In high school, my dad paid me to make him a webpage for his doctor's office (I used Frontpage). A year or two after that, I read Kevin Yank's "Build Your Own Database Driven Website Using PHP & MySQL" and hacked together a PHP back-end for a Lord of the Rings fan site.
 
 In recent years, I've put together this blog, [shouldigetaphd.com](http://shouldigetaphd.com), and a [few other simple web-based side projects](http://tdhopper.com/about-me/). However, I haven't kept up with modern web development, and my projects have been hacked together from boilerplate or templates. I've programmed professionally since 2011, I've spent very little of that writing anything close to graphical user interfaces.
 
@@ -12,7 +12,7 @@ I have a number of other side projects that I'd like to do at some point, and mo
 
 A few months back, I decided to stop watching Netflix on the treadmill and instead use those 45 minutes each morning to learn; in particular, I've been trying to learn more about modern(ish) web design and development. My work has a subscription to [Safari Books Online](http://safaribooksonline.com) which gives me access to copious technical books and video tutorials.
 
-The number of resources available on Safari (along with Youtube, blog posts, etc) is astounding. I started many video tutorials on Safari that I quickly realized weren't going to be useful. Yet there many gems to be found, which I share here with you.
+The number of resources available on Safari (along with YouTube, blog posts, etc) is astounding. I started many video tutorials on Safari that I quickly realized weren't going to be useful. Yet there many gems to be found, which I share here with you.
 
 What follows is an overview of the technologies I've realized I need to learn more about and links to the resources I've found valuable in learning about them. If you think there are gaps I haven't yet filled or better resources than I've listed below, I'd love your feedback.
 
@@ -26,7 +26,7 @@ I've used the [Python Flask web framework](http://flask.pocoo.org/) for several 
 
 I've used [Jekyll](https://jekyllrb.com/), [Hugo](http://gohugo.io/), and [Pelican](http://docs.getpelican.com/) to create statically generated sites.
 
-I understood DNS at a high level, but never really learned what all the different DNS types were, and I didn't understand why name server changes take so long to propogate.
+I understood DNS at a high level, but never really learned what all the different DNS types were, and I didn't understand why name server changes take so long to propagate.
 
 I had some idea of what [node.js](https://nodejs.org/en/ "Node.js") and [npm](https://www.npmjs.com/ "npm") are.
 
@@ -53,7 +53,7 @@ One of the most important tools for me in learning more about web development ha
 
 #### HTML, CSS, and Bootstrap
 
-Many modern websites are [responsive](https://en.wikipedia.org/wiki/Responsive_web_design): they automatically adapt to various size screens and devices, from phones to desktops. Writing responsive websites from scratch requires deep knowledge of HTML, CSS, Javascript, and browers. Unless you're doing this professionally, you probably don't want to write a responsive site from scratch.
+Many modern websites are [responsive](https://en.wikipedia.org/wiki/Responsive_web_design): they automatically adapt to various size screens and devices, from phones to desktops. Writing responsive websites from scratch requires deep knowledge of HTML, CSS, Javascript, and browsers. Unless you're doing this professionally, you probably don't want to write a responsive site from scratch.
 
 For several projects, I've used the lightweight [Skeleton](http://getskeleton.com/) project to create simple, responsive pages.
 
@@ -118,7 +118,7 @@ I enjoyed [Software Engineering Daily's interview with Tracy Osborn on Design fo
 
 ##### User Experience Design
 
-On the topic of UX, I finally read Steve Krug's classic [Don't Make Me Think](http://amzn.to/2opg3ZG) ([Safari](https://www.safaribooksonline.com/library/view/dont-make-me/0321344758/)); it's great. Ginny Redish's [Letting Go of Words](http://amzn.to/2oDl0NY) ([Safari](https://www.safaribooksonline.com/library/view/letting-go-of/9780123859303/)) is similiarly excellent.
+On the topic of UX, I finally read Steve Krug's classic [Don't Make Me Think](http://amzn.to/2opg3ZG) ([Safari](https://www.safaribooksonline.com/library/view/dont-make-me/0321344758/)); it's great. Ginny Redish's [Letting Go of Words](http://amzn.to/2oDl0NY) ([Safari](https://www.safaribooksonline.com/library/view/letting-go-of/9780123859303/)) is similarly excellent.
 Steve Krug's [Don't Make Me Think](http://amzn.to/2opg3ZG)
 
 <a href="https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=as_li_ss_il?ie=UTF8&qid=1490967104&sr=8-1&keywords=don't+make+me+think&linkCode=li2&tag=dothopper-20&linkId=e1d12e035c29f2144ffa34f1b3d24307" target="_blank"><img border="0" class="pull-right" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321965515&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dothopper-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=dothopper-20&l=li2&o=1&a=0321965515" width="1" height="1" border="0" alt="" class="pull-right" style="border:none !important; margin:0px !important;" /> <a href="https://www.amazon.com/Letting-Words-Second-Interactive-Technologies/dp/0123859301/ref=as_li_ss_il?ie=UTF8&qid=1490967157&sr=8-1&keywords=letting+go+of+words&linkCode=li2&tag=dothopper-20&linkId=4d39c396b95150b934f8f9e77943b066" target="_blank"><img border="0" class="pull-right" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0123859301&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dothopper-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=dothopper-20&l=li2&o=1&a=0123859301" width="1" height="1" border="0" alt="" class="pull-right" style="border:none !important; margin:0px !important;" />
