@@ -1,79 +1,9 @@
 {% extends "base.html" %} {% block banner %} {% include 'includes/banner.html' %} {% endblock %} {% block content_override %}
 <span>
-<div class="container index-body">
-    <div class="row">
-        <div class="col-lg-12">
-            <section id="services" class="white-bg padding-top-bottom">
-                <div class="container sansserif">
-                    <header class="section-header text-center">
-                        <h1 class="scrollimation scale-in">What I Do</h1>
-                        <p>I use math models, comptuation, and careful thought to solve real problems.<br />
-                        I write reliable, tested, maintainable code to implement those solutions and provide value for companies.</p>
-                    </header>
-                    <div class="row services">
-                        <div class="col-md-3 col-sm-6 item scrollimation fade-up">
-                            <div class="icon text-primary">
-                                <i class="fa fa-line-chart fa-5x" aria-hidden="true"></i>
-                            </div>
-                            <h3>Machine Learning</h3>
-                            <p>I use mathematical models to learn from data and provide actionable insights.</p>
-                        </div>
-                        <div class="col-md-3 col-sm-6 item scrollimation fade-up d1">
-                            <div class="icon text-primary">
-                                <i class="fa fa-desktop fa-5x" aria-hidden="true"></i>
-                            </div>
-                            <h3>Software Development</h3>
-                            <p>I write software to solve today's problems while engineering it to be testable and maintainable tomorrow.</p>
-                        </div>
-                        <div class="col-md-3 col-sm-6 item scrollimation fade-up d2">
-                            <div class="icon text-primary">
-                                <i class="fa fa-database fa-5x" aria-hidden="true"></i>
-                            </div>
-                            <h3>Data Engineering</h3>
-                            <p>I build systems to get data in the right places at the right time and make it accessible to everyone who needs it.</p>
-                        </div>
-                        <div class="col-md-3 col-sm-6 item scrollimation fade-up d3">
-                            <div class="icon text-primary">
-                                <i class="fa fa-lightbulb-o fa-5x" aria-hidden="true"></i>
-                            </div>
-                            <h3>Problem Solving</h3>
-                            <p>Most of all, I think hard about real-world problems and how to use math, computers, and elbow-grease to solve them.</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
-    </div>
-</div>
-<div class="container-fluid dark-bg index-body">
-    <div class="row sansserif">
-        <div class="col-lg-12">
-            <section id="about" class="light-typo padding-top-bottom">
-                <div class="container">
-                    <header class="section-header text-center">
-                        <h1 class="scrollimation scale-in">About Me</h1>
-                    </header>
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <img class="img-responsive img-center img-circle scrollimation fade-left" src="/static/headshot.jpg" alt="Headshot of Tim" />
-                        </div>
-                        <div class="col-sm-6">
-                            <p class="scrollimation fade-in">I am a data scientist at <a href="http://distilnetworks.com">Distil Networks</a>. I previously worked as a data scientist for <a href="https://qadium.com/" title="QADIUM">Qadium, Inc</a>, data engineer at <a href="http://parse.ly">Parse.ly</a> and a data scientist at <a href="http://www.rti.org/" title="RTI International">RTI International</a>. </p>
+{% include 'index_includes/what_i_do.html' %}
+{% include 'index_includes/about_me.html' %}
+{% include 'index_includes/projects.html' %}
 
-                            <p class="scrollimation fade-in">I have a <strong>masters in operations research</strong> from North Carolina State University where I worked with <a href="http://sitemaker.umich.edu/btdenton/home">Brian Denton</a> on reinforcement learning for healthcare scheduling. I also spent a year as a grad student in math at the <a href="http://www.math.virginia.edu" title="Department of Mathematics, U.Va.">University of Virginia</a>. My <strong>undergraduate degree from <a href="http://www.gcc.edu/Pages/Grove-City-College.aspx" title="Grove City College">Grove City College</a> is in mathematics</strong>; I also earned minors in applied physics and computer science.</p>
-
-                            <p class="scrollimation fade-in">In my free time, I enjoy conversation, reading, hiking, <a href="https://www.flickr.com/photos/tdhopper">taking pictures</a>, (more) programming, and good food.</p>
-
-                            <p class="scrollimation fade-in">My full résumé is available <a href="/resume">here</a>.</p>
-
-                            <p class="text-center"><a href="mailto:tdhopper@gmail.com?subject=Job Offer (high base salary, work remotely)"><i class="fa fa-envelope"></i> Hire Me</a></p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
-    </div>
-</div>
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
