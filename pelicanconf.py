@@ -44,7 +44,6 @@ PROJECTS = [
 ]
 FAVORITES_TAG = 'featured'
 OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
-SITELOGO = '/static/depositphotos_102307752-stock-illustration-different-levels-of-mountains.jpg'
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = "feeds/%s"
 # CATEGORY_FEED_ATOM = "feeds/%s"
