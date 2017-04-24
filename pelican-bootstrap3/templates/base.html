@@ -122,11 +122,24 @@
             </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav">
-                {% for title, link in MENUITEMS %}
-                    <li><a href="{{ link }}">{{ title }}</a></li>
-                {% endfor %}
 
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog<span class="caret"></span></a>
+                     <ul class="dropdown-menu">
+                        <li><a class="scrollto" href="/#featured">Featured</a></li>
+                        <li><a class="scrollto" href="/#recent">Recent</a></li>
+                        <li><a class="scrollto" href="/#archive">Archive</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Me<span class="caret"></span></a>
+                     <ul class="dropdown-menu">
+                        <li><a class="scrollto" href="/#me">Who am I?</a></li>
+                        <li><a class="scrollto" href="/#portfolio">Portfolio</a></li>
+                        <li><a href="/resume">Resume</a></li>
+                    </ul>
+                </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown">
@@ -194,6 +207,8 @@
 
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.masonry.min.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.easing.1.3.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.scrollto.js"></script>
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bigfoot.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
