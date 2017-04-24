@@ -5,7 +5,6 @@ paramiko
 pelican>=3.4.0
 pycrypto
 webassets
-wsgiref
 python-gettext
 jupyter
 nbconvert>=4.0
