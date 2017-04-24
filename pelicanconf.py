@@ -34,7 +34,7 @@ ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 AVATAR = 'static/headshot.jpg'
 ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
-            "I enjoy math, computing, conversation, rea, hiking, photography, "
+            "I enjoy math, computing, conversation, reading, hiking, photography, "
             "philosophy of science, and more.")
 PROJECTS = [
     ("https://github.com/tdhopper/notes-on-dirichlet-processes/blob/master/README.md", "Notes on Dirichlet Processes"),
@@ -44,6 +44,7 @@ PROJECTS = [
 ]
 FAVORITES_TAG = 'featured'
 OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
+SITELOGO = '/static/depositphotos_102307752-stock-illustration-different-levels-of-mountains.jpg'
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = "feeds/%s"
 # CATEGORY_FEED_ATOM = "feeds/%s"
