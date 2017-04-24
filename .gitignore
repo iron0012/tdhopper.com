@@ -7,8 +7,8 @@ todo_head.txt
 *.pyc
 output/
 cache/
-templates/
 screenshot.png
 node_modules/
 srv.pid
 pelican.pid
+plugins/i18n_subsites/test_data/localized_theme/templates/
