@@ -14,15 +14,13 @@
                                 <li class="active scrollimation fade-right d1">
                                     <a href="#" data-filter="*">All</a>
                                 </li>
+
+                                {% for tag in EXTERNAL_TAGS %}
                                 <li class="scrollimation fade-right">
-                                    <a href="#" data-filter=".reading">Reading</a>
+                                    <a href="#" data-filter=".{{ tag | lower }}">{{ tag | upper }}</a>
                                 </li>
-                                <li class="scrollimation fade-left">
-                                    <a href="#" data-filter=".technical">Technical</a>
-                                </li>
-                                <li class="scrollimation fade-left d1">
-                                    <a href="#" data-filter=".humor">Humor</a>
-                                </li>
+                                {% endfor %}
+
                             </ul>
                         </div>
                         <!--End portfolio filters -->
@@ -30,71 +28,18 @@
                     <!--End portfolio header -->
                     <div class="container masonry-wrapper scrollimation fade-in">
                         <div id="projects-container">
-                            <article class="project-item reading">
-                                <img class="img-responsive project-image" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/backpacking.png" alt="">
+                            {% for project in EXTERNAL_ME %}
+                            <article class="project-item {{ project[4] | join(' ') }}">
+                                <img class="img-responsive project-image" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/{{ project[0] }}" alt="">
                                 <!--Project thumb -->
-                                <a class="hover-mask" href="http://www.ultratall-ultralight.com/">
-                                    <h2 class="project-title">Ultralight Backpacking for the Ultratall</h2>
+                                <a class="hover-mask" href="{{ project[1] }}">
+                                    <h2 class="project-title">{{ project[2] }}</h2>
                                     <!--Project Title -->
-                                    <p>Notes on gear.</p>
+                                    <p>{{ project[3] }}</p>
                                     <!--Project Subtitle -->
                                 </a>
                             </article>
-                            <article class="project-item icons technical">
-                                <img class="img-responsive reading" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/dirichlet.png" alt="">
-                                <!--Project thumb -->
-                                <a class="hover-mask" href="https://github.com/tdhopper/notes-on-dirichlet-processes">
-                                    <h2 class="project-title">Notes Nonparametric Bayesian Methods and Dirichlet Processes</h2>
-                                    <!--Project Title -->
-                                    <p></p>
-                                    <!--Project Subtitle -->
-                                </a>
-                            </article>
-                            <!--End Project Item -->
-                            <article class="project-item reading">
-                                <img class="img-responsive project-image" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/joehopper.png" alt="">
-                                <!--Project thumb -->
-                                <a class="hover-mask" href="http://joseph-hopper.com/">
-                                    <h2 class="project-title">The Works of Joseph Hopper and Joe B. Hopper</h2>
-                                    <!--Project Title -->
-                                    <p>Archive of writings.</p>
-                                    <!--Project Subtitle -->
-                                </a>
-                            </article>
-                            <!--End Project Item -->
-                            <article class="project-item technical">
-                                <img class="img-responsive project-image" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/lda.png" alt="">
-                                <!--Project thumb -->
-                                <a class="hover-mask" href="https://datamicroscopes.github.io/">
-                                    <h2 class="project-title">Bayesian nonparametric latent dirichlet allocation</h2>
-                                    <!--Project Title -->
-                                    <p>Python library.</p>
-                                    <!--Project Subtitle -->
-                                </a>
-                            </article>
-                            <!--End Project Item -->
-                            <article class="project-item reading humor">
-                                <img class="img-responsive project-image" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/phd.png" alt="">
-                                <!--Project thumb -->
-                                <a class="hover-mask" href="http://shouldigetaphd.com">
-                                    <h2 class="project-title">Should I Get a Ph.D.? </h2>
-                                    <!--Project Title -->
-                                    <p>An Interview Series.</p>
-                                    <!--Project Subtitle -->
-                                </a>
-                            </article>
-                            <!--End Project Item -->
-                            <article class="project-item reading">
-                                <img class="img-responsive project-image" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/basketball.png" alt="">
-                                <!--Project thumb -->
-                                <a class="hover-mask" href="http://doyouplayball.tumblr.com">
-                                    <h2 class="project-title">Do You Play Basketball?</h2>
-                                    <!--Project Title -->
-                                    <p>A journal.</p>
-                                    <!--Project Subtitle -->
-                                </a>
-                            </article>
-                            <!--End Project Item -->
+                            {% endfor %}
                         </div>
                         <!-- End projects -->
                     </div>
