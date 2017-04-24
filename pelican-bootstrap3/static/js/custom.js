@@ -54,6 +54,57 @@ $(document).ready(function() {
         waypointsRefresh();
     });
 
+    /*============================================
+    Tooltips
+    ==============================================*/
+    $("[data-toggle='tooltip']").tooltip();
 
+    /*============================================
+    Placeholder Detection
+    ==============================================*/
+    if (!Modernizr.input.placeholder) {
+        $('#contact-form').addClass('no-placeholder');
+    }
+
+    /*============================================
+    Scrolling Animations
+    ==============================================*/
+    $('.scrollimation').waypoint(function(){
+        $(this).addClass('in');
+    },{offset:function(){
+            var h = $(window).height();
+            var elemh = $(this).outerHeight();
+            if ( elemh > h*0.3){
+                return h*0.7;
+            }else{
+                return h - elemh;
+            }
+        }
+    });
+
+    /*============================================
+    Resize Functions
+    ==============================================*/
+    $(window).resize(function(){
+        scrollSpyRefresh();
+        waypointsRefresh();
+    });
+    /*============================================
+    Refresh scrollSpy function
+    ==============================================*/
+    function scrollSpyRefresh(){
+        setTimeout(function(){
+            $('body').scrollspy('refresh');
+        },1000);
+    }
+
+    /*============================================
+    Refresh waypoints function
+    ==============================================*/
+    function waypointsRefresh(){
+        setTimeout(function(){
+            $.waypoints('refresh');
+        },1000);
+    }
 
 });
