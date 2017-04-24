@@ -78,6 +78,8 @@
     {% if SHARIFF %}
         <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/shariff/shariff.min.css" rel="stylesheet">
     {% endif %}
+    <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/modernizr.min.js"></script>
+
 
     {% if FEED_ALL_ATOM %}
         <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate"
@@ -145,17 +147,17 @@
                         </li>
                     {% endfor %}
                 {% endif %}
-                    <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects<span class="caret"></span></a>
-                      <ul class="dropdown-menu">
-                        {% for link, url in PROJECTS %}
-                        <li><a href="{{ link }}" target="_new">{{ url }}</a></li>
-                        {% endfor %}
-                      </ul>
-                    </li>
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other Sites by Tim<span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    {% for link, url in PROJECTS %}
+                    <li><a href="{{ link }}" target="_new">{{ url }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
             {% if 'tipue_search' in PLUGINS %}
               <li><span>
                 <form class="navbar-search" action="{{ SEARCH_URL | default('/search.html') }}">
@@ -199,30 +201,20 @@
 <!-- End Banner -->
 <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
     <div class="row">
-        {% if not HIDE_SIDEBAR %}
-        <div class="col-sm-9">
-        {% else %}
         <div class="col-lg-12">
-        {% endif %}
         {% block breadcrumbs %}
         {% endblock %}
         {% block content %}
         {% endblock %}
         </div>
-        {% if not HIDE_SIDEBAR %}
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-            {% if not HIDE_SIDEBAR %}
-                {% include 'includes/sidebar.html' %}
-            {% endif %}
-            </aside>
-        </div>
-        {% endif %}
     </div>
 </div>
+{% block content_override %}
+{% endblock %}
 {% include 'includes/footer.html' %}
 
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.masonry.min.js"></script>
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bigfoot.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -234,8 +226,8 @@
 {% if BANNER %}
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
 {% endif %}
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/waypoints.min.js"></script>
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/custom.js"></script>
-{% include 'includes/github-js.html' %}
 {% include 'includes/disqus_script.html' %}
 {% include 'includes/ga.html' %}
 {% include 'includes/piwik.html' %}

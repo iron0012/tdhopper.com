@@ -1,0 +1,51 @@
+<section id="portfolio" class="gray-bg padding-top-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <section id="portfolio" class="gray-bg">
+                    <div class="container">
+                        <header class="section-header text-center">
+                            <h1 class="scrollimation scale-in">Projects</h1>
+                            <p>I've put together a variety of little projects on the web. I hope you enjoy them!</p>
+                        </header>
+                        <!--==== Portfolio Filters ====-->
+                        <div id="filter-works">
+                            <ul>
+                                <li class="active scrollimation fade-right d1">
+                                    <a href="#" data-filter="*">All</a>
+                                </li>
+
+                                {% for tag in EXTERNAL_TAGS %}
+                                <li class="scrollimation fade-right">
+                                    <a href="#" data-filter=".{{ tag | lower }}">{{ tag | upper }}</a>
+                                </li>
+                                {% endfor %}
+
+                            </ul>
+                        </div>
+                        <!--End portfolio filters -->
+                    </div>
+                    <!--End portfolio header -->
+                    <div class="container masonry-wrapper scrollimation fade-in">
+                        <div id="projects-container">
+                            {% for project in EXTERNAL_ME %}
+                            <article class="project-item {{ project[4] | join(' ') }}">
+                                <img class="img-responsive project-image" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/projects/{{ project[0] }}" alt="">
+                                <!--Project thumb -->
+                                <a class="hover-mask" href="{{ project[1] }}">
+                                    <h2 class="project-title">{{ project[2] }}</h2>
+                                    <!--Project Title -->
+                                    <p>{{ project[3] }}</p>
+                                    <!--Project Subtitle -->
+                                </a>
+                            </article>
+                            {% endfor %}
+                        </div>
+                        <!-- End projects -->
+                    </div>
+                    <!-- End container -->
+                </section>
+            </div>
+        </div>
+    </div>
+</section>
