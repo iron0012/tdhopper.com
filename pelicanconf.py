@@ -76,7 +76,7 @@ RELATIVE_URLS = True
 EXTERNAL_ME = [
     ["backpacking.png", "http://www.ultratall-ultralight.com/", "Ultralight Backpacking for the Ultratall", "Notes on gear.", ["read"]],
     ["dirichlet.png", "https://github.com/tdhopper/notes-on-dirichlet-processes",
-        "Notes Nonparametric Bayesian Methods and Dirichlet Processes", "", ["technical", "read"]],
+        "Notes on Nonparametric Bayesian Methods and Dirichlet Processes", "", ["technical", "read"]],
     ["joehopper.png", "http://joseph-hopper.com/", "The Works of Joseph Hopper and Joe B. Hopper", "Archive of writings.", ["read"]],
     ["lda.png", "https://datamicroscopes.github.io/", "Bayesian nonparametric latent dirichlet allocation", "Python library.", ["technical"]],
     ["phd.png", "http://shouldigetaphd.com", "Should I Get a Ph.D.? ", "An Interview Series.", ["read"]],
