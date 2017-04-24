@@ -54,8 +54,7 @@ OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
 # LINKS =
 GOOGLE_ANALYTICS = 'UA-43428740-1'
 USE_OPEN_GRAPH = True
-MENUITEMS = [('About Tim', '/about-me'),
-             ]
+MENUITEMS = []
 BANNER = 'static/banner.jpg'
 BANNER_SUBTITLE = 'Data Science. Python. Software Engineering. Math Jokes.'
 DISPLAY_PAGES_ON_MENU = False
@@ -92,7 +91,10 @@ EXTERNAL_ME = [
         "How I Quit My Ph.D.", "Presentation from 2017.", ["read", "presentation"]],
     ["sharing.png", "https://www.youtube.com/watch?v=uRul8QdYvqQ", "Sharing Your Side Projects Online", "Presentation from 2016.", ["watch", "presentation"]],
     ["ecig.png", "http://www.jmir.org/2015/11/e251/", "Using Twitter Data to Gain Insights into E-cigarette Marketing", "Publication from 2015.", ["read", "technical"]],
-    ["pyspark.png", "http://nbviewer.jupyter.org/format/slides/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb#/", "Introduction to PySpark", "Presentation from 2015.", ["read", "technical"]],
+    ["redis.png", "http://nbviewer.jupyter.org/github/tdhopper/Pickle-and-Redis/blob/master/Pickle%20and%20Redis.ipynb", "Pickle and Redis", "Presentation from 2012.", ["read", "technical", "presentation"]],
+    ["pyspark.png", "http://nbviewer.jupyter.org/format/slides/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb#/", "Introduction to PySpark", "Presentation from 2015.", ["read", "technical", "presentation"]],
+    ["orvideo.png", "https://www.youtube.com/watch?v=0gfBH4mC_iU", "Bringing Operations Research into the 21st Century with Online Video ", "Presentation from 2012.", ["watch", "presentation"]],
+    ["scikitlearn.png", "http://nbviewer.jupyter.org/format/slides/github/tdhopper/Research-Triangle-Analysts--Intro-to-scikit-learn/blob/master/Intro%20to%20Scikit-Learn.ipynb#/6", "Introduction to Scikit-Learn", "Presentation from 2013.", ["read", "technical", "presentation"]],
     ["simulation.png", "https://www.youtube.com/watch?v=Wy-XhT2sHgM", "Understanding Probabilistic Topic Models By Simulation",
         "Presentation from 2016.", ["watch", "presentation", "technical"]],
 ]
