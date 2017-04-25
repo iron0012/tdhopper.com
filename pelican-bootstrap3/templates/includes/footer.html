@@ -13,8 +13,12 @@
             {% if ABOUT_ME %}
               <h4>About {{ AUTHOR }}:</h4>
               <p>{{ ABOUT_ME }}</p>
-              <div><a class="btn btn-default btn-xs" href="{{ SITEURL }}/">{{ _('more about me') }}</a>
+              <div>
+                   <a class="btn btn-default btn-xs" href="{{ SITEURL }}/">{{ _('more about me') }}</a>
                    <a class="btn btn-default btn-xs" href="{{ SITEURL }}/resume">{{ _('résumé') }}</a></div>
+                   <a class="btn btn-default btn-xs" href="tel:-919-473-3145"><i class="fa fa-phone-square" aria-hidden="true"></i></a>
+                   <a class="btn btn-default btn-xs" href="mailto:tdhopper@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+              </div>
         </div>
         <div class="col-sm-3">
           <h4>Personal Projects:</h4>
