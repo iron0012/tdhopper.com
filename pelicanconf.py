@@ -94,6 +94,7 @@ EXTERNAL_ME = [
     ["redis.png", "http://nbviewer.jupyter.org/github/tdhopper/Pickle-and-Redis/blob/master/Pickle%20and%20Redis.ipynb", "Pickle and Redis", "Presentation from 2012.", ["read", "technical", "presentation"]],
     ["pyspark.png", "http://nbviewer.jupyter.org/format/slides/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb#/", "Introduction to PySpark", "Presentation from 2015.", ["read", "technical", "presentation"]],
     ["orvideo.png", "https://www.youtube.com/watch?v=0gfBH4mC_iU", "Bringing Operations Research into the 21st Century with Online Video ", "Presentation from 2012.", ["watch", "presentation"]],
+    ["olneyhymn.png", "http://olneyhymn.github.io", "Olney Hymn", "Collection of theology resources.", ["read"]],
     ["scikitlearn.png", "http://nbviewer.jupyter.org/format/slides/github/tdhopper/Research-Triangle-Analysts--Intro-to-scikit-learn/blob/master/Intro%20to%20Scikit-Learn.ipynb#/6", "Introduction to Scikit-Learn", "Presentation from 2013.", ["read", "technical", "presentation"]],
     ["simulation.png", "https://www.youtube.com/watch?v=Wy-XhT2sHgM", "Understanding Probabilistic Topic Models By Simulation",
         "Presentation from 2016.", ["watch", "presentation", "technical"]],
