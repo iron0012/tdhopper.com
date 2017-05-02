@@ -1,5 +1,6 @@
 {% extends "base.html" %} {% block banner %} {% include 'includes/banner.html' %} {% endblock %} {% block content_override %}
 <span>
+{% include 'index_includes/mobile_buttons.html' %}
 {% include 'index_includes/what_i_do.html' %}
 {% include 'index_includes/about_me.html' %}
 {% include 'index_includes/projects.html' %}
@@ -46,11 +47,11 @@
                 </div>
             </div>
             <div class="page-header" id="archive">
-                <h3>Post Archives</h3>
+                <h3>Post Archives asdf</h3>
             </div>
             <div class="row">
                 {% for category, articles in categories %}
-                <div class="col-sm-12 col-md-6">
+                <div class="col-sm-12 col-md-6" id="{{ category | replace(' ', '') }}">
                     <div class="panel panel-primary">
                         <div class="panel-heading">
                             <h4 class="panel-title">
