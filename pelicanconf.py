@@ -98,6 +98,7 @@ EXTERNAL_ME = [
     ["scikitlearn.png", "http://nbviewer.jupyter.org/format/slides/github/tdhopper/Research-Triangle-Analysts--Intro-to-scikit-learn/blob/master/Intro%20to%20Scikit-Learn.ipynb#/6", "Introduction to Scikit-Learn", "Presentation from 2013.", ["read", "technical", "presentation"]],
     ["simulation.png", "https://www.youtube.com/watch?v=Wy-XhT2sHgM", "Understanding Probabilistic Topic Models By Simulation",
         "Presentation from 2016.", ["watch", "presentation", "technical"]],
+    ["building.png", "https://www.youtube.com/watch?v=inB33qWugMw", "Build a Real Time Machine Learning System", "Presentation from 2017.", ["watch", "technical", "presentation"]],
 ]
 EXTERNAL_TAGS = set()
 for project in EXTERNAL_ME:
