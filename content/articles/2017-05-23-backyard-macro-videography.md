@@ -1,7 +1,7 @@
 Title: Backyard Macro Videography
 Date: 2017-05-23 10:28
 Slug: backyard-macro-videography
-Category: Article
+Category: Articles
 
 I've been munching on sunflower seeds while working on my back patio, and some tiny ants (_Monomorium minimum_, I think) have been enjoying the leftovers.
 
@@ -9,7 +9,7 @@ I pulled out my camera, 50mm lens, and [extension tube](https://en.wikipedia.org
 
 <div class="embed-responsive embed-responsive-16by9 pb-4">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/9mzX7LhWFA4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
-</div>
+</div><br>
 
 Here's what the recording setup looked like.
 
