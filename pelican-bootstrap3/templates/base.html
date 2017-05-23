@@ -9,7 +9,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="vBUSuH2oRjVNtKeeYfmQNZMqLGgRrcZeumV-EMSgNgc" />
 
     {% if 'liquid_tags.notebook' in PLUGINS %}
         {% include 'includes/liquid_tags_nb_header.html' %}
@@ -108,7 +107,16 @@
     </script>
 
     <!--/* Distil Networks Bot Discovery script tag */-->
-    <script type="text/javascript" src="https://cdn.distiltag.com/api/v1/script/BJsUiQhbXAc0oAsroosmsXrLoOsNQN9dY2uFMdmj?GA_CDI=1&GA_TID=UA-43428740-1" async defer></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-43428740-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
     <noscript><img src="https://cdn.distiltag.com/api/v1/noscript/BJsUiQhbXAc0oAsroosmsXrLoOsNQN9dY2uFMdmj?GA_CDI=1&GA_TID=UA-43428740-1"></noscript>
     <!--/* End Bot Discovery script tag */-->
 
