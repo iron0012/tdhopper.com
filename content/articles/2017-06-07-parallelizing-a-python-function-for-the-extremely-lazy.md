@@ -34,7 +34,7 @@ if __name__ == '__main__':
 
 #### For example
 
-```
+```text
 (lazy) ~ $ cat python_file.py
 from time import sleep
 
