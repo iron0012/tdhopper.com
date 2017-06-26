@@ -100,6 +100,7 @@ EXTERNAL_ME = [
     ["simulation.png", "https://www.youtube.com/watch?v=Wy-XhT2sHgM", "Understanding Probabilistic Topic Models By Simulation",
         "Presentation from 2016.", ["watch", "presentation", "technical"]],
     ["building.png", "https://www.youtube.com/watch?v=inB33qWugMw", "Build a Real Time Machine Learning System", "Presentation from 2017.", ["watch", "technical", "presentation"]],
+    ["pythonplot.png", "http://pythonplot.com", "Python Plotting for EDA", "An introduction and cheatsheet.", ["read", "technical"]],
 ]
 EXTERNAL_TAGS = set()
 for project in EXTERNAL_ME:
