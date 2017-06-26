@@ -1,5 +1,4 @@
 Title: Python Plotting for Exploratory Data Analysis
-
 Date: 2017-06-26 08:20
 Slug: python-plotting-for-exploratory-data-analysis
 Category: Personal Updates
