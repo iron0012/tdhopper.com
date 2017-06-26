@@ -37,6 +37,7 @@ ABOUT_ME = ("I am a data scientist and software developer in cybersecurity. "
             "I enjoy math, computing, conversation, reading, hiking, photography, "
             "philosophy of science, and more.")
 PROJECTS = [
+    ("http://pythonplot.com", "Python Plotting for EDA"),
     ("https://github.com/tdhopper/notes-on-dirichlet-processes/blob/master/README.md", "Notes on Dirichlet Processes"),
     ("http://shouldigetaphd.com/", "Should I Get a Phd?"),
     ("http://doyouplayball.tumblr.com/", "Do You Play Ball?"),
