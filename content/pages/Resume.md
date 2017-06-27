@@ -2,25 +2,6 @@ Title: Timothy D. Hopper
 Slug: resume
 Author: Tim
 
-### Education
-
-#### [North Carolina State University](https://www.ncsu.edu/ "NC State University"), *Raleigh, NC*
-##### Master of [Operations Research](https://www.or.ncsu.edu/) (August 2010 – December 2012)
-
-- Research area: Reinforcement learning methods for healthcare operations
-- Key Courses: Graph Data Mining, Machine Learning, Bayesian Networks, Linear Programming
-
-#### [University of Virginia](http://www.virginia.edu/ "The University of Virginia"), *Charlottesville, VA*
-##### Graduate Student in [Mathematics](http://www.math.virginia.edu/) (June 2009 – May 2010)
-
-- Key Courses: Introduction to Mathematical Statistics, Complex Analysis, Real Analysis, Advanced Linear Algebra
-
-#### [Grove City College](http://www.gcc.edu/Pages/Grove-City-College.aspx "Grove City College - Because Faith and Freedom Matter"), *Grove City, PA*
-##### Bachelors of Science in [Mathematics](http://www.gcc.edu/academics/SEM/mathematics/Pages/Department%20of%20Mathematics.aspx) (August 2004 – May 2008)
-
-- Minor in Applied Physics; Minor in Computer Science
-- Awards: Graduated Summa Cum Laude, Dean's List with High Distinction, Presidential Scholarship
-
 ### Experience
 
 #### [Distil Networks](http://www.distilnetworks.com/), *Raleigh, NC*
@@ -52,41 +33,32 @@ Author: Tim
 * Projects included social media analysis for public health, development of environmental GIS modeling software,
 nonlinear mixed effect modeling, and text-mining-based crime forecasting software
 
-#### [UNC Healthcare](http://www.unchealthcare.org/), *Chapel Hill, NC*
-##### Healthcare Operations Consultant (January 2012 – October 2012)
+### Education
 
-* Analyzed patient flow data from a chemotherapy clinic with discrete event simulation, machine learning, and stochastic scheduling techniques to reduce patient waiting time and nurse overtime
+#### [North Carolina State University](https://www.ncsu.edu/ "NC State University"), *Raleigh, NC*
+##### Master of [Operations Research](https://www.or.ncsu.edu/) (August 2010 – December 2012)
 
-#### [North Carolina State University](https://www.math.ncsu.edu/), *Raleigh, NC*
-##### Teaching Assistant (August 2010 – May 2012)
+- Research area: Reinforcement learning methods for healthcare operations
+- Key Courses: Graph Data Mining, Machine Learning, Bayesian Networks, Linear Programming
+- Instructor: Calculus 2
 
-* Independently taught Calculus 2 to undergraduates
+#### [University of Virginia](http://www.virginia.edu/ "The University of Virginia"), *Charlottesville, VA*
+##### Graduate Student in [Mathematics](http://www.math.virginia.edu/) (June 2009 – May 2010)
 
-#### [Kiva Systems](https://www.amazonrobotics.com/#/), *North Reading, MA*
-##### Engineering Intern – Algorithms Research (May 2011 – August 2011)
+- Key Courses: Introduction to Mathematical Statistics, Complex Analysis, Real Analysis, Advanced Linear Algebra
+- Instructor: Calculus 1 and Calculus 2
 
-- Developed algorithms to maximize performance of automated materials handling system (MHS) and tested algorithms in Java-based simulation
+#### [Grove City College](http://www.gcc.edu/Pages/Grove-City-College.aspx "Grove City College - Because Faith and Freedom Matter"), *Grove City, PA*
+##### Bachelors of Science in [Mathematics](http://www.gcc.edu/academics/SEM/mathematics/Pages/Department%20of%20Mathematics.aspx) (August 2004 – May 2008)
 
-#### [University of Virginia](http://www.math.virginia.edu/), *Charlottesville, VA*
-##### Teaching Assistant and Lecturer (August 2009 – July 2010)
-
-* Independently taught Calculus 1 & 2 to undergraduates
-
-#### [Wears Valley Ranch](https://wvr.org/), *Wears Valley, TN*
-##### Mentor and Instructor (June 2008 – May 2009)
-
-* Developed leadership through teaching and mentoring students in a home for children from crisis family situations
-
-#### [Rochester Institute of Technology & National Science Foundation](https://people.rit.edu/~dansma/index_files/NSFREU.htm), *Rochester, NY*
-##### Student Researcher (June 2007 – August 2007)
-
-* Developed algorithms in C and Mathematica for solving problems in combinatorial graph theory
-* Coded custom framework to distribute processes across fifty Unix machines
+- Minor in Applied Physics; Minor in Computer Science
+- Awards: Graduated Summa Cum Laude, Dean's List with High Distinction, Presidential Scholarship
 
 ### Open Source Contributions
 
 * [datamicroscopes](https://datamicroscopes.github.io/)
-* [Streamparse](https://github.com/parsely/streamparse)
+* [pythonplot.com](https://github.com/tdhopper/pythonplot.com)
+* [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper)
 * [Conda](https://github.com/conda/conda/commits?author=tdhopper)
 * [Impyla](https://github.com/cloudera/impyla/commits?author=tdhopper)
 * [lda](https://github.com/ariddell/lda/commits?author=tdhopper)
