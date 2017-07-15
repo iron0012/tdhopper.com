@@ -5,7 +5,7 @@ Slug: how-i-became-a-data-scientist
 Date: 2015-05-11
 Summary: An overview of my round-about journey from studying math as an undergrad to the world of data science.
 Thumbnail: static/abacus.jpg
-pull_quote: "On a meta-level, training in mathematics forces students to think carefully and solve hard problems; these skills are valuable in many fields, including data science."
+pull_quote: On a meta-level, training in mathematics forces students to think carefully and solve hard problems; these skills are valuable in many fields, including data science.
 
 
 Caution: the following post is laden with qualitative extrapolation of anecdotes and impressions. Perhaps ironically (though perhaps not), it is not a data driven approach to measuring the efficacy of math majors as data scientists. If you have a differing opinion, I would greatly appreciate you to carefully articulate it and share it with the world.
