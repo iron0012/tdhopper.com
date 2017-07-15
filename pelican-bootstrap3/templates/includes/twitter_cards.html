@@ -3,7 +3,7 @@
     {# Twitter is able to infer them from og. #}
     {% if article and article.pull_quote %}
         <meta name="twitter:card" content="summary_large_image">
-    {% elif %}
+    {% else %}
         <meta name="twitter:card" content="summary">
     {% endif %}
 
