@@ -1,12 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-
+from urllib import parse
 
 AUTHOR = u'Tim Hopper'
 SITENAME = u'tdhopper.com'
 SITEURL = 'http://www.tdhopper.com'
 TIMEZONE = 'America/New_York'
+
+
+JINJA_FILTERS = {'quote_plus': lambda u: parse.quote_plus(str(u))}
 
 THEME = 'pelican-bootstrap3'
 PLUGIN_PATHS = ["plugins"]

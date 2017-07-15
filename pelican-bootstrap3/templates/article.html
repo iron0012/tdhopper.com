@@ -39,6 +39,9 @@
         {% if article.og_image %}
             <meta property="og:image"
                   content="{{ SITEURL }}/{{ article.og_image }}"/>
+        {% elif article.pull_quote %}
+            <meta property="og:image"
+                  content="https://1i94kg8cge.execute-api.us-east-1.amazonaws.com/prod/img.png?quote={{ article.pull_quote | quote_plus }}&citation={{ article.author | quote_plus}}&description={{ article.title | quote_plus }}"/>
         {% elif OPEN_GRAPH_IMAGE %}
             <meta property="og:image"
                   content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
