@@ -58,6 +58,7 @@ OPEN_GRAPH_IMAGE = 'static/opengraphimage.jpg'
 # LINKS =
 GOOGLE_ANALYTICS = 'UA-43428740-1'
 USE_OPEN_GRAPH = True
+TWITTER_CARDS = True
 MENUITEMS = []
 BANNER = 'static/banner.jpg'
 BANNER_SUBTITLE = 'Data Science. Python. Software Engineering. Math Jokes.'
