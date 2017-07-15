@@ -3,6 +3,7 @@ Category: Tutorials
 Date: 2017-03-31 08:49
 Slug: web-development-and-design-for-the-backend-developer
 Summary: An overview of the front-end development technologies I've realized I need to learn more about and links to the resources I've found valuable in learning about them.
+pull_quote: I still have a lot of learning and a lot of practicing ahead of me, but I'm starting to feel confident that I could make headway on some of my projects. The modern frontend development landscape is massive, varied, and ever changing, but that shouldn't prohibit you from diving in if you want to.
 
 I've been tinkering with websites for nearly 20 years. My friend Hunter and I were big into making terrible Angelfire sites as pre-teens. In high school, my dad paid me to make him a webpage for his doctor's office (I used Frontpage). A year or two after that, I read Kevin Yank's "Build Your Own Database Driven Website Using PHP & MySQL" and hacked together a PHP back-end for a Lord of the Rings fan site.
 
