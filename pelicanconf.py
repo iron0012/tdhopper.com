@@ -5,7 +5,7 @@ from urllib import parse
 
 AUTHOR = u'Tim Hopper'
 SITENAME = u'tdhopper.com'
-SITEURL = 'http://www.tdhopper.com'
+SITEURL = 'https://tdhopper.com'
 TIMEZONE = 'America/New_York'
 
 
